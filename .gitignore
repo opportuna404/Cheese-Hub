@@ -1,10 +1,21 @@
-roblox_dump.txt
-wiki_parsed.txt
-*.log
-*.tmp
-.system_generated/
-scratch/
+# Sensitive raw sources and dumps
 Cheese hub.lua
 Cheese_hub_clear_backup.lua
+roblox_dump.txt
+wiki_parsed.txt
 benchmark.lua
-obfuscator.py
+
+# Build and test artifacts
+*.py
+*.log
+*.tmp
+build_*.lua
+test_*.lua
+test_*.py
+temp_*.lua
+darklua.exe
+.darklua*.json
+
+# System and scratch
+.system_generated/
+scratch/
