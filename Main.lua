@@ -1714,116 +1714,130 @@ local a={}local b={[1]='ZHP\\4(--',[2]='9/-<4',[3]='\1\0\t\21\a\17',[4]=
 'xXF\19DGYGK\25\23\5\28P_O`1+&\' 5gewj/%*n;"43 !\'3',[2486]='\4#1(<f\6+*/8?',[
 2487]='\00165dy\0261=>79}\n0\23\15M&\5\23\n\30H(\t\b\t\30\29',[2488]=
 '!\22\0\a\fH\30\3\5\b\2\25O]OR9\21\27\3\4XTD[=\b\f\30\160\196\230\234\240\234\244\167\227\236\243\171\161\179\174\236\255\252\226\230\224\240\228'
-,[2489]='<\26\26\19<\f\b\26\b\20\17\17',[2490]=
-'\215\227\246\253\236\249\255\206\226\224\250\227\220\253\254\241\251\226\197\253\233\246\242\255\252\234\246\207\207'
-,[2491]='\209\242\236\212\245\246\249\243\234\207\210\206\197\209\193\214\213',[
-2492]=
-'\245\238\134\248\206\221\216\203\220\196\243\221\221\193\198\251\216\213\220\212\207\238\216\206\211\169\162\163\183\173\170\168'
+,[2489]="'\16\21\5\29\r\t=\16\4<)",[2490]=
+'\214\227\228\250\236\254\248\202\225\247\205\215',[2491]=
+'\219\246\224\205\245\233\237\232\251',[2492]=
+'\230\221\221\197\232\195\192\222\195\213\197\215\242\216\217\229\210\219\203\223\207\207'
 ,[2493]=
-'\234\220\203\206\217\206\202\241\165\185\182\145\165\172\162\143\161\167\190',[
-2494]=
-'\155\140\228\158\168\191\186\181\162\166\157\177\173\162\133\185\176\190\147\181\179\170'
-,[2495]=
-'\152\180\178\168\173\146\143\140\135\141\144\150\180\130\133\134\158\142\169\155\139\129\132'
-,[2496]=
-'\169\131\131\155\156\189\158\159\150\154\129\133\165\157\148\149\143\153\187\139\145cuklj'
-,[2497]='\172\148\157\148uqVlki',[2498]='Yf}\127f',[2499]=']jTsMSAV',[2500]=
-'gQBS]',[2501]="\2.,67\b)*-'>8\v8'+5",[2502]="8<'1'74,\b/>/)\0256\22\4\16",[2503
-]='$\17\1\0.\6\27\b\4',[2504]='0\24\16\23\25*\f\20\30',[2505]=
-'\198\247\227\230\227\192\233\238',[2506]='\199\247\254\235\252\220\247\253\250'
-,[2507]='\228\213\205\200\193\232\192\194\219\203',[2508]=
-'\227\217\210\223\242\210\201\219\211',[2509]=
-'\138\166\164\190\191\128\161\162\181\191\166\160\151\186\184\163\170\182\182\183\185\175'
-,[2510]='\157\191\183\181\171\187\173\169\143\150\134\136',[2511]=
-'\160\138\133\129\206\164\149\148\130\150\134',[2512]='\175\157\150\155\180ex',[
-2513]='Ycb`sz',[2514]='^r~ILaBT@',[2515]='~Z\\]',[2516]='l4 07\t$2$ ',[2517]=
-'\19=72&\6:>5<)',[2518]="3\v\a\1'\19\5\n\5\15",[2519]=
-'3\31\29\18\0244\n\0\t\15\29\17\r',[2520]=
-'\194\232\236\225\233\216\224\250\238\255',[2521]=
-'\217\252\242\243\244\252\186\207\243\234\240\191\234\192\204\214\215',[2522]=
-'\246\195\196\218\204\222\216',[2523]=
-'\229\210\219\203\223\207\207\157\147\159\143\183\167\177\178\172\163\176\232\239\234\152\184\172\186\186\163'
-,[2524]=
-'\148\173\170\184\174\184\190\238\226\240\152\161\191\181\187\178\247\157\161\170\183\179\175\187\173'
-,[2525]=
-'\139\188\185\169\185\169\173\255\205\193\179\150\141\134\141\199\187\134\134\157\137\159\157'
-,[2526]=
-'\186\143\136\158\136\154\156\208\220\210\167\156\144\214\177\145\151\155\151\153'
-,[2527]='\185\148\145\141\146\154tdf9$5&((:3+$Aantx|t:;8>',[2528]=
-"Eiuz/Qfsxq{ss8[uho'>\\HDAHMKA\t\6\a",[2529]='-3>EIQNJJ@\6uMYKB^\23\14t\15l',[
-2530]='\31\0\15dYW\19`]_RNPT\\\28pQQ+$;yd\30y\26',[2531]=
-"\r\17`\3#-%+'g\28;/.vm\21p\r",[2532]='<5=70 02\30+5;58\19?2\5',[2533]=
-'!\5\6\17\1\22\21',[2534]='@\\S',[2535]='\184\163',[2536]=
-'\200\219\222\203\183\219\246\247\235\240\248\234\250',[2537]=
-'\255\253\251\135\225\199\201\196\193\221\194\202\196\212',[2538]='\149\158',[
-2539]='\239',[2540]='\229\246\249',[2541]='\219\199\202',[2542]=
-'\186\149\150\140\145\155\139ee8#',[2543]='*$,>7/Ctqaqae',[2544]='xytr',[2545]=
-'\127HM@^UA',[2546]='s[G4a\0,76|g',[2547]='go9?r-',[2548]='2@:',[2549]=
-'>\20\n\aT7\25\4\vCZ5\19]\f\n\237\238\240\163\229\230\242\238\254\236\170\249\229\234\230\251\176\255\253\228'
-,[2550]=
-'\211\231\229\246\224\245\239\168\218\239\232\254\232\250\252\176\193\224\252\243\231\243\228\235'
-,[2551]=
-'\193\246\247\231\243\227\235\185\234\233\243\250\236\250\211\210\130\209\193\195\212\194\219\193\207\207\141'
-,[2552]=
-'\226\209\209\201\248\235\198\199\219\192\200\218\202\239\240\222\223\235\243\223\207\221\221\229\232\217\222\204\218\180\178'
-,[2553]=
-'\245\192\194\216\152\250\213\214\204\209\219\203\165\225\131\175\168\229\128\174\176\172\174\235\159\168\173\189\181\165\161\243\252\134\179\182\248\232\243'
-,[2554]=
-'\132\179\179\167\138\165\166\188\161\171\187\181\144\190\191\135\176\181\165\189\173\169'
-,[2555]=
-'\133\178\180\188\185\175\131\148\173\179\129\143\134\188\183\128\133\149\141\157\153\180\188\140\137\138'
-,[2556]=
-'\179\141\133\143\155\131\159\154\207\132\158\210\160\145\153\147\148\140\156\158\219\181\142\146\158ne'
-,[2557]='\172\156\150\158\140\146\140\139ee"wk%',[2558]=
-'Zegzh.Ee\127u\127q5>Mqivrrx>MEQCJV\f',[2559]=
-'ItpkwqG\1xJTIOIM\txN\\LG]\30\31\28',[2560]=
-'xCAXJ\16a[AUAS\23nPVW]Z[\31h\22+- (/+$`',[2561]='\127HJK)/%c3,(#% &\'l?!?5"|}z'
-,[2562]='\30!#&4r\0231&3%,yr\t9.=*\5A*\2\23\4\bN',[2563]=
-'\r>\22\b\f\4D-\a\20\t\aJ\30\2\t\v\29P\2\27\31\2\16\4W\27\17\31\b\bSPQ',[2564]=
-'<\31\29\4\22T1\19\4\29\v\14[T<\f\28\232\224\231\236\232\234\225\238\251\253\170\223\237\239\226\234\228\184'
-,[2565]=
-'\195\237\231\226\234\236\232\224\168\177\170\230\227\227\225\227\249\229\250\179\230\224\248\242\235\183\180\181'
-,[2566]=
-'\194\253\255\226\240\182\209\234\246\224\254\242\189\200\246\204\205\195\196\193\133\142\229\218\204\203\192\140\228\205\202\153'
-,[2567]=
-'\224\209\193\196\205\206\198\206\138\194\207\200\142\204\209\199\215\147\214\217\217\212\211\151\148\149'
-,[2568]=
-'\224\219\217\192\210\152\244\219\201\213\211\219\159\134\174\176\183\182\160\181\180\232\225\140\167\173\170\190\160\188\180\251'
-,[2569]=
-'\150\164\175\180\161\167\173\235\170\162\188\187\162\180\161\160\244\179\186\182\191\169\181\183\185\243\240\241'
+'\235\208\212\220\208\216\237\218\163\179\167\183\133\166\178\174\190\172',[2494
+]='\129\165\167\168\137\187\189\177\165\187\188\186',[2495]=
+'\136\190\173\168\187\172\148\163\141\141\145\150\171\136\133\140\132\159\190\136\158\131\153\146\147\135\157\154\152'
+,[2496]='\172\137\153\163\128\157\148\156\135\164\135\153\144\138\156\137\136',[
+2497]='\151',[2498]='Oaaeb_|ypxckZuuhoqsLDP',[2499]=']pMQNFPLII[',[2500]='AQ\\W'
+,[2501]='\1%&1!65',[2502]='\00270&0"$',[2503]=
+'0%K7\3\22\29\f\25\31.\2\0\26\3<\29\30\17\27\2%\29\t\22\18\31\28\n\22\239\239',[
+2504]='!\17\4\3\18\v\r4\30\4\t,\30\233\229\202\234\234\241',[2505]=
+'\214\195\169\213\237\248\255\238\255\249\192\234\232\229\192\242\253\241\222\254\246\237'
+,[2506]=
+'\215\249\249\237\234\215\244\241\248\240\235\211\243\199\206\203\209\195\226\222\204\196\223'
+,[2507]=
+'\228\200\198\220\217\230\195\192\203\193\196\194\224\214\217\218\194\210\254\204\212\216\200\212\209\209'
+,[2508]='\231\209\218\209\206\204\233\209\208\172',[2509]='\156\161\184\164\187'
+,[2510]='\154\175\175\142\178\174\186\147',[2511]='\162\138\159\140\128',[2512]=
+'\185\147\147\139\140Mnofjqu@}`nn',[2513]='eczjbpqgE`sdl^smyo',[2514]=
+'[lzEiCPEK',[2515]='mCUP\\aA[S',[2516]='}2$#(\r&#',[2517]='\0020; 1\19:6?',[2518
+]='#\16\6\5\14%\v\a\28\14',[2519]='&\18\31\16?\25\f\28\22',[2520]=
+'\199\225\233\239\241\237\251\195\229\248\232\226',[2521]=
+'\222\244\255\251\184\210\255\254\236\248\236',[2522]=
+'\241\199\204\205\226\207\210',[2523]='\227\217\212\214\217\208',[2524]=
+'\132\164\168\163\166\143\172\190\170',[2525]='\136\172\182\183',[2526]=
+'\186\158\138\158\153\163\142\132\146\154',[2527]=
+'\185\151\153\156\140\172lhofw',[2528]='YeikMesp\127q',[2529]=']qwxNbPZWQGK[',[
+2530]='lBFW_bZDPE',[2531]='sV$%.&d\17)0&i\0*"8=',[2532]=
+'\02852 6 &vzx\22,>.+7:\23ADC7\17\a\19\29\26',[2533]=
+'3\4\1\17\1\17\21GEI#\24\0\f\0\vP4\n\3\24\26\4\18\n',[2534]=
+'"\23\16\6\16\2\4XTZ*\t\20\29\20\160\210\237\239\242\224\244\244',[2535]=
+'\209\230\231\247\227\243\251\169\167\171\216\229\235\175\214\248\252\242\248\240'
+,[2536]=
+'\208\251\248\230\251\253\237\255\255\166\189\174\191\143\129\145\154\132\141\234\200\201\205\195\197\203\131\128\129\153'
+,[2537]='\247\209\199\211\221\218\144\139\229\201\194\202',[2538]=
+'\251\211\207\204\153\251\204\221\214\219\209\165\165\226\129\171\182\181\253\232\138\162\174\175\166\167\161\183\255\252\253'
+,[2539]=
+'\247\233\232\147\163\187\160\164\160\170\240\131\183\163\181\188\164\237\248\149\181\186\184\180\176\184\206\207\204'
+,[2540]=
+'\229\246\249\142\179\185\253\138\183\137\132\148\138\138\130\198\170\135\135\129\142\149\215\206\163\159\144\150\154\154\146\216\217\214'
+,[2541]=
+'\219\199\202\169\141\131\143\129\145\209\166\129\145\144\204\215\180\150\155\159\149\147\153\209./'
+,[2542]='\138\159\151\153\158\138\154dHqoekbIido',[2543]=';%,',[2544]='!<',[2545
+]='wber\16r]^DYSC]',[2546]='ffb`\b, +(6+-=/',[2547]='ng',[2548]='v',[2549]='B_R'
+,[2550]='\178\172\163',[2551]='\209\252\249\229\250\242\236\252\254\161\188',[
+2552]='\131\139\133\149\158\136\250\207\200\222\200\218\220',[2553]=
+'\215\208\223\219',[2554]='\150\163\164\167\167\174\184',[2555]=
+'\152\178\160\173\250\153\179\174\173\229\192',[2556]='\206\200\128\132\203\146'
+,[2557]='\149\217\161',[2558]='Gosx-L`cb(3Zz6emtui<|}kIWG\3VLAO\\\tDD[',[2559]=
+'H~zo{lH\1qFGWCS[\tzYCJ\\JCB',[2560]='xIN\\JDB\18CFZQE]JI\27NXXM%2*& d',[2561]=
+"}HJP\31\2-.4)#3-\22\v' \18\b&(46\f\a05%=-)",[2562]=
+'\f;;?q\17<9%:2,<z\02601~\25\t\25\a\aD6\3\4\26\f\30\24LE=\n\17QCZT.713$',[2563]=
+'\24*\f\rB"".F.\27\5\v\5\bM=\n\19\3\23\a\aU\5\3\25\v\14\30\24\\^9\236\248\235\237\227\165\231\243\168\187\189\187\172\254\250\250\244\226\189\224\186\187\184'
+,[2564]='.\20\21\0',[2565]=
+'\211\245\227\247\241\246\188\167\206\229\243\226\226\234\174\251\255\177',[2566
+]='\216\225\255',[2567]='\139\141\138\139',[2568]='\245\193\219\213',[2569]=
+'\151\177\167\179\189\186\240\235\141\161\162\239\225\228\242\181\189\173\179\179\248\170\191\184\174\184\170\172\192\130\141\142\148\137\131\147\141\141\203\203\169\149\139\140\133\133\155\157\147\213\176\158\150\152\150\158\210\211\208'
 ,[2570]=
-'\134\185\187\174\188\250\151\179\170\187\173\192\178\137\154\196\205\170\142\143\129\158\133\133\131\137\207\178\158\158\135\221'
+'\134\162\182\172\172\169\225\252\156\178\179\192\135\139\155\129\129\198\148\141\138\152\142\152\158\206\137\153\159\155\128\156\144\146\214\216\162\187\189\183\221\186\144nd_'
 ,[2571]=
-'\164\149\141\136\129\130\130\138\206\139\145\131\153\211\152\156\145\159\140\151\147\149\155\221\157\147otf-*+'
-,[2572]='\164\151\149\140\158\220\168\142\143es"Po|&/\\lg{`h.F~ew\127=',[2573]=
-'Nl~hdd`h072wqy\127a}ksu{=jzMQNF\4LHSME\4\5\2',[2574]=
-'Juwjx>ORHQLJ\5\14cGG\nfIJOC_\17bZZ^\22tWXN\18',[2575]=
-'\127E@BMDY_U\19pZX\23u\\]ZPR\30M/./mjk',[2576]=
-'hSQHZ`\0170*7*(g`\5/=)?n\00518>1&07<xkwhqisnI',[2577]=
-'\0288"#9?5s80 2**ziqnskMPLMJ',[2578]=
-'\01413\22\4B \v\t\t\20\27\f\31\6LE-\29\21\16\6\28\6U%\3\25\r\15\30\15T',[2579]=
-'/\f\4\24\4\18\0\28\24\16XMZ\24\14\24\31\v\239\243\162\240\240\228\242\242\237\250\164\165\162'
+'\167\139\132\201\140\130\148\136\138\207\153\130\158\146\154\145\214\132\157\154\136\158\136\142\222\151awg#f`ci(jef|ak{uu3'
+,[2572]='\164\157\149\159\152\136\162\183\140l`lg[Vcdzl~xS]ohu',[2573]=
+'Nes+xb.\\u}wp`pr7Qjvzry>D\18\22\18\3WQSC[\6Yv',[2574]='_vbusy?TN\2',[2575]=
+'\nJX\r\28\24\0\17AGAQE\24K\23\20\21',[2576]='zNOWI%%b"0e',[2577]='m',[2578]=
+'\01413\22\4B)\17\v\1\v\rIB1\5\29\2\6\30\20R!\17\5\23\30\nP',[2579]=
+'(\3\t\24\28\20T\1\25W"\16\n\23\21\19\27_\210\228\242\226\237\247\166\230\252\169\184\188\188\173\253\251\229\245\225\188\231\187\184\185'
 ,[2580]=
-',\239\237\244\230\164\198\233\235\231\250\249\238\249\224\174\167\219\248\252\244\179\230\182\214\232\233\232\254\242\233\247\252\197\136'
+',\239\237\244\230\164\213\239\245\233\253\239\171\218\228\226\227\241\246\247\179\188\194\255\249\252\244\243\247\240\180'
 ,[2581]=
-'\195\229\243\225\224\252\248\240\184\248\232\254\242\252\190\248\204\192\198\202\197\209\201\213\136\196\203\223\207\197\128\129\158'
+'\214\253\235\250\250\242\182\227\247\185\205\242\242\249\243\246\204\205\130\194\208\133\148\144\152\137\217\223\217\201\221\128\195\159\156\157'
 ,[2582]=
-'\242\205\207\210\192\134\234\201\206\199\202\140\133\235\217\217\221\146\224\216\220\219\210\203\144'
+'\242\205\207\210\192\134\227\205\218\207\217\216\141\134\253\213\194\209\198\209\149\254\214\203\216\212\146'
 ,[2583]=
-'\241\223\209\212\196\222\214\222\154\215\221\203\223\159\172\160\169\166\228\182\170\174\165\172\185\229\226\227'
+'\244\223\205\220\216\208\152\205\213\155\248\216\205\218\178\181\226\235\150\160\181\164\189\172\234\131\173\190\175\161\249\241\179\167\244\231\225\231\248\170\174\174\184\174\241\172\206\207\204'
 ,[2584]=
-'\144\171\169\176\162\232\156\164\175\169\191\185\174\164\180\160\243\252\151\179\174\183\183\190\251\168\181\187\255\162\148\128\129\136\128\207'
+'\144\171\169\176\162\232\141\175\184\169\191\186\239\248\144\160\176\188\180\179\184\180\182\189\178\175\169\254\139\129\131\142\134\144\204'
 ,[2585]=
-'\134\188\178\190\182\190\250\185\169\191\188\179\133\193\150\140\196\141\143\131\140\140\132\203\143\130\152\138\222\223\220'
+'\146\185\175\190\182\190\250\175\179\253\138\190\130\141\135\151\196\132\146\199\218\222\218\203\159\153\155\139\131\222\129\221\218\219'
 ,[2586]=
-'\182\137\139\158\140\202\190\130\137\139\157\135\144\134\150\134\213\222\177\145\138\146\150\157\147\222\180ascwa,'
-,[2587]='\183\155\145\158\148\146\146\154\222\148ascwa%euqz~j`~ !>',[2588]=
-'Tge|n,Kaz~eszz5>Gqi\127;Nxn~IS\v',[2589]=
-'Yus|rtpx\0BGMPWGK\bOE^BYOF^\17BZDPE\25\22\23',[2590]=
-'dCOHAK\15d^E]\20s_YYU_\27oXOJ%/!&',[2591]='yTQMRZ4$b"()f4-*8.8>n;?q\'=8:5<v',[
-2592]='\0144(-:$4r\21=;7;=y\t>-(;1\3\4',[2593]=
-'\b/78\a\4\16\n\n\2F*\1\r\14\a\tM:\0\a\31R5\29\27\23\27\29WTU',[2594]=
-'!\1\14\20\20\22S\a\0\21\20\29\n\t\29\t\17\18\6\161\161\209\247\246\236\229\243\168\253\226\238\225\232\174\238\243\229\251\229\241\187'
+'\182\137\139\158\140\202\173\158\130\148\138\158\209\164\154\152\153\151\144\157\217\210\185\142\152\159\148 Haf-'
+,[2587]=
+'\176\155\129\144\148\156\220\137\145\223Fsmyak&Qaefjkh.nd1 $$5ecm}i4o301',[2588
+]='Tge|n,@o}y\127w3Rzdcj|ih<5XsAFRLH@\15',[2589]=
+'^ucrrz>kO\1dOEBVHDL\nJX\r\28\24\0\17AGAQE\24K\23\20\21',[2590]=
+'zEGZH\14c_FWA\20f]N\24\17vR[UJQ)/%c\6**3a',[2591]=
+'|WETPX`5-c\b*1":i\25 5!/!4"r2 ud`hy)/)9-p\19OLM',[2592]=
+'\24#!8*p\4"#1\'v\0043 zs\b83/\f\4B*\n\17\3\vA',[2593]=
+"\0261'6\14\6B\23\vE3\23\24\f\24K?\6\23\3\17\31\22\0T\20\2WJNJ[\15\t\v\27\243\174\241\173\170\171"
+,[2594]=
+'>\1\3\6\20R#\6\28\5\24\22YR?\19\19^2\229\230\227\239\235\165\214\238\230\226\170\200\227\236\250\166'
+,[2595]=
+'8\19\249\232\236\228\164\241\233\167\216\251\227\248\227\227\174\238\228\177\160\164\164\181\229\227\237\253\233\180\239\179\176\177'
+,[2596]=
+'\220\255\253\228\246\180\197\228\254\235\246\244\187\180\209\251\233\197\211\130\233\197\204\202\197\218\204\203\192\140\159\131\156\157\133\159\130\157'
+,[2597]=
+'\230\205\219\202\202\194\134\211\199\137\230\206\218\200\220\220\144\208\198\147\134\130\134\151\203\205\207\223\207\146\205\145\238\239'
+,[2598]=
+'\226\221\223\194\208\150\244\215\213\213\200\207\216\203\210\224\233\129\177\161\164\178\168\186\233\153\191\173\185\187\170\163\248'
+,[2599]=
+'\132\175\189\172\168\160\232\189\165\235\143\162\162\160\163\162\183\166\185\245\183\163\248\235\237\235\252\174\170\170\132\146\205\144\202\203\200'
+,[2600]=
+'\128\187\185\160\178\248\154\181\183\179\174\173\186\149\140\194\203\175\140\136\128\207\154\202\170\156\157\156\138\158\133\155\144\145\220'
+,[2601]=
+'\162\137\159\142\134\142\202\159\131\205\175\157\149\159\147\211\149\129\214\197\207\201\218\136\136\136\154\140/r,-*'
+,[2602]='\166\153\155\142\156\218\182\157\154\147\158 )Gumi&Td`gn\127$',[2603]=
+'@kq`dl,ya/]pu~u5@~tu{|y=\127k\0\19\21\19\4VRRLZ\5X\2\3\0',[2604]=
+'Dwul~<Hp{ESUBP@T\a\0kORCCJ\15DYW\19v@TUT\\\19',[2605]=
+'nESBBJ\14[_\17g]PPD@YM_I\28~WK9a#7dwqwh:>>(>a<~\127|',[2606]=
+'jUWJX\30j.%\'13$2":ib\r%>&"1?r\0245\'7#=p',[2607]=
+"\f'5$ (p%=s\0314$6,<z\24.$-+\1\r\17C\5\17FU_YJ\24\24\24\n\28_\2\\]Z",[2608]=
+'\b31(:@\'\r\22\n\17\a\14\6IB;\5\29\vO"\20\2\18\29\a_',[2609]=
+'*\1\23\6\30\22R\a\27U0\24\r\23\14\26\21\19^\30\244\161\176\180\180\165\245\243\253\237\249\164\255\163\160\161'
+,[2610]=
+'0\23\27\228\237\231\163\208\234\241\233\168\207\227\229\237\225\235\175\195\244\227\230\241\251\245\242'
+,[2611]=
+'\205\224\253\225\254\246\224\240\182\246\244\245\186\232\249\254\236\250\212\210\130\215\203\133\211\201\196\198\201\192\130'
+,[2612]=
+'\218\216\196\193\214\208\192\134\225\193\199\203\199\201\141\253\202\193\196\215\221\215\208'
+,[2613]=
+'\246\221\203\218\218\210\150\195\215\153\247\210\216\217\210\218\224\149\173\180\170\229\167\179\232\251\253\251\236\190\186\186\180\162\253\160\250\251\248'
+,[2614]=
+'\141\173\162\160\160\162\231\187\188\169\168\169\190\189\169\165\189\190\170\245\245\133\163\170\176\185\175\252\169\182\186\141\132\194\130\135\145\143\145\141\199'
 }local function _0xS(c)local d=a[c]if d then return d end local e=b[c]if not e
 then return''end local f=#e if f==0 then a[c]=''return''end local g=(c*17+42)%
 256 local h={}local i=bit32 and bit32.bxor or function(i,j)local k,l=1,0 while i
@@ -8153,261 +8167,308 @@ string[_0xS(2363)](T),S))end)local U=bit32[_0xS(2362)](J+909090,O*2)cloneref(I):
 FireServer(T,U,R,M)end end end}local function v1626()require(A[_0xS(1098)][_0xS(
 2346)]):Stop()end do local function v1627()task[_0xS(293)](function()while task[
 _0xS(294)](H[_0xS(2354)])do H[_0xS(2353)]()end end)z[_0xS(777)]:Connect(function
-()pcall(K[_0xS(2364)])end)end v1627()end local L={[_0xS(813)]={Island=_0xS(813),
-Position=Vector3[_0xS(101)](-1419,100,-76),Secrets={{Name=_0xS(2365),Address=
-_0xS(2366),Type=_0xS(2367),Desc=_0xS(2368)},{Name=_0xS(2369),Address=_0xS(2370),
-Type=_0xS(2371),Desc=_0xS(2372)},{Name=_0xS(2373),Address=_0xS(2374),Type=_0xS(
-1241),BossName=_0xS(2375),Desc=_0xS(2376)}}},[_0xS(326)]={Island=_0xS(326),
-Position=Vector3[_0xS(101)](-1120,40,3850),Secrets={{Name=_0xS(2377),Address=
-_0xS(2378),Type=_0xS(2367),Desc=_0xS(2379)},{Name=_0xS(2380),Address=_0xS(2381),
-Type=_0xS(2371),Desc=_0xS(2382)},{Name=_0xS(2383),Address=_0xS(2384),Type=_0xS(
-1241),BossName=_0xS(510),Desc=_0xS(2385)}}},[_0xS(814)]={Island=_0xS(814),
-Position=Vector3[_0xS(101)](980,20,4400),Secrets={{Name=_0xS(2386),Address=_0xS(
-2387),Type=_0xS(2367),Desc=_0xS(2388)},{Name=_0xS(2389),Address=_0xS(2390),Type=
-_0xS(2367),Desc=_0xS(2391)},{Name=_0xS(2392),Address=_0xS(2393),Type=_0xS(2371),
-Desc=_0xS(2394)}}},[_0xS(780)]={Island=_0xS(780),Position=Vector3[_0xS(101)](
-1350,40,-1320),Secrets={{Name=_0xS(2395),Address=_0xS(2396),Type=_0xS(2367),Desc
-=_0xS(2397)},{Name=_0xS(759),Address=_0xS(2398),Type=_0xS(2371),Desc=_0xS(2399)}
-,{Name=_0xS(2400),Address=_0xS(2401),Type=_0xS(1241),BossName=_0xS(39),Desc=
-_0xS(2402)}}},[_0xS(781)]={Island=_0xS(781),Position=Vector3[_0xS(101)](-4800,20
-,4300),Secrets={{Name=_0xS(2403),Address=_0xS(2404),Type=_0xS(2367),Desc=_0xS(
-2405)},{Name=_0xS(2406),Address=_0xS(2407),Type=_0xS(2371),Desc=_0xS(2408)},{
-Name=_0xS(2409),Address=_0xS(2410),Type=_0xS(1241),BossName=_0xS(41),Desc=_0xS(
-2411)}}},[_0xS(2412)]={Island=_0xS(276),Position=Vector3[_0xS(101)](-4850,718,-
-2600),Secrets={{Name=_0xS(2413),Address=_0xS(2414),Type=_0xS(2367),Desc=_0xS(
-2415)},{Name=_0xS(2416),Address=_0xS(2417),Type=_0xS(2371),Desc=_0xS(2418)},{
-Name=_0xS(2419),Address=_0xS(2420),Type=_0xS(2371),Desc=_0xS(2421)}}},[_0xS(2422
-)]={Island=_0xS(2423),Position=Vector3[_0xS(101)](-7890,5545,-380),Secrets={{
-Name=_0xS(2424),Address=_0xS(2425),Type=_0xS(2367),Desc=_0xS(2426)},{Name=_0xS(
-2427),Address=_0xS(2428),Type=_0xS(1241),BossName=_0xS(49),Desc=_0xS(2429)},{
-Name=_0xS(2430),Address=_0xS(2431),Type=_0xS(1241),BossName=_0xS(48),Desc=_0xS(
-2432)}}},[_0xS(815)]={Island=_0xS(815),Position=Vector3[_0xS(101)](4850,15,750),
-Secrets={{Name=_0xS(2433),Address=_0xS(2434),Type=_0xS(2367),Desc=_0xS(2435)},{
-Name=_0xS(2436),Address=_0xS(2437),Type=_0xS(2367),Desc=_0xS(2438)},{Name=_0xS(
-2439),Address=_0xS(2440),Type=_0xS(1241),BossName=_0xS(43),Desc=_0xS(2441)}}},[
-_0xS(816)]={Island=_0xS(816),Position=Vector3[_0xS(101)](-1400,20,-2800),Secrets
-={{Name=_0xS(2442),Address=_0xS(2443),Type=_0xS(2367),Desc=_0xS(2444)},{Name=
-_0xS(2445),Address=_0xS(2446),Type=_0xS(2367),Desc=_0xS(2447)},{Name=_0xS(2448),
-Address=_0xS(2449),Type=_0xS(2371),Desc=_0xS(2450)}}},[_0xS(785)]={Island=_0xS(
-785),Position=Vector3[_0xS(101)](-5250,40,8500),Secrets={{Name=_0xS(2451),
-Address=_0xS(2452),Type=_0xS(2367),Desc=_0xS(2453)},{Name=_0xS(2454),Address=
-_0xS(2455),Type=_0xS(2371),Desc=_0xS(2456)},{Name=_0xS(2457),Address=_0xS(2458),
-Type=_0xS(1241),BossName=_0xS(2459),Desc=_0xS(2460)}}},[_0xS(325)]={Island=_0xS(
-325),Position=Vector3[_0xS(101)](3870,20,-3600),Secrets={{Name=_0xS(2461),
-Address=_0xS(2462),Type=_0xS(2367),Desc=_0xS(2463)},{Name=_0xS(1426),Address=
-_0xS(2464),Type=_0xS(2367),Desc=_0xS(2465)},{Name=_0xS(2466),Address=_0xS(2467),
-Type=_0xS(1241),BossName=_0xS(47),Desc=_0xS(2468)}}},[_0xS(787)]={Island=_0xS(
-2469),Position=Vector3[_0xS(101)](5120,40,4100),Secrets={{Name=_0xS(2470),
-Address=_0xS(2471),Type=_0xS(2367),Desc=_0xS(2472)},{Name=_0xS(2473),Address=
-_0xS(2474),Type=_0xS(2371),Desc=_0xS(2475)},{Name=_0xS(2476),Address=_0xS(2477),
-Type=_0xS(1241),BossName=_0xS(50),Desc=_0xS(2478)}}},[_0xS(2479)]={Island=_0xS(
-2479),Position=Vector3[_0xS(101)](-650,15,1500),Secrets={{Name=_0xS(2480),
-Address=_0xS(2481),Type=_0xS(2367),Desc=_0xS(2482)},{Name=_0xS(2483),Address=
-_0xS(2484),Type=_0xS(2367),Desc=_0xS(2485)},{Name=_0xS(2486),Address=_0xS(2487),
-Type=_0xS(2371),Desc=_0xS(2488)}}}}local M={_0xS(813),_0xS(326),_0xS(814),_0xS(
-780),_0xS(781),_0xS(2412),_0xS(2422),_0xS(815),_0xS(816),_0xS(785),_0xS(325),
-_0xS(787),_0xS(2479)}local function SecretsTP(N)if not plr[_0xS(9)]or not plr[
-_0xS(9)]:FindFirstChild(_0xS(10))then return end local O=plr[_0xS(9)][_0xS(10)]
-pcall(function()old_tp(N)end)task[_0xS(294)](0.25)if(O[_0xS(142)]-N[_0xS(142)])[
-_0xS(143)]>60 then pcall(function()O[_0xS(148)]=N end)task[_0xS(294)](0.25)end
-end local function TriggerNearbyPrompts(N)N=N or 45 local O=plr[_0xS(9)]and plr[
-_0xS(9)]:FindFirstChild(_0xS(10))if not O then return false end local P=false
-pcall(function()for R,S in pairs(workspace:GetDescendants())do if S:IsA(_0xS(748
-))and S[_0xS(242)]then local T=S[_0xS(182)]local U=T and(T:IsA(_0xS(297))and T[
-_0xS(142)]or T:IsA(_0xS(214))and T:GetPivot()[_0xS(142)])if U and(U-O[_0xS(142)]
-)[_0xS(143)]<=N then pcall(function()if fireproximityprompt then
-fireproximityprompt(S,0)else S:InputHoldBegin()task[_0xS(294)](S[_0xS(2489)]+
-0.05)S:InputHoldEnd()end P=true end)end end end end)return P end local function 
-SecretsAttack(N)N=N or 2 pcall(function()if not EquipWeapon(_0xS(156))then
-EquipWeapon(_G[_0xS(149)])end end)local O=tick()while tick()-O<N do pcall(
-function()local P=game:GetService(_0xS(19))P:SendMouseButtonEvent(0,0,0,true,
-game,1)task[_0xS(294)](0.04)P:SendMouseButtonEvent(0,0,0,false,game,1)end)task[
-_0xS(294)](0.1)end end local function GetIslandSecretsProgress()local N,O=pcall(
-function()local N=require(game[_0xS(11)][_0xS(129)][_0xS(130)])return N:
-RemoteFunction(_0xS(2490)):InvokeServer({Type=_0xS(2491)})end)if N and typeof(O)
-==_0xS(2)and O[_0xS(12)]then return O[_0xS(12)]end local P=game[_0xS(11)]:
-FindFirstChild(_0xS(31))and game[_0xS(11)][_0xS(31)]:FindFirstChild(_0xS(2490))
+()pcall(K[_0xS(2364)])end)end v1627()end pcall(function()local L=game[_0xS(7)][
+_0xS(8)]L[_0xS(1026)]:Connect(function()local M=game:GetService(_0xS(20))M:
+CaptureController()M:ClickButton2(Vector2[_0xS(101)]())end)end)local L={[_0xS(
+813)]={Island=_0xS(813),Position=Vector3[_0xS(101)](-1419,100,-76),Secrets={{
+Name=_0xS(2365),Address=_0xS(2366),Type=_0xS(2367),Desc=_0xS(2368)},{Name=_0xS(
+2369),Address=_0xS(2370),Type=_0xS(2371),Desc=_0xS(2372)},{Name=_0xS(2373),
+Address=_0xS(2374),Type=_0xS(1241),BossName=_0xS(2375),Desc=_0xS(2376)}}},[_0xS(
+326)]={Island=_0xS(326),Position=Vector3[_0xS(101)](-1120,40,3850),Secrets={{
+Name=_0xS(2377),Address=_0xS(2378),Type=_0xS(2367),Desc=_0xS(2379)},{Name=_0xS(
+2380),Address=_0xS(2381),Type=_0xS(2371),Desc=_0xS(2382)},{Name=_0xS(2383),
+Address=_0xS(2384),Type=_0xS(1241),BossName=_0xS(510),Desc=_0xS(2385)}}},[_0xS(
+814)]={Island=_0xS(814),Position=Vector3[_0xS(101)](980,20,4400),Secrets={{Name=
+_0xS(2386),Address=_0xS(2387),Type=_0xS(2367),Desc=_0xS(2388)},{Name=_0xS(2389),
+Address=_0xS(2390),Type=_0xS(2367),Desc=_0xS(2391)},{Name=_0xS(2392),Address=
+_0xS(2393),Type=_0xS(2371),Desc=_0xS(2394)}}},[_0xS(780)]={Island=_0xS(780),
+Position=Vector3[_0xS(101)](1350,40,-1320),Secrets={{Name=_0xS(2395),Address=
+_0xS(2396),Type=_0xS(2367),Desc=_0xS(2397)},{Name=_0xS(759),Address=_0xS(2398),
+Type=_0xS(2371),Desc=_0xS(2399)},{Name=_0xS(2400),Address=_0xS(2401),Type=_0xS(
+1241),BossName=_0xS(39),Desc=_0xS(2402)}}},[_0xS(781)]={Island=_0xS(781),
+Position=Vector3[_0xS(101)](-4800,20,4300),Secrets={{Name=_0xS(2403),Address=
+_0xS(2404),Type=_0xS(2367),Desc=_0xS(2405)},{Name=_0xS(2406),Address=_0xS(2407),
+Type=_0xS(2371),Desc=_0xS(2408)},{Name=_0xS(2409),Address=_0xS(2410),Type=_0xS(
+1241),BossName=_0xS(41),Desc=_0xS(2411)}}},[_0xS(2412)]={Island=_0xS(276),
+Position=Vector3[_0xS(101)](-4850,718,-2600),Secrets={{Name=_0xS(2413),Address=
+_0xS(2414),Type=_0xS(2367),Desc=_0xS(2415)},{Name=_0xS(2416),Address=_0xS(2417),
+Type=_0xS(2371),Desc=_0xS(2418)},{Name=_0xS(2419),Address=_0xS(2420),Type=_0xS(
+2371),Desc=_0xS(2421)}}},[_0xS(2422)]={Island=_0xS(2423),Position=Vector3[_0xS(
+101)](-7890,5545,-380),Secrets={{Name=_0xS(2424),Address=_0xS(2425),Type=_0xS(
+2367),Desc=_0xS(2426)},{Name=_0xS(2427),Address=_0xS(2428),Type=_0xS(1241),
+BossName=_0xS(49),Desc=_0xS(2429)},{Name=_0xS(2430),Address=_0xS(2431),Type=
+_0xS(1241),BossName=_0xS(48),Desc=_0xS(2432)}}},[_0xS(815)]={Island=_0xS(815),
+Position=Vector3[_0xS(101)](4850,15,750),Secrets={{Name=_0xS(2433),Address=_0xS(
+2434),Type=_0xS(2367),Desc=_0xS(2435)},{Name=_0xS(2436),Address=_0xS(2437),Type=
+_0xS(2367),Desc=_0xS(2438)},{Name=_0xS(2439),Address=_0xS(2440),Type=_0xS(1241),
+BossName=_0xS(43),Desc=_0xS(2441)}}},[_0xS(816)]={Island=_0xS(816),Position=
+Vector3[_0xS(101)](-1400,20,-2800),Secrets={{Name=_0xS(2442),Address=_0xS(2443),
+Type=_0xS(2367),Desc=_0xS(2444)},{Name=_0xS(2445),Address=_0xS(2446),Type=_0xS(
+2367),Desc=_0xS(2447)},{Name=_0xS(2448),Address=_0xS(2449),Type=_0xS(2371),Desc=
+_0xS(2450)}}},[_0xS(785)]={Island=_0xS(785),Position=Vector3[_0xS(101)](-5250,40
+,8500),Secrets={{Name=_0xS(2451),Address=_0xS(2452),Type=_0xS(2367),Desc=_0xS(
+2453)},{Name=_0xS(2454),Address=_0xS(2455),Type=_0xS(2371),Desc=_0xS(2456)},{
+Name=_0xS(2457),Address=_0xS(2458),Type=_0xS(1241),BossName=_0xS(2459),Desc=
+_0xS(2460)}}},[_0xS(325)]={Island=_0xS(325),Position=Vector3[_0xS(101)](3870,20,
+-3600),Secrets={{Name=_0xS(2461),Address=_0xS(2462),Type=_0xS(2367),Desc=_0xS(
+2463)},{Name=_0xS(1426),Address=_0xS(2464),Type=_0xS(2367),Desc=_0xS(2465)},{
+Name=_0xS(2466),Address=_0xS(2467),Type=_0xS(1241),BossName=_0xS(47),Desc=_0xS(
+2468)}}},[_0xS(787)]={Island=_0xS(2469),Position=Vector3[_0xS(101)](5120,40,4100
+),Secrets={{Name=_0xS(2470),Address=_0xS(2471),Type=_0xS(2367),Desc=_0xS(2472)},
+{Name=_0xS(2473),Address=_0xS(2474),Type=_0xS(2371),Desc=_0xS(2475)},{Name=_0xS(
+2476),Address=_0xS(2477),Type=_0xS(1241),BossName=_0xS(50),Desc=_0xS(2478)}}},[
+_0xS(2479)]={Island=_0xS(2479),Position=Vector3[_0xS(101)](-650,15,1500),Secrets
+={{Name=_0xS(2480),Address=_0xS(2481),Type=_0xS(2367),Desc=_0xS(2482)},{Name=
+_0xS(2483),Address=_0xS(2484),Type=_0xS(2367),Desc=_0xS(2485)},{Name=_0xS(2486),
+Address=_0xS(2487),Type=_0xS(2371),Desc=_0xS(2488)}}}}local M={_0xS(813),_0xS(
+326),_0xS(814),_0xS(780),_0xS(781),_0xS(2412),_0xS(2422),_0xS(815),_0xS(816),
+_0xS(785),_0xS(325),_0xS(787),_0xS(2479)}local function SecretsFly(N,O)O=math[
+_0xS(620)](O or 270,270)local P=plr[_0xS(9)]if not P or not P:FindFirstChild(
+_0xS(10))then return end local R=P[_0xS(10)]local S=P:FindFirstChild(_0xS(134))
+if S then S[_0xS(346)]=false end local T=R[_0xS(142)]local U=N[_0xS(142)]local V
+=(U-T)[_0xS(143)]if V<=12 then R[_0xS(148)]=N return end local W=Instance[_0xS(
+101)](_0xS(179))W[_0xS(137)]=_0xS(2489)W[_0xS(177)]=Vector3[_0xS(101)](0,0,0)W[
+_0xS(180)]=Vector3[_0xS(101)](100000,100000,100000)W[_0xS(182)]=R local X=
+Instance[_0xS(101)](_0xS(2050))X[_0xS(137)]=_0xS(2490)X[_0xS(2491)]=Vector3[
+_0xS(101)](100000,100000,100000)X[_0xS(148)]=N X[_0xS(182)]=R local Y=game:
+GetService(_0xS(22))[_0xS(1051)]:Connect(function()if plr[_0xS(9)]then for Y,Z
+in pairs(plr[_0xS(9)]:GetDescendants())do if Z:IsA(_0xS(297))then Z[_0xS(183)]=
+false end end end end)local Z={}if V>450 and T[_0xS(195)]<140 and U[_0xS(195)]<
+140 then table[_0xS(726)](Z,CFrame[_0xS(101)](T[_0xS(160)],150,T[_0xS(159)]))
+table[_0xS(726)](Z,CFrame[_0xS(101)](U[_0xS(160)],150,U[_0xS(159)]))end table[
+_0xS(726)](Z,N)for _,aa in ipairs(Z)do local ab=R[_0xS(142)]local ac=(aa[_0xS(
+142)]-ab)[_0xS(143)]if ac>5 then local ad=ac/O local ae=TweenInfo[_0xS(101)](ad,
+Enum[_0xS(344)][_0xS(345)])local af=game:GetService(_0xS(16)):Create(R,ae,{
+CFrame=aa})af:Play()local ag=false local ah=af[_0xS(349)]:Connect(function()ag=
+true end)local ai=tick()while not ag and(tick()-ai)<(ad+3)do if not _G[_0xS(2492
+)]and not _G[_0xS(2493)]then af:Cancel()break end task[_0xS(294)](0.1)end if ah
+then ah:Disconnect()end end end pcall(function()Y:Disconnect()W:Destroy()X:
+Destroy()end)task[_0xS(294)](0.15)R[_0xS(148)]=N end local function 
+TriggerNearbyPrompts(aa)aa=aa or 45 local ab=plr[_0xS(9)]and plr[_0xS(9)]:
+FindFirstChild(_0xS(10))if not ab then return false end local ac=false pcall(
+function()for ad,ae in pairs(workspace:GetDescendants())do if ae:IsA(_0xS(748))
+and ae[_0xS(242)]then local af=ae[_0xS(182)]local ag=af and(af:IsA(_0xS(297))and
+af[_0xS(142)]or af:IsA(_0xS(214))and af:GetPivot()[_0xS(142)])if ag and(ag-ab[
+_0xS(142)])[_0xS(143)]<=aa then pcall(function()if fireproximityprompt then
+fireproximityprompt(ae,0)else ae:InputHoldBegin()task[_0xS(294)](ae[_0xS(2494)]+
+0.05)ae:InputHoldEnd()end ac=true end)end end end end)return ac end local 
+function SecretsAttack(aa)aa=aa or 2.5 pcall(function()if not EquipWeapon(_0xS(
+156))then EquipWeapon(_G[_0xS(149)])end end)local ab=tick()while tick()-ab<aa do
+pcall(function()local ac=game:GetService(_0xS(19))ac:SendMouseButtonEvent(0,0,0,
+true,game,1)task[_0xS(294)](0.04)ac:SendMouseButtonEvent(0,0,0,false,game,1)end)
+task[_0xS(294)](0.08)end end local function GetIslandSecretsProgress()local aa={
+}pcall(function()local ab=require(game[_0xS(11)][_0xS(129)][_0xS(130)])local ac=
+ab:RemoteFunction(_0xS(2495)):InvokeServer({Type=_0xS(2496)})if typeof(ac)==
+_0xS(2)and ac[_0xS(12)]and typeof(ac[_0xS(12)])==_0xS(2)then for ad,ae in pairs(
+ac[_0xS(12)])do if ae==true or ae==1 or ae==2 then aa[_0xS(2497)]=true end end
+end end)pcall(function()local ab=require(game[_0xS(11)][_0xS(1861)][_0xS(2498)])
+local ac=ab:GetLoadedMoments()if ac and typeof(ac)==_0xS(2)then for ad,ae in
+pairs(ac)do if ae and(ae[_0xS(349)]==true or(ae[_0xS(2499)]and ae[_0xS(2499)]>0)
+)then aa[_0xS(2500)]=true for af,ag in pairs(L)do for ah,ai in ipairs(ag[_0xS(
+2502)])do if ai[_0xS(137)]==ad then aa[ai[_0xS(2501)] ]=true end end end end end
+end end)if next(aa)==nil then pcall(function()local ab=game[_0xS(11)]:
+FindFirstChild(_0xS(31))and game[_0xS(11)][_0xS(31)]:FindFirstChild(_0xS(2495))
 or game[_0xS(11)]:FindFirstChild(_0xS(129))and game[_0xS(11)][_0xS(129)]:
 FindFirstChild(_0xS(130))and game[_0xS(11)][_0xS(129)][_0xS(130)]:
-FindFirstChild(_0xS(2492))if P then local R,S=pcall(function()return P:
-InvokeServer({Type=_0xS(2491)})end)if R and typeof(S)==_0xS(2)and S[_0xS(12)]
-then return S[_0xS(12)]end end return{}end local function 
-GetNextAwakenedBossHint()local N,O=pcall(function()local N=require(game[_0xS(11)
-][_0xS(129)][_0xS(130)])return N:RemoteFunction(_0xS(2493)):InvokeServer()end)if
-N and typeof(O)==_0xS(2)then return O end local P=game[_0xS(11)]:FindFirstChild(
-_0xS(31))and game[_0xS(11)][_0xS(31)]:FindFirstChild(_0xS(2493))or game[_0xS(11)
-]:FindFirstChild(_0xS(129))and game[_0xS(11)][_0xS(129)]:FindFirstChild(_0xS(130
-))and game[_0xS(11)][_0xS(129)][_0xS(130)]:FindFirstChild(_0xS(2494))if P then
-local R,S=pcall(function()return P:InvokeServer()end)if R and typeof(S)==_0xS(2)
-then return S end end return nil end local function GetBonusMomentRemotes()local
-N=game[_0xS(11)]:FindFirstChild(_0xS(31))and game[_0xS(11)][_0xS(31)]:
-FindFirstChild(_0xS(2495))local O=game[_0xS(11)]:FindFirstChild(_0xS(31))and
-game[_0xS(11)][_0xS(31)]:FindFirstChild(_0xS(2496))if not N or not O then pcall(
-function()local P=require(game[_0xS(11)][_0xS(129)][_0xS(130)])N=N or P:
-RemoteEvent(_0xS(2495))O=O or P:RemoteFunction(_0xS(2496))end)end return N,O end
-local function DoZiplineRepair()local N,O=GetBonusMomentRemotes()SecretsTP(
-CFrame[_0xS(101)](-1419,136,-76))task[_0xS(294)](0.5)TriggerNearbyPrompts(50)if
-N then pcall(function()N:FireServer(_0xS(2365),_0xS(2497))end)end task[_0xS(294)
-](0.5)if O then pcall(function()O:InvokeServer(_0xS(2365),_0xS(2498),Vector3[
-_0xS(101)](-1340,136,-101),Vector3[_0xS(101)](-1450,136,-60))end)end task[_0xS(
-294)](0.5)TriggerNearbyPrompts(50)end local function DoWindmillMaintenance()
-SecretsTP(CFrame[_0xS(101)](-1120,110,3850))task[_0xS(294)](0.5)
-TriggerNearbyPrompts(40)SecretsAttack(3)local N,O=GetBonusMomentRemotes()if O
-then pcall(function()O:InvokeServer(_0xS(2377),_0xS(2499))end)end end local 
-function DoRescueHasan()SecretsTP(CFrame[_0xS(101)](980,20,4400))task[_0xS(294)
-](0.5)TriggerNearbyPrompts(60)local N=workspace[_0xS(538)]:FindFirstChild(_0xS(
-2500))if N and N:FindFirstChild(_0xS(10))then SecretsTP(N[_0xS(10)][_0xS(148)]*
-CFrame[_0xS(101)](0,0,3))task[_0xS(294)](0.4)TriggerNearbyPrompts(30)end pcall(
-function()local O=require(game[_0xS(11)][_0xS(2501)])O[_0xS(2502)](_0xS(2500))
-end)local O,P=GetBonusMomentRemotes()if P then pcall(function()P:InvokeServer(
-_0xS(2386),_0xS(2503))end)end end local function DoArchaeologistsTablet()
-SecretsTP(CFrame[_0xS(101)](1150,25,4350))task[_0xS(294)](0.5)
-TriggerNearbyPrompts(50)SecretsAttack(2)local N,O=GetBonusMomentRemotes()if O
-then for P=1,8 do pcall(function()O:InvokeServer(_0xS(2389),_0xS(2504),P)end)
-task[_0xS(294)](0.1)end end end local function DoBreakingTheIce()SecretsTP(
-CFrame[_0xS(101)](1350,40,-1320))task[_0xS(294)](0.5)TriggerNearbyPrompts(50)
-SecretsAttack(3)local N,O=GetBonusMomentRemotes()if O then pcall(function()O:
-InvokeServer(_0xS(2395),_0xS(2505))end)end end local function DoFortressFlagpole
-()SecretsTP(CFrame[_0xS(101)](-4800,200,4300))task[_0xS(294)](0.5)
-TriggerNearbyPrompts(60)local N,O=GetBonusMomentRemotes()if O then pcall(
-function()O:InvokeServer(_0xS(2403),_0xS(2506))end)end end local function 
-DoElectricFightingTeacher()SecretsTP(CFrame[_0xS(101)](-4850,718,-2600))task[
-_0xS(294)](0.5)TriggerNearbyPrompts(50)SecretsAttack(3)local N,O=
-GetBonusMomentRemotes()if O then pcall(function()O:InvokeServer(_0xS(2413),_0xS(
-2507))end)end end local function DoTempleIntel()SecretsTP(CFrame[_0xS(101)](-
-7890,5545,-380))task[_0xS(294)](0.5)TriggerNearbyPrompts(60)local N,O=
-GetBonusMomentRemotes()if O then pcall(function()O:InvokeServer(_0xS(2424),_0xS(
-2508))end)end task[_0xS(294)](1)pcall(function()local P=require(game[_0xS(11)][
-_0xS(1861)][_0xS(2509)]):GetLoadedMoments()[_0xS(2424)]if P then pcall(function(
-)P:InvokeServer(_0xS(2510))end)end end)end local function DoEscapeFromAlcatraz()
-SecretsTP(CFrame[_0xS(101)](4850,15,750))task[_0xS(294)](0.5)
-TriggerNearbyPrompts(50)SecretsAttack(3)pcall(function()local N=require(game[
-_0xS(11)][_0xS(2501)])N[_0xS(2502)](_0xS(2511))end)end local function 
-DoDonMegalo()SecretsTP(CFrame[_0xS(101)](4850,30,750))task[_0xS(294)](0.5)
-TriggerNearbyPrompts(50)local N,O=GetBonusMomentRemotes()if O then pcall(
-function()O:InvokeServer(_0xS(2436),_0xS(2512))task[_0xS(294)](0.3)O:
-InvokeServer(_0xS(2436),_0xS(2513))task[_0xS(294)](0.3)O:InvokeServer(_0xS(2436)
-,_0xS(2514))end)end end local function DoLeverJailbreak()SecretsTP(CFrame[_0xS(
-101)](4850,15,750))task[_0xS(294)](0.5)TriggerNearbyPrompts(50)local N,O=
-GetBonusMomentRemotes()if O then for P,R in ipairs({2,3,4,1})do pcall(function()
-O:InvokeServer(_0xS(2439),_0xS(2515),R)end)task[_0xS(294)](0.3)end end end local 
-function DoKingsApprentice()SecretsTP(CFrame[_0xS(101)](-1400,20,-2800))task[
-_0xS(294)](0.5)TriggerNearbyPrompts(60)local N,O=GetBonusMomentRemotes()if N
-then pcall(function()N:FireServer(_0xS(2442),_0xS(2516))end)end task[_0xS(294)](
-1)SecretsAttack(5)end local function DoLegendaryCreatorStatues()local N={Vector3
-[_0xS(101)](-1420,20,-2820),Vector3[_0xS(101)](-1380,20,-2820),Vector3[_0xS(101)
-](-1420,20,-2780),Vector3[_0xS(101)](-1380,20,-2780)}for O,P in ipairs(N)do
-SecretsTP(CFrame[_0xS(101)](P))task[_0xS(294)](0.3)TriggerNearbyPrompts(25)
-SecretsAttack(1.5)end end local function DoEvilSlimes()SecretsTP(CFrame[_0xS(101
-)](-5250,40,8500))task[_0xS(294)](0.5)TriggerNearbyPrompts(50)SecretsAttack(4)
-local N,O=GetBonusMomentRemotes()if O then pcall(function()O:InvokeServer(_0xS(
-2451),_0xS(2517))end)end end local function DoBeyondTheBubble()SecretsTP(CFrame[
-_0xS(101)](3870,20,-3600))task[_0xS(294)](0.5)TriggerNearbyPrompts(60)local N,O=
-GetBonusMomentRemotes()if O then pcall(function()O:InvokeServer(_0xS(2461),_0xS(
-2518))end)end end local function DoFishmanKarate()SecretsTP(CFrame[_0xS(101)](
-3900,25,-3550))task[_0xS(294)](0.5)TriggerNearbyPrompts(50)SecretsAttack(2)local
-N,O=GetBonusMomentRemotes()if O then pcall(function()O:InvokeServer(_0xS(1426),
-_0xS(2519))end)end end local function DoFountainPipeRepair()SecretsTP(CFrame[
-_0xS(101)](5120,40,4100))task[_0xS(294)](0.5)TriggerNearbyPrompts(60)local N,O=
-GetBonusMomentRemotes()if O then pcall(function()O:InvokeServer(_0xS(2470),_0xS(
-2520))end)end end local function DoTheFinale()SecretsTP(CFrame[_0xS(101)](-650,
-15,1500))task[_0xS(294)](0.5)TriggerNearbyPrompts(60)pcall(function()local N=
-require(game[_0xS(11)][_0xS(2501)])N[_0xS(2502)](_0xS(2521))end)end local N=p[
-_0xS(2522)]:AddLeftGroupbox(_0xS(2523))local O=p[_0xS(2522)]:AddLeftGroupbox(
-_0xS(2524))local P=p[_0xS(2522)]:AddRightGroupbox(_0xS(2525))local R=p[_0xS(2522
-)]:AddRightGroupbox(_0xS(2526))local S=N:AddLabel(_0xS(2527))local T=N:AddLabel(
-_0xS(2528))local U=_0xS(813)local V=O:AddLabel(_0xS(2529))local W=O:AddLabel(
-_0xS(2530))local X=O:AddLabel(_0xS(2531))local function 
-UpdateIslandExplorerLabels(Y)U=Y or U local Z=L[_0xS(2532)]if not Z then return
-end local _=GetIslandSecretsProgress()local aa=Z[_0xS(2522)][1]local ab=Z[_0xS(
-2522)][2]local ac=Z[_0xS(2522)][3]local ad=_[aa[_0xS(2533)] ]==true local ae=_[
-ab[_0xS(2533)] ]==true local af=_[ac[_0xS(2533)] ]==true V:SetText(_0xS(2534)..
-aa[_0xS(137)].._0xS(2535)..(ad and _0xS(2536)or _0xS(2537)).._0xS(2538)..aa[
-_0xS(281)].._0xS(2539))W:SetText(_0xS(2540)..ab[_0xS(137)].._0xS(2535)..(ae and
-_0xS(2536)or _0xS(2537)).._0xS(2538)..ab[_0xS(281)].._0xS(2539))X:SetText(_0xS(
-2541)..ac[_0xS(137)].._0xS(2535)..(af and _0xS(2536)or _0xS(2537)).._0xS(2538)..
-ac[_0xS(281)].._0xS(2539))end local function RefreshSecretsOverview()local aa=
-GetIslandSecretsProgress()local ab=0 for ac,ad in pairs(L)do for ae,af in
-ipairs(ad[_0xS(2522)])do if aa[af[_0xS(2533)] ]==true then ab=ab+1 end end end S
-:SetText(_0xS(2542)..tostring(ab).._0xS(2543))local ac=GetNextAwakenedBossHint()
-if ac and typeof(ac)==_0xS(2)and ac[_0xS(1241)]then local ad=math[_0xS(1105)](1,
-math[_0xS(2544)]((ac[_0xS(2545)]or 0)/60))T:SetText(_0xS(2546)..tostring(ac[
-_0xS(1241)]).._0xS(2538)..tostring(ac[_0xS(2093)]).._0xS(2547)..tostring(ad)..
-_0xS(2548)..tostring(ac[_0xS(1106)]).._0xS(1798))else T:SetText(_0xS(2549))end
-UpdateIslandExplorerLabels(U)end N:AddButton({Text=_0xS(2550),Func=function()
-RefreshSecretsOverview()n:Notify({Title=_0xS(594),Description=_0xS(2551),Icon=
-_0xS(596),Duration=3})end})N:AddToggle(_0xS(2552),{Text=_0xS(2553),Default=false
-,Callback=function(aa)_G[_0xS(2554)]=aa if aa then task[_0xS(293)](function()
-while _G[_0xS(2554)]and task[_0xS(294)](1)do pcall(function()local ab=
-GetIslandSecretsProgress()if not _G[_0xS(2554)]then return end if not ab[_0xS(
-2366)]then DoZiplineRepair()task[_0xS(294)](2)end if not _G[_0xS(2554)]then
-return end if not ab[_0xS(2378)]then DoWindmillMaintenance()task[_0xS(294)](2)
-end if not _G[_0xS(2554)]then return end if not ab[_0xS(2387)]then
-DoRescueHasan()task[_0xS(294)](2)end if not _G[_0xS(2554)]then return end if not
-ab[_0xS(2390)]then DoArchaeologistsTablet()task[_0xS(294)](2)end if not _G[_0xS(
-2554)]then return end if not ab[_0xS(2396)]then DoBreakingTheIce()task[_0xS(294)
-](2)end if not _G[_0xS(2554)]then return end if not ab[_0xS(2404)]then
-DoFortressFlagpole()task[_0xS(294)](2)end if not _G[_0xS(2554)]then return end
-if not ab[_0xS(2414)]then DoElectricFightingTeacher()task[_0xS(294)](2)end if
-not _G[_0xS(2554)]then return end if not ab[_0xS(2425)]then DoTempleIntel()task[
-_0xS(294)](2)end if not _G[_0xS(2554)]then return end if not ab[_0xS(2437)]then
-DoDonMegalo()task[_0xS(294)](2)end if not _G[_0xS(2554)]then return end if not
-ab[_0xS(2434)]then DoEscapeFromAlcatraz()task[_0xS(294)](2)end if not _G[_0xS(
-2554)]then return end if not ab[_0xS(2446)]then DoLegendaryCreatorStatues()task[
-_0xS(294)](2)end if not _G[_0xS(2554)]then return end if not ab[_0xS(2452)]then
-DoEvilSlimes()task[_0xS(294)](2)end if not _G[_0xS(2554)]then return end if not
-ab[_0xS(2462)]then DoBeyondTheBubble()task[_0xS(294)](2)end if not _G[_0xS(2554)
-]then return end if not ab[_0xS(2464)]then DoFishmanKarate()task[_0xS(294)](2)
-end if not _G[_0xS(2554)]then return end if not ab[_0xS(2471)]then
-DoFountainPipeRepair()task[_0xS(294)](2)end RefreshSecretsOverview()end)end end)
-end end})O:AddDropdown(_0xS(2555),{Text=_0xS(811),Values=M,Default=1,Callback=
-function(aa)U=aa UpdateIslandExplorerLabels(aa)end})O:AddButton({Text=_0xS(2556)
-,Func=function()local aa=L[_0xS(2532)]if aa then SecretsTP(CFrame[_0xS(101)](aa[
-_0xS(142)]))n:Notify({Title=_0xS(594),Description=_0xS(2557)..U,Icon=_0xS(596),
-Duration=2})end end})P:AddButton({Text=_0xS(2558),Func=function()task[_0xS(293)
-](function()n:Notify({Title=_0xS(594),Description=_0xS(2559),Icon=_0xS(596),
-Duration=3})DoZiplineRepair()RefreshSecretsOverview()end)end})P:AddButton({Text=
-_0xS(2560),Func=function()task[_0xS(293)](function()n:Notify({Title=_0xS(594),
-Description=_0xS(2561),Icon=_0xS(596),Duration=3})DoWindmillMaintenance()
-RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(2562),Func=function()
-task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2563),Icon=
-_0xS(596),Duration=3})DoRescueHasan()RefreshSecretsOverview()end)end})P:
-AddButton({Text=_0xS(2564),Func=function()task[_0xS(293)](function()n:Notify({
-Title=_0xS(594),Description=_0xS(2565),Icon=_0xS(596),Duration=3})
-DoArchaeologistsTablet()RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(
-2566),Func=function()task[_0xS(293)](function()n:Notify({Title=_0xS(594),
-Description=_0xS(2567),Icon=_0xS(596),Duration=3})DoBreakingTheIce()
-RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(2568),Func=function()
-task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2569),Icon=
-_0xS(596),Duration=3})DoFortressFlagpole()RefreshSecretsOverview()end)end})P:
-AddButton({Text=_0xS(2570),Func=function()task[_0xS(293)](function()n:Notify({
-Title=_0xS(594),Description=_0xS(2571),Icon=_0xS(596),Duration=3})
-DoElectricFightingTeacher()RefreshSecretsOverview()end)end})P:AddButton({Text=
-_0xS(2572),Func=function()task[_0xS(293)](function()n:Notify({Title=_0xS(594),
-Description=_0xS(2573),Icon=_0xS(596),Duration=3})DoTempleIntel()
-RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(2574),Func=function()
-task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2575),Icon=
-_0xS(596),Duration=3})DoDonMegalo()RefreshSecretsOverview()end)end})P:AddButton(
-{Text=_0xS(2576),Func=function()task[_0xS(293)](function()n:Notify({Title=_0xS(
-594),Description=_0xS(2577),Icon=_0xS(596),Duration=3})DoLeverJailbreak()
-RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(2578),Func=function()
-task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2579),Icon=
-_0xS(596),Duration=3})DoLegendaryCreatorStatues()RefreshSecretsOverview()end)end
-})P:AddButton({Text=_0xS(2580),Func=function()task[_0xS(293)](function()n:
-Notify({Title=_0xS(594),Description=_0xS(2581),Icon=_0xS(596),Duration=3})
-DoKingsApprentice()RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(2582)
-,Func=function()task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description=
-_0xS(2583),Icon=_0xS(596),Duration=3})DoEvilSlimes()RefreshSecretsOverview()end)
-end})P:AddButton({Text=_0xS(2584),Func=function()task[_0xS(293)](function()n:
-Notify({Title=_0xS(594),Description=_0xS(2585),Icon=_0xS(596),Duration=3})
-DoBeyondTheBubble()RefreshSecretsOverview()end)end})P:AddButton({Text=_0xS(2586)
-,Func=function()task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description=
-_0xS(2587),Icon=_0xS(596),Duration=3})DoFishmanKarate()RefreshSecretsOverview()
-end)end})P:AddButton({Text=_0xS(2588),Func=function()task[_0xS(293)](function()n
-:Notify({Title=_0xS(594),Description=_0xS(2589),Icon=_0xS(596),Duration=3})
-DoFountainPipeRepair()RefreshSecretsOverview()end)end})R:AddLabel(_0xS(2590))R:
-AddLabel(_0xS(2591))R:AddButton({Text=_0xS(2592),Func=function()task[_0xS(293)](
-function()n:Notify({Title=_0xS(594),Description=_0xS(2593),Icon=_0xS(596),
-Duration=5})DoTheFinale()RefreshSecretsOverview()end)end})task[_0xS(293)](
-function()task[_0xS(294)](3)pcall(RefreshSecretsOverview)end)n:Notify({Title=
-_0xS(594),Description=_0xS(2594),Icon=_0xS(596),Duration=5})
+FindFirstChild(_0xS(2503))if ab then local ac=ab:InvokeServer({Type=_0xS(2496)})
+if typeof(ac)==_0xS(2)and ac[_0xS(12)]and typeof(ac[_0xS(12)])==_0xS(2)then for
+ad,ae in pairs(ac[_0xS(12)])do if ae==true or ae==1 or ae==2 then aa[_0xS(2497)]
+=true end end end end end)end return aa end local function 
+GetNextAwakenedBossHint()local aa,ab=pcall(function()local aa=require(game[_0xS(
+11)][_0xS(129)][_0xS(130)])return aa:RemoteFunction(_0xS(2504)):InvokeServer()
+end)if aa and typeof(ab)==_0xS(2)then return ab end local ac=game[_0xS(11)]:
+FindFirstChild(_0xS(31))and game[_0xS(11)][_0xS(31)]:FindFirstChild(_0xS(2504))
+or game[_0xS(11)]:FindFirstChild(_0xS(129))and game[_0xS(11)][_0xS(129)]:
+FindFirstChild(_0xS(130))and game[_0xS(11)][_0xS(129)][_0xS(130)]:
+FindFirstChild(_0xS(2505))if ac then local ad,ae=pcall(function()return ac:
+InvokeServer()end)if ad and typeof(ae)==_0xS(2)then return ae end end return nil
+end local function GetBonusMomentRemotes()local aa=game[_0xS(11)]:
+FindFirstChild(_0xS(31))and game[_0xS(11)][_0xS(31)]:FindFirstChild(_0xS(2506))
+local ab=game[_0xS(11)]:FindFirstChild(_0xS(31))and game[_0xS(11)][_0xS(31)]:
+FindFirstChild(_0xS(2507))if not aa or not ab then pcall(function()local ac=
+require(game[_0xS(11)][_0xS(129)][_0xS(130)])aa=aa or ac:RemoteEvent(_0xS(2506))
+ab=ab or ac:RemoteFunction(_0xS(2507))end)end return aa,ab end local function 
+DoZiplineRepair()SecretsFly(CFrame[_0xS(101)](-1419,136,-76),270)task[_0xS(294)
+](0.5)TriggerNearbyPrompts(50)local aa,ab=GetBonusMomentRemotes()if aa then
+pcall(function()aa:FireServer(_0xS(2365),_0xS(2508))end)end task[_0xS(294)](0.5)
+if ab then pcall(function()ab:InvokeServer(_0xS(2365),_0xS(2509),Vector3[_0xS(
+101)](-1340,136,-101),Vector3[_0xS(101)](-1450,136,-60))end)end task[_0xS(294)](
+0.5)TriggerNearbyPrompts(50)end local function DoWindmillMaintenance()
+SecretsFly(CFrame[_0xS(101)](-1120,110,3850),270)task[_0xS(294)](0.5)
+TriggerNearbyPrompts(40)SecretsAttack(3.5)local aa,ab=GetBonusMomentRemotes()if
+ab then pcall(function()ab:InvokeServer(_0xS(2377),_0xS(2510))end)end end local 
+function DoRescueHasan()SecretsFly(CFrame[_0xS(101)](980,20,4400),270)task[_0xS(
+294)](0.5)TriggerNearbyPrompts(60)local aa=workspace[_0xS(538)]:FindFirstChild(
+_0xS(2511))if aa and aa:FindFirstChild(_0xS(10))then SecretsFly(aa[_0xS(10)][
+_0xS(148)]*CFrame[_0xS(101)](0,0,3),270)task[_0xS(294)](0.4)
+TriggerNearbyPrompts(30)end pcall(function()local ab=require(game[_0xS(11)][
+_0xS(2512)])ab[_0xS(2513)](_0xS(2511))end)local ab,ac=GetBonusMomentRemotes()if
+ac then pcall(function()ac:InvokeServer(_0xS(2386),_0xS(2514))end)end end local 
+function DoArchaeologistsTablet()SecretsFly(CFrame[_0xS(101)](1150,25,4350),270)
+task[_0xS(294)](0.5)TriggerNearbyPrompts(50)SecretsAttack(2)local aa,ab=
+GetBonusMomentRemotes()if ab then for ac=1,8 do pcall(function()ab:InvokeServer(
+_0xS(2389),_0xS(2515),ac)end)task[_0xS(294)](0.1)end end end local function 
+DoBreakingTheIce()SecretsFly(CFrame[_0xS(101)](1350,40,-1320),270)task[_0xS(294)
+](0.5)TriggerNearbyPrompts(50)SecretsAttack(3.5)local aa,ab=
+GetBonusMomentRemotes()if ab then pcall(function()ab:InvokeServer(_0xS(2395),
+_0xS(2516))end)end end local function DoFortressFlagpole()SecretsFly(CFrame[
+_0xS(101)](-4800,200,4300),270)task[_0xS(294)](0.5)TriggerNearbyPrompts(60)local
+aa,ab=GetBonusMomentRemotes()if ab then pcall(function()ab:InvokeServer(_0xS(
+2403),_0xS(2517))end)end end local function DoElectricFightingTeacher()
+SecretsFly(CFrame[_0xS(101)](-4850,718,-2600),270)task[_0xS(294)](0.5)
+TriggerNearbyPrompts(50)SecretsAttack(3.5)local aa,ab=GetBonusMomentRemotes()if
+ab then pcall(function()ab:InvokeServer(_0xS(2413),_0xS(2518))end)end end local 
+function DoTempleIntel()SecretsFly(CFrame[_0xS(101)](-7890,5545,-380),270)task[
+_0xS(294)](0.5)TriggerNearbyPrompts(60)local aa,ab=GetBonusMomentRemotes()if ab
+then pcall(function()ab:InvokeServer(_0xS(2424),_0xS(2519))end)end task[_0xS(294
+)](1)pcall(function()local ac=require(game[_0xS(11)][_0xS(1861)][_0xS(2498)]):
+GetLoadedMoments()[_0xS(2424)]if ac then pcall(function()ac:InvokeServer(_0xS(
+2520))end)end end)end local function DoEscapeFromAlcatraz()SecretsFly(CFrame[
+_0xS(101)](4850,15,750),270)task[_0xS(294)](0.5)TriggerNearbyPrompts(50)
+SecretsAttack(3)pcall(function()local aa=require(game[_0xS(11)][_0xS(2512)])aa[
+_0xS(2513)](_0xS(2521))end)end local function DoDonMegalo()SecretsFly(CFrame[
+_0xS(101)](4850,30,750),270)task[_0xS(294)](0.5)TriggerNearbyPrompts(50)local aa
+,ab=GetBonusMomentRemotes()if ab then pcall(function()ab:InvokeServer(_0xS(2436)
+,_0xS(2522))task[_0xS(294)](0.3)ab:InvokeServer(_0xS(2436),_0xS(2523))task[_0xS(
+294)](0.3)ab:InvokeServer(_0xS(2436),_0xS(2524))end)end end local function 
+DoLeverJailbreak()SecretsFly(CFrame[_0xS(101)](4850,15,750),270)task[_0xS(294)](
+0.5)TriggerNearbyPrompts(50)local aa,ab=GetBonusMomentRemotes()if ab then for ac
+,ad in ipairs({2,3,4,1})do pcall(function()ab:InvokeServer(_0xS(2439),_0xS(2525)
+,ad)end)task[_0xS(294)](0.3)end end end local function DoKingsApprentice()
+SecretsFly(CFrame[_0xS(101)](-1400,20,-2800),270)task[_0xS(294)](0.5)
+TriggerNearbyPrompts(60)local aa,ab=GetBonusMomentRemotes()if aa then pcall(
+function()aa:FireServer(_0xS(2442),_0xS(2526))end)end task[_0xS(294)](1)
+SecretsAttack(5)end local function DoLegendaryCreatorStatues()local aa={Vector3[
+_0xS(101)](-1420,20,-2820),Vector3[_0xS(101)](-1380,20,-2820),Vector3[_0xS(101)
+](-1420,20,-2780),Vector3[_0xS(101)](-1380,20,-2780)}for ab,ac in ipairs(aa)do
+SecretsFly(CFrame[_0xS(101)](ac),270)task[_0xS(294)](0.3)TriggerNearbyPrompts(25
+)SecretsAttack(1.5)end end local function DoEvilSlimes()SecretsFly(CFrame[_0xS(
+101)](-5250,40,8500),270)task[_0xS(294)](0.5)TriggerNearbyPrompts(50)
+SecretsAttack(4)local aa,ab=GetBonusMomentRemotes()if ab then pcall(function()ab
+:InvokeServer(_0xS(2451),_0xS(2527))end)end end local function DoBeyondTheBubble
+()SecretsFly(CFrame[_0xS(101)](3870,20,-3600),270)task[_0xS(294)](0.5)
+TriggerNearbyPrompts(60)local aa,ab=GetBonusMomentRemotes()if ab then pcall(
+function()ab:InvokeServer(_0xS(2461),_0xS(2528))end)end end local function 
+DoFishmanKarate()SecretsFly(CFrame[_0xS(101)](3900,25,-3550),270)task[_0xS(294)
+](0.5)TriggerNearbyPrompts(50)SecretsAttack(2)local aa,ab=GetBonusMomentRemotes(
+)if ab then pcall(function()ab:InvokeServer(_0xS(1426),_0xS(2529))end)end end
+local function DoFountainPipeRepair()SecretsFly(CFrame[_0xS(101)](5120,40,4100),
+270)task[_0xS(294)](0.5)TriggerNearbyPrompts(60)local aa,ab=
+GetBonusMomentRemotes()if ab then pcall(function()ab:InvokeServer(_0xS(2470),
+_0xS(2530))end)end end local function DoTheFinale()SecretsFly(CFrame[_0xS(101)](
+-650,15,1500),270)task[_0xS(294)](0.5)TriggerNearbyPrompts(60)pcall(function()
+local aa=require(game[_0xS(11)][_0xS(2512)])aa[_0xS(2513)](_0xS(2531))end)end
+local aa=p[_0xS(2502)]:AddLeftGroupbox(_0xS(2532))local ab=p[_0xS(2502)]:
+AddLeftGroupbox(_0xS(2533))local ac=p[_0xS(2502)]:AddRightGroupbox(_0xS(2534))
+local ad=p[_0xS(2502)]:AddRightGroupbox(_0xS(2535))local ae=aa:AddLabel(_0xS(
+2536))local af=aa:AddLabel(_0xS(2537))local ag=aa:AddLabel(_0xS(2538))local ah=
+_0xS(813)local ai=ab:AddLabel(_0xS(2539))local N=ab:AddLabel(_0xS(2540))local O=
+ab:AddLabel(_0xS(2541))local function UpdateIslandExplorerLabels(P,R)ah=P or ah
+local S=L[_0xS(2542)]if not S then return end local T=R or
+GetIslandSecretsProgress()local U=S[_0xS(2502)][1]local V=S[_0xS(2502)][2]local
+W=S[_0xS(2502)][3]local X=(T[U[_0xS(2501)] ]==true)or(T[U[_0xS(137)] ]==true)
+local Y=(T[V[_0xS(2501)] ]==true)or(T[V[_0xS(137)] ]==true)local Z=(T[W[_0xS(
+2501)] ]==true)or(T[W[_0xS(137)] ]==true)ai:SetText(_0xS(2543)..U[_0xS(137)]..
+_0xS(2544)..(X and _0xS(2545)or _0xS(2546)).._0xS(2547)..U[_0xS(281)].._0xS(2548
+))N:SetText(_0xS(2549)..V[_0xS(137)].._0xS(2544)..(Y and _0xS(2545)or _0xS(2546)
+).._0xS(2547)..V[_0xS(281)].._0xS(2548))O:SetText(_0xS(2550)..W[_0xS(137)]..
+_0xS(2544)..(Z and _0xS(2545)or _0xS(2546)).._0xS(2547)..W[_0xS(281)].._0xS(2548
+))end local function RefreshSecretsOverview()local P=GetIslandSecretsProgress()
+local R=0 for S,T in pairs(L)do for U,V in ipairs(T[_0xS(2502)])do if(P[V[_0xS(
+2501)] ]==true)or(P[V[_0xS(137)] ]==true)then R=R+1 end end end ae:SetText(_0xS(
+2551)..tostring(R).._0xS(2552))local S=GetNextAwakenedBossHint()if S and typeof(
+S)==_0xS(2)and S[_0xS(1241)]then local T=math[_0xS(1105)](1,math[_0xS(2553)]((S[
+_0xS(2554)]or 0)/60))ag:SetText(_0xS(2555)..tostring(S[_0xS(1241)]).._0xS(2547)
+..tostring(S[_0xS(2093)]).._0xS(2556)..tostring(T).._0xS(2557)..tostring(S[_0xS(
+1106)]).._0xS(1798))else ag:SetText(_0xS(2558))end UpdateIslandExplorerLabels(ah
+,P)end aa:AddButton({Text=_0xS(2559),Func=function()RefreshSecretsOverview()n:
+Notify({Title=_0xS(594),Description=_0xS(2560),Icon=_0xS(596),Duration=2})end})
+aa:AddToggle(_0xS(2561),{Text=_0xS(2562),Default=false,Callback=function(P)_G[
+_0xS(2492)]=P if P then task[_0xS(293)](function()n:Notify({Title=_0xS(594),
+Description=_0xS(2563),Icon=_0xS(596),Duration=4})while _G[_0xS(2492)]do pcall(
+function()local R=GetIslandSecretsProgress()local S={{Name=_0xS(2365),Addr=_0xS(
+2366),Func=DoZiplineRepair,Isl=_0xS(813)},{Name=_0xS(2377),Addr=_0xS(2378),Func=
+DoWindmillMaintenance,Isl=_0xS(326)},{Name=_0xS(2386),Addr=_0xS(2387),Func=
+DoRescueHasan,Isl=_0xS(814)},{Name=_0xS(2389),Addr=_0xS(2390),Func=
+DoArchaeologistsTablet,Isl=_0xS(814)},{Name=_0xS(2395),Addr=_0xS(2396),Func=
+DoBreakingTheIce,Isl=_0xS(780)},{Name=_0xS(2403),Addr=_0xS(2404),Func=
+DoFortressFlagpole,Isl=_0xS(781)},{Name=_0xS(2413),Addr=_0xS(2414),Func=
+DoElectricFightingTeacher,Isl=_0xS(2412)},{Name=_0xS(2424),Addr=_0xS(2425),Func=
+DoTempleIntel,Isl=_0xS(2422)},{Name=_0xS(2436),Addr=_0xS(2437),Func=DoDonMegalo,
+Isl=_0xS(815)},{Name=_0xS(2433),Addr=_0xS(2434),Func=DoEscapeFromAlcatraz,Isl=
+_0xS(815)},{Name=_0xS(2445),Addr=_0xS(2446),Func=DoLegendaryCreatorStatues,Isl=
+_0xS(816)},{Name=_0xS(2451),Addr=_0xS(2452),Func=DoEvilSlimes,Isl=_0xS(785)},{
+Name=_0xS(2461),Addr=_0xS(2462),Func=DoBeyondTheBubble,Isl=_0xS(325)},{Name=
+_0xS(1426),Addr=_0xS(2464),Func=DoFishmanKarate,Isl=_0xS(325)},{Name=_0xS(2470),
+Addr=_0xS(2471),Func=DoFountainPipeRepair,Isl=_0xS(787)}}local T=false for U,V
+in ipairs(S)do if not _G[_0xS(2492)]then break end local W=(R[V[_0xS(2564)] ]==
+true)or(R[V[_0xS(137)] ]==true)if not W then T=true af:SetText(_0xS(2565)..V[
+_0xS(2566)].._0xS(2547)..V[_0xS(137)].._0xS(2567))V[_0xS(2568)]()task[_0xS(294)
+](2)R=GetIslandSecretsProgress()RefreshSecretsOverview()end end if not T then af
+:SetText(_0xS(2569))DoTheFinale()task[_0xS(294)](2)RefreshSecretsOverview()af:
+SetText(_0xS(2570))_G[_0xS(2492)]=false n:Notify({Title=_0xS(594),Description=
+_0xS(2571),Icon=_0xS(596),Duration=6})end end)task[_0xS(294)](3)end end)else af:
+SetText(_0xS(2537))end end})ab:AddDropdown(_0xS(2572),{Text=_0xS(811),Values=M,
+Default=1,Callback=function(P)ah=P UpdateIslandExplorerLabels(P)end})ab:
+AddButton({Text=_0xS(2573),Func=function()local P=L[_0xS(2542)]if P then _G[
+_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(594),Description
+=_0xS(2574)..ah.._0xS(2575),Icon=_0xS(596),Duration=3})SecretsFly(CFrame[_0xS(
+101)](P[_0xS(142)]),270)_G[_0xS(2493)]=false n:Notify({Title=_0xS(594),
+Description=_0xS(2576)..ah.._0xS(2577),Icon=_0xS(596),Duration=2})end)end end})
+ac:AddButton({Text=_0xS(2578),Func=function()_G[_0xS(2493)]=true task[_0xS(293)
+](function()n:Notify({Title=_0xS(594),Description=_0xS(2579),Icon=_0xS(596),
+Duration=3})DoZiplineRepair()_G[_0xS(2493)]=false RefreshSecretsOverview()end)
+end})ac:AddButton({Text=_0xS(2580),Func=function()_G[_0xS(2493)]=true task[_0xS(
+293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2581),Icon=_0xS(596),
+Duration=3})DoWindmillMaintenance()_G[_0xS(2493)]=false RefreshSecretsOverview()
+end)end})ac:AddButton({Text=_0xS(2582),Func=function()_G[_0xS(2493)]=true task[
+_0xS(293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2583),Icon=_0xS(
+596),Duration=3})DoRescueHasan()_G[_0xS(2493)]=false RefreshSecretsOverview()end
+)end})ac:AddButton({Text=_0xS(2584),Func=function()_G[_0xS(2493)]=true task[
+_0xS(293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2585),Icon=_0xS(
+596),Duration=3})DoArchaeologistsTablet()_G[_0xS(2493)]=false
+RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2586),Func=function()_G
+[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(594),
+Description=_0xS(2587),Icon=_0xS(596),Duration=3})DoBreakingTheIce()_G[_0xS(2493
+)]=false RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2588),Func=
+function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(594
+),Description=_0xS(2589),Icon=_0xS(596),Duration=3})DoFortressFlagpole()_G[_0xS(
+2493)]=false RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2590),Func
+=function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(
+594),Description=_0xS(2591),Icon=_0xS(596),Duration=3})
+DoElectricFightingTeacher()_G[_0xS(2493)]=false RefreshSecretsOverview()end)end}
+)ac:AddButton({Text=_0xS(2592),Func=function()_G[_0xS(2493)]=true task[_0xS(293)
+](function()n:Notify({Title=_0xS(594),Description=_0xS(2593),Icon=_0xS(596),
+Duration=3})DoTempleIntel()_G[_0xS(2493)]=false RefreshSecretsOverview()end)end}
+)ac:AddButton({Text=_0xS(2594),Func=function()_G[_0xS(2493)]=true task[_0xS(293)
+](function()n:Notify({Title=_0xS(594),Description=_0xS(2595),Icon=_0xS(596),
+Duration=3})DoDonMegalo()_G[_0xS(2493)]=false RefreshSecretsOverview()end)end})
+ac:AddButton({Text=_0xS(2596),Func=function()_G[_0xS(2493)]=true task[_0xS(293)
+](function()n:Notify({Title=_0xS(594),Description=_0xS(2597),Icon=_0xS(596),
+Duration=3})DoLeverJailbreak()_G[_0xS(2493)]=false RefreshSecretsOverview()end)
+end})ac:AddButton({Text=_0xS(2598),Func=function()_G[_0xS(2493)]=true task[_0xS(
+293)](function()n:Notify({Title=_0xS(594),Description=_0xS(2599),Icon=_0xS(596),
+Duration=3})DoLegendaryCreatorStatues()_G[_0xS(2493)]=false
+RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2600),Func=function()_G
+[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(594),
+Description=_0xS(2601),Icon=_0xS(596),Duration=3})DoKingsApprentice()_G[_0xS(
+2493)]=false RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2602),Func
+=function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(
+594),Description=_0xS(2603),Icon=_0xS(596),Duration=3})DoEvilSlimes()_G[_0xS(
+2493)]=false RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2604),Func
+=function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(
+594),Description=_0xS(2605),Icon=_0xS(596),Duration=3})DoBeyondTheBubble()_G[
+_0xS(2493)]=false RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2606)
+,Func=function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=
+_0xS(594),Description=_0xS(2607),Icon=_0xS(596),Duration=3})DoFishmanKarate()_G[
+_0xS(2493)]=false RefreshSecretsOverview()end)end})ac:AddButton({Text=_0xS(2608)
+,Func=function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=
+_0xS(594),Description=_0xS(2609),Icon=_0xS(596),Duration=3})
+DoFountainPipeRepair()_G[_0xS(2493)]=false RefreshSecretsOverview()end)end})ad:
+AddLabel(_0xS(2610))ad:AddLabel(_0xS(2611))ad:AddButton({Text=_0xS(2612),Func=
+function()_G[_0xS(2493)]=true task[_0xS(293)](function()n:Notify({Title=_0xS(594
+),Description=_0xS(2613),Icon=_0xS(596),Duration=4})DoTheFinale()_G[_0xS(2493)]=
+false RefreshSecretsOverview()end)end})task[_0xS(293)](function()task[_0xS(294)
+](0.5)pcall(RefreshSecretsOverview)while task[_0xS(294)](5)do pcall(
+RefreshSecretsOverview)end end)n:Notify({Title=_0xS(594),Description=_0xS(2614),
+Icon=_0xS(596),Duration=5})
