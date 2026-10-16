@@ -400,59 +400,59 @@ local a={}local b={[1]='ZHP\\4(--',[2]='9/-<4',[3]='\1\0\t\21\a\17',[4]=
 699]='\219\248\237\234\255\222\242\233\251\237',[700]=
 '\234\199\220\217\206\224\200\207\217\213',[701]='\251\214\212\221\213\218',[702
 ]='\132\171\162\162\137\171\188\179',[703]='\137\174\190\169\183\171\140\132',[
-704]='\166\141\132\128\172\159\159\134\146\157\155\147\133',[705]=
-'\169\180\173\139rnif',[706]='Yffsz|vgf',[707]=']pLNP',[708]='zyv@RP\\SYL',[709]
-='\18.6"0,))',[710]='\0283::\0229%6<(',[711]='!\f\n\6\a\4\a\a\30\n\5\3\v\29',[
-712]='0\27\27\21\22\27\20\27\18\18',[713]=
-'\215\224\234\226\235\253\235\233\224\232',[714]='\193\249\231\213\248\243\245',
-[715]='\242\200\216\250\222\217\195\198\203',[716]=
-'\245\215\203\222\222\206\238\215\197\165\145\171\187\161\169',[717]=
-'\156\172\178\191\128\172\172\170\188\156\179\186\186',[718]=
-'\155\187\184\183\186\172\176\149\143\134\210',[719]=
-'\169\132\130\153\156\128\156\189\155\128\128',[720]='\186\159\137\151\137e',[
-721]='Nb|kucQ|xzd$',[722]='_qkTNOjIDAB',[723]=
-"\\MHPA@QA\f\24\23M_CHHLZ3n7*k\22%5'%&d?.< <=\127>=12;=w*5;",[724]=
-'|!/4"7\22/=-',[725]='\0032 <89\0206*\r22?60:\19\18',[726]='5\r\19-\b\a\0\r',[
-727]='5&=!\19\15\f:\21\23\19\15',[728]='\215\225\253\242\197\231\241',[729]=
-'\196\244\241\242\203\252\251\233\255\245',[730]=
-'\246\195\198\218\202\194\237\222\204\195\202',[731]=
-'\229\210\217\203\217\211\245\222\209\209',[732]=
-'\181\170\177\171\184\191\168\186\166\180\235\253\252\236\228\227\227\234\225\232\238\232\232'
-,[733]='\139\188\187\169\191\181\156\176\152',[734]=
-'\170\159\153\159\130\156\191\159\130\155\135\157\154\152',[735]=
-'\170\151\157\158\155\151omffvFikg{9',[736]='[`lmjx~~wqgBr`m',[737]=
-'Ox\127mCI\2PAFRNGG\nD^\rhZ^RFZ[[\24\25\22',[738]='`OF^aSTQ',[739]='kv\16 %&',[
-740]="\t9=>\23='34,055",[741]='6\4\16\23\r\6\a\v',[742]='8\28<\1\1',[743]=
-'\211\246\229\247\242',[744]='\199\227\240\243\249\204\240\247\254',[745]=
-'\229\199\213\200\196\220\222\206\239\194\192\219\213\223\198\224\221\207\211',[
-746]='\217\217\192\221\203',[747]='\146\166\170\139\191\191\184\162\160',[748]=
-'\132\189\186\174\178\179\179',[749]='\173\133\143\134\137\131\154',[750]=
-'\170\159\152\136\148\145\145N`of',[751]='ce\127h|{',[752]='hy~jvOOdLQKB',[753]=
-'IAKBU_Fu[@XS',[754]='^QQ43-/',[755]='\26.2\0313>1',[756]='\0#\14\f\23\22\n\n',[
-757]='$\16\16=\21\24\0194\23\v\20\30\14',[758]='\205\235\237\225',[759]=
-'\194\242\243\240\223\249\212\240\244\254',[760]=
-'\239\205\203\195\228\199\219\196\206\222',[761]=
-'\224\212\212\227\209\205\214\222\255\210\208\203\161\168\172\166\182',[762]=
-'\149\167\160\173\139\191\191\184\162\160',[763]=
-'\133\180\170\182\182\183\181\179\185\153\146\128\143\134',[764]=
-'\183\137\142\143',[765]='\168\152\157\158\176\148\141\139',[766]=
-'Ziycabf~vW}uwzr|',[767]='L~niw|AMq@VJJKjHXbB^K[',[768]='xO_AC\\sSA}[ERL',[769]=
-'}QI^92',[770]='\29/(5=;  97.7,.',[771]='\14>\a\4B0\1\4\20\4\0',[772]=
-'?\17\22\23 \17\20\4\20\16:\21\t\18\24\f',[773]=
-'\211\228\227\241\231\237\166\197\253\253\254\228\226',[774]=
-'\194\247\242\230\246\254\183\218\246\226',[775]=
-'\241\198\197\215\197\207\136\250\207\200\216\196\193\193\144\223\211\222\209',[
-776]='\240\193\199\196\210\214\205\234\218\219\216',[777]=
-'\145\140\150\166\175\172\134\170\181\162\187\187',[778]='\138\146\184\172',[779
-]='\178\136\152\154\143\136',[780]='\164\157\154\142\146\147\147\138\150tmg',[
-781]='D`dn\127hm',[782]='J\127xhtqqlHQW',[783]='cFMJKmEEF\\Z',[784]=
-'mUNW])-+7=\a33<&$',[785]='\22\4 +5)',[786]=
-'\v7,\t\3\v\15\r\17\0314\r\n\30\2\3\3(\29\17\28\23',[787]=
-'8\6\3\24\16\26\24\28\2\14+\28\25\15\21\18\0169\242\224\239\230\199\234\244\233\237\251'
-,[788]='\t\233\242\235\225\237\233\239\243\241',[789]=
-'\226\243\234\242\231\230\243\227\241\253\160\180\179\174\167\173\150\146\146\148\157\146\151'
-,[790]='\232\207\194\195\192\242\213\201\199\217\219\205\223\203\193\211\200',[
-791]='\196\218\199\220\212\222\212\208\206\194\227\210\216\217',[792]=
+704]='\184\143\159\129\131\156\152\156\148\178\135\151\154\157',[705]=
+'\169\180\174\158gdNb}jss',[706]='DcnwtFau{egyk\127u\127d',[707]='S~IOaLJQGNFLX'
+,[708]='zybFA[^S',[709]='\20)+ /+#4;',[710]="\18=?;'",[711]=
+'7*#\23\a\3\1\f\4\31',[712]='!\27\1\23\3\17\22\20',[713]=
+'\201\228\239\233\203\230\248\229\233\255',[714]=
+'\214\249\249\251\248\249\244\242\233\255\246\206\196\208',[715]=
+'\229\200\198\202\203\200\193\204\199\193',[716]=
+'\228\221\213\223\216\200\220\220\211\165',[717]='\156\166\186\134\173\164\160',
+[718]='\141\181\171\143\169\172\176\139\132',[719]=
+'\168\132\158\137\139\157\163\152\136\150\164\156\142\146\148',[720]=
+'\175\153\133\138\179acgoIdoi',[721]="Nlmdwc}fzq'",[722]='^qqTSMOhLUS',[723]=
+'oLDXDV',[724]="}/3&&6\6)+';y",[725]="\18>&';8\31:9>?",[726]=
+'\19\0\27\5\22\21\2\28SED\24\b\22\27\5\3\23\0[\0\31X+\26\b\20\16\17Q\f\227\243\237\239\232\168\235\238\236\237\230\238\162\253\224\232'
+,[727]='1\18\26\3\23\4+\16\0\30',[728]=
+'\208\231\247\233\235\228\203\235\249\216\229\231\236\251\255\247\224\231',[729]
+='\192\250\230\222\245\248\253\254',[730]=
+'\226\243\238\252\204\210\223\239\194\194\192\194',[731]=
+'\226\210\192\205\248\212\196',[732]='\151\169\174\175\152\169\172\188\172\184',
+[733]='\139\188\187\169\191\181\152\173\129\140\135',[734]=
+'\186\143\138\158\142\134\166\147\158\156',[735]=
+'\136\153\132\156\141\140eukg>*)?9<>94?;;%',[736]='Xil|lxS}k',[737]=
+'_hllOSrLWLRNGG',[738]='}BNSTZ\\XQSE{VVTN\14',[739]='nS!"\'++)"":\29/38',[740]=
+"\02850 0<u%2;-342}1-@'\23\r\a\17\15\b\6GDE",[741]='-\0\v\r4\4\1\2',[742]=
+'$;#\21\18\19',[743]='\196\234\232\233\194\238\250\236\233\255\229\226\224',[744
+]='\197\241\231\226\254\251\248\246',[745]='\237\203\233\210\220',[746]=
+'\228\195\214\202\205',[747]='\146\176\173\172\164\159\165\160\171',[748]=
+'\150\186\170\181\183\169\169\187\156\143\143\150\134\138\145\181\142\146\140',[
+749]='\132\134\157\142\158',[750]='\173\155\153\190\136\138\139oo',[751]=
+'Ynoyg`~',[752]='^pxszNU',[753]='\127HM[Y^\\}UXS',[754]='TPL%36',[755]=
+'=*3%;<:\0199"6=',[756]=':\f\4\15\6\n\17 \b\29\a\14',[757]='\19\30\28\a\6\26\26'
+,[758]='\213\227\225\202\228\235\226',[759]='\205\208\251\251\226\229\247\245',[
+760]='\247\197\199\232\198\197\204\233\196\222\195\203\221',[761]=
+'\248\220\216\210',[762]='\149\167\160\173\128\164\135\165\163\171',[763]=
+'\154\190\182\188\153\180\174\179\187\173',[764]=
+'\179\137\139\190\130\152\129\139\172\159\159\134\146\157\155\147\133',[765]=
+'\168\152\157\158\190\136\138\139oo',[766]='Ykli',[767]='Jz{xRvSU',[768]=
+'xO_AC\\X\\Tq[WUT\\^',[769]='jXLK)"#/\23&4($%\b*>\4 <5%',[770]=
+"\30-=?=>\0175'\0319+<.",[771]='\0313\23\0\27\16',[772]=
+'?\17\22\23\31\29\6\2\27\25\0\21\14\b',[773]=
+'\208\224\229\230\164\214\227\230\250\234\226',[774]=
+'\193\243\244\241\198\243\246\234\250\242\216\243\239\240\250\210',[775]=
+'\241\198\197\215\197\207\136\235\223\223\216\194\192',[776]=
+'\224\209\212\196\212\208\153\248\212\196',[777]=
+'\151\160\167\181\171\161\234\152\169\174\186\166\191\191\242\189\181\184\179',[
+778]='\150\163\165\170\188\180\175\140\188\185\186',[779]='\185\163\135\157',[
+780]='\163\151\137\137\158\159',[781]='[li\127eb`{ye~v',[782]='Usuyn{|',[783]=
+'yNOYG@^}[@@',[784]='rQ\\YZ\002467++',[785]='\26$=&28>: ,\20",-55',[786]=
+'\a\0231\4\4\26',[787]=
+'8\6\3\24\16\26\24\28\2\14+\28\25\15\21\18\0169\242\224\239\230',[788]=
+')\233\242\235\225\237\233\239\243\241\218\239\232\248\228\225\225\214\227\243\254\241\214\249\229\246\252\232'
+,[789]='\230\248\225\250\246\252\250\254\236\224',[790]=
+'\211\192\219\197\214\213\194\220\192\206\145\131\130\157\150\130\135\129\131\131\140\129\134'
+,[791]='\196\218\199\220\212\222\212\208\206\194\227\210\216\217',[792]=
 '\142\171\176\181\162\138\188\190\191\163\163\255\139\191\166\188',[793]=
 '\135\176\181\163\177\182\180\156\189\173',[794]=
 '\166\135\139\132\139\139\136\135',[795]=
@@ -466,8 +466,8 @@ local a={}local b={[1]='ZHP\\4(--',[2]='9/-<4',[3]='\1\0\t\21\a\17',[4]=
 '\138\172\182\172\188\168\166\189\171\167\141\161\167\168\190\188\183\189\160',[
 808]='\149\161\187\181',[809]='\177\172\181\132\137\133\143',[810]=
 '\183\131\131\140\150\148',[811]='Th\127KM',[812]='EwnRtjxl',[813]=
-'|LR_\127Y\\@[TfAU[EGYK_U_D',[814]='zVR_V\127M% ',[815]='8)4,=<5%;7nzy',[816]=
-'\b?<2:4\24\18\6',[817]='?\1\a\f\21',[818]=
+'|LR_\127Y\\@[TfAU[EGYK_U_D',[814]='zVR_V\127M% ',[815]=
+'8)4,=<5%;7nzybhkbcijngT',[816]='\b?<2:4\24\18\6',[817]='?\1\a\f\21',[818]=
 '.\18\22\227\228\193\230\234\241\227\245',[819]=
 '\207\250\228\254\208\230\224\225\249\249\219\246\246\244\238',[820]=
 '\220\204\200\193\200',[821]='\227\216\220\214',[822]='\144\183\162\160',[823]=
@@ -2523,1052 +2523,1056 @@ not getgenv()[_0xS(611)]local A=getgenv()[_0xS(611)]and(getgenv()[_0xS(642)]and
 30 or 40)or(getgenv()[_0xS(642)]and 25 or 30)s:Create(y,TweenInfo[_0xS(101)](n
 and 0 or 0.25),{Size=UDim2[_0xS(101)](0,A,0,A)}):Play()s:Create(x,TweenInfo[
 _0xS(101)](n and 0 or 0.25),{BackgroundTransparency=getgenv()[_0xS(611)]and 0 or
-0.25}):Play()if game[_0xS(568)]:FindFirstChild(_0xS(569))then for B,C in ipairs(
-game[_0xS(568)]:GetChildren())do if C[_0xS(137)]==_0xS(569)then C[_0xS(242)]=
-getgenv()[_0xS(611)]end end end end q[_0xS(646)]=function()if game[_0xS(568)]:
-FindFirstChild(_0xS(569))then for A,B in ipairs(game[_0xS(568)]:GetChildren())do
-if string[_0xS(215)](B[_0xS(137)],_0xS(570))then B:Destroy()end end end end if
-true then local A=w local B=game:GetService(_0xS(612))local C=false local D,E,F
-local G=0.1 local H=0 local function update(I)local J=I[_0xS(142)]-E A[_0xS(142)
-]=UDim2[_0xS(101)](F[_0xS(160)][_0xS(193)],F[_0xS(160)][_0xS(623)]+J[_0xS(160)],
-F[_0xS(195)][_0xS(193)],F[_0xS(195)][_0xS(623)]+J[_0xS(195)])end local function 
-onInputBegan(I)if I[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or I[_0xS(614)]==Enum[
-_0xS(614)][_0xS(616)]then H=tick()E=I[_0xS(142)]F=A[_0xS(142)]I[_0xS(286)]:
-Connect(function()if I[_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then C=false H=0
-end end)end end local function onInputEnded(I)if I[_0xS(614)]==Enum[_0xS(614)][
-_0xS(615)]or I[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then C=false H=0 end end
-local function onInputChanged(I)if I[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or I[
-_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then D=I end end A[_0xS(613)]:Connect(
-onInputBegan)A[_0xS(647)]:Connect(onInputEnded)A[_0xS(619)]:Connect(
-onInputChanged)u[_0xS(648)]:Connect(function()if H>0 and(tick()-H>=G)and not C
-then C=true end if C and D then update(D)end end)end w[_0xS(649)]:Connect(
-function()q[_0xS(645)]()end)local A=Instance[_0xS(101)](_0xS(637))local B=
-Instance[_0xS(101)](_0xS(650))A[_0xS(137)]=_0xS(651)A[_0xS(182)]=r[_0xS(629)]A[
-_0xS(636)]=Vector2[_0xS(101)](1,1)A[_0xS(639)]=Color3[_0xS(573)](230,230,230)A[
-_0xS(634)]=1 A[_0xS(142)]=UDim2[_0xS(101)](1,-5,1,-5)A[_0xS(192)]=UDim2[_0xS(101
-)](0,350,1,-10)B[_0xS(137)]=_0xS(652)B[_0xS(182)]=A B[_0xS(653)]=Enum[_0xS(653)]
-[_0xS(654)]B[_0xS(655)]=Enum[_0xS(655)][_0xS(656)]B[_0xS(657)]=UDim[_0xS(101)](0
-,5)r[_0xS(624)][_0xS(182)]=game:GetService(_0xS(568))r[_0xS(629)][_0xS(182)]=
-game:GetService(_0xS(568))r[_0xS(631)][_0xS(182)]=game:GetService(_0xS(568))
-function r.Getcolor(C)return{math[_0xS(658)](C[_0xS(659)]*255),math[_0xS(658)](C
-[_0xS(660)]*255),math[_0xS(658)](C[_0xS(661)]*255)}end local C=function(C)
-getgenv()[_0xS(662)]=C[_0xS(187)]or _0xS(150)local D=C[_0xS(663)]or C[_0xS(664)]
-or C[_0xS(665)]or _0xS(150)local E=C[_0xS(666)]or C[_0xS(667)]or C[_0xS(668)]or
-10 local F=Instance[_0xS(101)](_0xS(637))local G=Instance[_0xS(101)](_0xS(637))
-local H=Instance[_0xS(101)](_0xS(643))local I=Instance[_0xS(101)](_0xS(637))
-local J=Instance[_0xS(101)](_0xS(640))local K=Instance[_0xS(101)](_0xS(643))
-local L=Instance[_0xS(101)](_0xS(188))local M=Instance[_0xS(101)](_0xS(637))
-local N=Instance[_0xS(101)](_0xS(640))local O=Instance[_0xS(101)](_0xS(633))
-local P=Instance[_0xS(101)](_0xS(188))F[_0xS(137)]=_0xS(669)F[_0xS(182)]=A F[
-_0xS(639)]=Color3[_0xS(573)](230,230,230)F[_0xS(634)]=1 F[_0xS(670)]=true F[
-_0xS(142)]=UDim2[_0xS(101)](0,0,0,0)F[_0xS(192)]=UDim2[_0xS(101)](1,0,0,0)F[
-_0xS(671)]=Enum[_0xS(671)][_0xS(195)]G[_0xS(137)]=_0xS(672)G[_0xS(182)]=F G[
-_0xS(142)]=UDim2[_0xS(101)](1,0,0,0)G[_0xS(192)]=UDim2[_0xS(101)](1,0,1,6)G[
-_0xS(671)]=Enum[_0xS(671)][_0xS(195)]G[_0xS(639)]=getgenv()[_0xS(609)][_0xS(588)
-]H[_0xS(644)]=UDim[_0xS(101)](0,4)H[_0xS(182)]=G I[_0xS(137)]=_0xS(673)I[_0xS(
-182)]=G I[_0xS(639)]=Color3[_0xS(573)](230,230,230)I[_0xS(634)]=1 I[_0xS(142)]=
-UDim2[_0xS(101)](0,0,0,5)I[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)J[_0xS(137)]=
-_0xS(674)J[_0xS(182)]=I J[_0xS(639)]=Color3[_0xS(573)](230,230,230)J[_0xS(634)]=
-1 J[_0xS(142)]=UDim2[_0xS(101)](0,5,0,getgenv()[_0xS(642)]and 5 or 0)J[_0xS(192)
-]=UDim2[_0xS(101)](0,getgenv()[_0xS(642)]and 30 or 25,0,getgenv()[_0xS(642)]and
-15 or 25)J[_0xS(641)]=getgenv()[_0xS(609)][_0xS(576)]K[_0xS(644)]=UDim[_0xS(101)
-](1,0)K[_0xS(137)]=_0xS(675)K[_0xS(182)]=J local R=tostring(r[_0xS(676)](
-getgenv()[_0xS(609)][_0xS(583)])[1])local S=tostring(r[_0xS(676)](getgenv()[
-_0xS(609)][_0xS(583)])[2])local T=tostring(r[_0xS(676)](getgenv()[_0xS(609)][
-_0xS(583)])[3])local U=R.._0xS(677)..S.._0xS(677)..T L[_0xS(635)]=_0xS(678)..
-tostring(U or _0xS(679)).._0xS(680)..tostring(_0xS(681)).._0xS(682)..tostring(
-getgenv()[_0xS(662)]or _0xS(150))L[_0xS(137)]=_0xS(683)L[_0xS(182)]=I L[_0xS(639
-)]=Color3[_0xS(573)](230,230,230)L[_0xS(634)]=1 L[_0xS(142)]=UDim2[_0xS(101)](0,
-getgenv()[_0xS(642)]and 40 or 35,0,0)L[_0xS(192)]=UDim2[_0xS(101)](1,getgenv()[
-_0xS(642)]and-40 or-35,1,0)L[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]L[_0xS(686)]=
-14 L[_0xS(687)]=true L[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]L[_0xS(690)]=true L[
-_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]M[_0xS(137)]=_0xS(691)M[_0xS(182)]=I M
-[_0xS(636)]=Vector2[_0xS(101)](1,0.5)M[_0xS(639)]=Color3[_0xS(573)](230,230,230)
-M[_0xS(634)]=1 M[_0xS(142)]=UDim2[_0xS(101)](1,-4,0.5,0)M[_0xS(192)]=UDim2[_0xS(
-101)](0,22,0,22)N[_0xS(137)]=_0xS(692)N[_0xS(182)]=M N[_0xS(639)]=Color3[_0xS(
-573)](230,230,230)N[_0xS(634)]=1 N[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)N[_0xS(
-641)]=_0xS(693)N[_0xS(694)]=Vector2[_0xS(101)](284,4)N[_0xS(695)]=Vector2[_0xS(
-101)](24,24)N[_0xS(696)]=getgenv()[_0xS(609)][_0xS(578)]O[_0xS(182)]=M O[_0xS(
-639)]=Color3[_0xS(573)](230,230,230)O[_0xS(634)]=1 O[_0xS(192)]=UDim2[_0xS(101)
-](1,0,1,0)O[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]O[_0xS(635)]=_0xS(150)O[_0xS(
-189)]=Color3[_0xS(573)](0,0,0)O[_0xS(686)]=14 if D then P[_0xS(137)]=_0xS(698)P[
-_0xS(182)]=G P[_0xS(639)]=Color3[_0xS(573)](230,230,230)P[_0xS(634)]=1 P[_0xS(
-142)]=UDim2[_0xS(101)](0,10,0,35)P[_0xS(192)]=UDim2[_0xS(101)](1,-15,0,0)P[_0xS(
-684)]=Enum[_0xS(684)][_0xS(685)]P[_0xS(635)]=D P[_0xS(686)]=14 P[_0xS(688)]=Enum
-[_0xS(688)][_0xS(689)]P[_0xS(690)]=true P[_0xS(189)]=getgenv()[_0xS(609)][_0xS(
-581)]P[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]P[_0xS(687)]=true end local function 
-remove()s:Create(G,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
-Position=UDim2[_0xS(101)](1,0,0,0)}):Play()wait(0.25)F:Destroy()end s:Create(G,
-TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{Position=UDim2[_0xS(101)
-](0,0,0,0)}):Play()O[_0xS(699)]:Connect(function()s:Create(N,TweenInfo[_0xS(101)
-](getgenv()[_0xS(609)][_0xS(605)]),{ImageColor3=getgenv()[_0xS(609)][_0xS(579)]}
-):Play()end)O[_0xS(700)]:Connect(function()s:Create(N,TweenInfo[_0xS(101)](
-getgenv()[_0xS(609)][_0xS(605)]),{ImageColor3=getgenv()[_0xS(609)][_0xS(578)]}):
-Play()end)O[_0xS(649)]:Connect(function()wait(0.25)remove()end)spawn(function()
-wait(E)remove()end)end function q:Notify(D,E)if not getgenv()[_0xS(701)]or E
-then local F,G=pcall(function()C(D)end)if G then print(G)end end end function q:
-CreateWindow(D)local E=D[_0xS(187)]or _0xS(681)getgenv()[_0xS(702)]=D[_0xS(664)]
-or D[_0xS(703)]or _0xS(150)if D[_0xS(641)]then getgenv()[_0xS(609)][_0xS(576)]=D
-[_0xS(641)]end local F=false cac=false local G=Instance[_0xS(101)](_0xS(637))
-MainContainer=Instance[_0xS(101)](_0xS(640))MainContainer[_0xS(137)]=_0xS(704)
-MainContainer[_0xS(182)]=G MainContainer[_0xS(639)]=Color3[_0xS(573)](18,18,22)
-MainContainer[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)local H=Instance[_0xS(101)](
-_0xS(705),MainContainer)H[_0xS(706)]=1 H[_0xS(707)]=Color3[_0xS(573)](90,90,70)
-local I=Instance[_0xS(101)](_0xS(708),MainContainer)I[_0xS(707)]=ColorSequence[
-_0xS(101)]({ColorSequenceKeypoint[_0xS(101)](0,Color3[_0xS(573)](255,255,255)),
-ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](200,200,200))})I[_0xS(709)]
-=90 I[_0xS(247)]=NumberSequence[_0xS(101)]({NumberSequenceKeypoint[_0xS(101)](0,
+0.25}):Play()local B={game:GetService(_0xS(568)),game:GetService(_0xS(7))[_0xS(8
+)]and game:GetService(_0xS(7))[_0xS(8)]:FindFirstChild(_0xS(27))}for C,D in
+ipairs(B)do if D then for E,F in ipairs(D:GetChildren())do if F[_0xS(137)]==
+_0xS(569)then F[_0xS(242)]=getgenv()[_0xS(611)]end end end end end q[_0xS(646)]=
+function()if game[_0xS(568)]:FindFirstChild(_0xS(569))then for A,B in ipairs(
+game[_0xS(568)]:GetChildren())do if string[_0xS(215)](B[_0xS(137)],_0xS(570))
+then B:Destroy()end end end end if true then local A=w local B=game:GetService(
+_0xS(612))local C=false local D,E,F local G=0.1 local H=0 local function update(
+I)local J=I[_0xS(142)]-E A[_0xS(142)]=UDim2[_0xS(101)](F[_0xS(160)][_0xS(193)],F
+[_0xS(160)][_0xS(623)]+J[_0xS(160)],F[_0xS(195)][_0xS(193)],F[_0xS(195)][_0xS(
+623)]+J[_0xS(195)])end local function onInputBegan(I)if I[_0xS(614)]==Enum[_0xS(
+614)][_0xS(615)]or I[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then H=tick()E=I[
+_0xS(142)]F=A[_0xS(142)]I[_0xS(286)]:Connect(function()if I[_0xS(617)]==Enum[
+_0xS(617)][_0xS(618)]then C=false H=0 end end)end end local function 
+onInputEnded(I)if I[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or I[_0xS(614)]==Enum[
+_0xS(614)][_0xS(616)]then C=false H=0 end end local function onInputChanged(I)if
+I[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or I[_0xS(614)]==Enum[_0xS(614)][_0xS(
+616)]then D=I end end A[_0xS(613)]:Connect(onInputBegan)A[_0xS(647)]:Connect(
+onInputEnded)A[_0xS(619)]:Connect(onInputChanged)u[_0xS(648)]:Connect(function()
+if H>0 and(tick()-H>=G)and not C then C=true end if C and D then update(D)end
+end)end w[_0xS(649)]:Connect(function()q[_0xS(645)]()end)local A=Instance[_0xS(
+101)](_0xS(637))local B=Instance[_0xS(101)](_0xS(650))A[_0xS(137)]=_0xS(651)A[
+_0xS(182)]=r[_0xS(629)]A[_0xS(636)]=Vector2[_0xS(101)](1,1)A[_0xS(639)]=Color3[
+_0xS(573)](230,230,230)A[_0xS(634)]=1 A[_0xS(142)]=UDim2[_0xS(101)](1,-5,1,-5)A[
+_0xS(192)]=UDim2[_0xS(101)](0,350,1,-10)B[_0xS(137)]=_0xS(652)B[_0xS(182)]=A B[
+_0xS(653)]=Enum[_0xS(653)][_0xS(654)]B[_0xS(655)]=Enum[_0xS(655)][_0xS(656)]B[
+_0xS(657)]=UDim[_0xS(101)](0,5)pcall(function()local C=game:GetService(_0xS(568)
+)r[_0xS(624)][_0xS(182)]=C r[_0xS(629)][_0xS(182)]=C r[_0xS(631)][_0xS(182)]=C
+end)if not r[_0xS(624)][_0xS(182)]then pcall(function()local C=game:GetService(
+_0xS(7))[_0xS(8)]local D=C and(C:FindFirstChild(_0xS(27))or C:WaitForChild(_0xS(
+27),5))if D then r[_0xS(624)][_0xS(182)]=D r[_0xS(629)][_0xS(182)]=D r[_0xS(631)
+][_0xS(182)]=D end end)end function r.Getcolor(C)return{math[_0xS(658)](C[_0xS(
+659)]*255),math[_0xS(658)](C[_0xS(660)]*255),math[_0xS(658)](C[_0xS(661)]*255)}
+end local C=function(C)getgenv()[_0xS(662)]=C[_0xS(187)]or _0xS(150)local D=C[
+_0xS(663)]or C[_0xS(664)]or C[_0xS(665)]or _0xS(150)local E=C[_0xS(666)]or C[
+_0xS(667)]or C[_0xS(668)]or 10 local F=Instance[_0xS(101)](_0xS(637))local G=
+Instance[_0xS(101)](_0xS(637))local H=Instance[_0xS(101)](_0xS(643))local I=
+Instance[_0xS(101)](_0xS(637))local J=Instance[_0xS(101)](_0xS(640))local K=
+Instance[_0xS(101)](_0xS(643))local L=Instance[_0xS(101)](_0xS(188))local M=
+Instance[_0xS(101)](_0xS(637))local N=Instance[_0xS(101)](_0xS(640))local O=
+Instance[_0xS(101)](_0xS(633))local P=Instance[_0xS(101)](_0xS(188))F[_0xS(137)]
+=_0xS(669)F[_0xS(182)]=A F[_0xS(639)]=Color3[_0xS(573)](230,230,230)F[_0xS(634)]
+=1 F[_0xS(670)]=true F[_0xS(142)]=UDim2[_0xS(101)](0,0,0,0)F[_0xS(192)]=UDim2[
+_0xS(101)](1,0,0,0)F[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]G[_0xS(137)]=_0xS(672)
+G[_0xS(182)]=F G[_0xS(142)]=UDim2[_0xS(101)](1,0,0,0)G[_0xS(192)]=UDim2[_0xS(101
+)](1,0,1,6)G[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]G[_0xS(639)]=getgenv()[_0xS(
+609)][_0xS(588)]H[_0xS(644)]=UDim[_0xS(101)](0,4)H[_0xS(182)]=G I[_0xS(137)]=
+_0xS(673)I[_0xS(182)]=G I[_0xS(639)]=Color3[_0xS(573)](230,230,230)I[_0xS(634)]=
+1 I[_0xS(142)]=UDim2[_0xS(101)](0,0,0,5)I[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)J
+[_0xS(137)]=_0xS(674)J[_0xS(182)]=I J[_0xS(639)]=Color3[_0xS(573)](230,230,230)J
+[_0xS(634)]=1 J[_0xS(142)]=UDim2[_0xS(101)](0,5,0,getgenv()[_0xS(642)]and 5 or 0
+)J[_0xS(192)]=UDim2[_0xS(101)](0,getgenv()[_0xS(642)]and 30 or 25,0,getgenv()[
+_0xS(642)]and 15 or 25)J[_0xS(641)]=getgenv()[_0xS(609)][_0xS(576)]K[_0xS(644)]=
+UDim[_0xS(101)](1,0)K[_0xS(137)]=_0xS(675)K[_0xS(182)]=J local R=tostring(r[
+_0xS(676)](getgenv()[_0xS(609)][_0xS(583)])[1])local S=tostring(r[_0xS(676)](
+getgenv()[_0xS(609)][_0xS(583)])[2])local T=tostring(r[_0xS(676)](getgenv()[
+_0xS(609)][_0xS(583)])[3])local U=R.._0xS(677)..S.._0xS(677)..T L[_0xS(635)]=
+_0xS(678)..tostring(U or _0xS(679)).._0xS(680)..tostring(_0xS(681)).._0xS(682)..
+tostring(getgenv()[_0xS(662)]or _0xS(150))L[_0xS(137)]=_0xS(683)L[_0xS(182)]=I L
+[_0xS(639)]=Color3[_0xS(573)](230,230,230)L[_0xS(634)]=1 L[_0xS(142)]=UDim2[
+_0xS(101)](0,getgenv()[_0xS(642)]and 40 or 35,0,0)L[_0xS(192)]=UDim2[_0xS(101)](
+1,getgenv()[_0xS(642)]and-40 or-35,1,0)L[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]L[
+_0xS(686)]=14 L[_0xS(687)]=true L[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]L[_0xS(
+690)]=true L[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]M[_0xS(137)]=_0xS(691)M[
+_0xS(182)]=I M[_0xS(636)]=Vector2[_0xS(101)](1,0.5)M[_0xS(639)]=Color3[_0xS(573)
+](230,230,230)M[_0xS(634)]=1 M[_0xS(142)]=UDim2[_0xS(101)](1,-4,0.5,0)M[_0xS(192
+)]=UDim2[_0xS(101)](0,22,0,22)N[_0xS(137)]=_0xS(692)N[_0xS(182)]=M N[_0xS(639)]=
+Color3[_0xS(573)](230,230,230)N[_0xS(634)]=1 N[_0xS(192)]=UDim2[_0xS(101)](1,0,1
+,0)N[_0xS(641)]=_0xS(693)N[_0xS(694)]=Vector2[_0xS(101)](284,4)N[_0xS(695)]=
+Vector2[_0xS(101)](24,24)N[_0xS(696)]=getgenv()[_0xS(609)][_0xS(578)]O[_0xS(182)
+]=M O[_0xS(639)]=Color3[_0xS(573)](230,230,230)O[_0xS(634)]=1 O[_0xS(192)]=UDim2
+[_0xS(101)](1,0,1,0)O[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]O[_0xS(635)]=_0xS(150
+)O[_0xS(189)]=Color3[_0xS(573)](0,0,0)O[_0xS(686)]=14 if D then P[_0xS(137)]=
+_0xS(698)P[_0xS(182)]=G P[_0xS(639)]=Color3[_0xS(573)](230,230,230)P[_0xS(634)]=
+1 P[_0xS(142)]=UDim2[_0xS(101)](0,10,0,35)P[_0xS(192)]=UDim2[_0xS(101)](1,-15,0,
+0)P[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]P[_0xS(635)]=D P[_0xS(686)]=14 P[_0xS(
+688)]=Enum[_0xS(688)][_0xS(689)]P[_0xS(690)]=true P[_0xS(189)]=getgenv()[_0xS(
+609)][_0xS(581)]P[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]P[_0xS(687)]=true end
+local function remove()s:Create(G,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
+_0xS(605)]),{Position=UDim2[_0xS(101)](1,0,0,0)}):Play()wait(0.25)F:Destroy()end
+s:Create(G,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{Position=UDim2
+[_0xS(101)](0,0,0,0)}):Play()O[_0xS(699)]:Connect(function()s:Create(N,TweenInfo
+[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{ImageColor3=getgenv()[_0xS(609)][
+_0xS(579)]}):Play()end)O[_0xS(700)]:Connect(function()s:Create(N,TweenInfo[_0xS(
+101)](getgenv()[_0xS(609)][_0xS(605)]),{ImageColor3=getgenv()[_0xS(609)][_0xS(
+578)]}):Play()end)O[_0xS(649)]:Connect(function()wait(0.25)remove()end)spawn(
+function()wait(E)remove()end)end function q:Notify(D,E)if not getgenv()[_0xS(701
+)]or E then local F,G=pcall(function()C(D)end)if G then print(G)end end end
+function q:CreateWindow(D)local E=D[_0xS(187)]or _0xS(681)getgenv()[_0xS(702)]=D
+[_0xS(664)]or D[_0xS(703)]or _0xS(150)if D[_0xS(641)]then getgenv()[_0xS(609)][
+_0xS(576)]=D[_0xS(641)]end local F=false cac=false local G=Instance[_0xS(101)](
+_0xS(637))local H=Instance[_0xS(101)](_0xS(640))local I=Instance[_0xS(101)](
+_0xS(643))local J=Instance[_0xS(101)](_0xS(637))local K=Instance[_0xS(101)](
+_0xS(640))local L=Instance[_0xS(101)](_0xS(188))local M=Instance[_0xS(101)](
+_0xS(637))local N=Instance[_0xS(101)](_0xS(643))local O=Instance[_0xS(101)](
+_0xS(704))local P=Instance[_0xS(101)](_0xS(650))local R=Instance[_0xS(101)](
+_0xS(188))local S=Instance[_0xS(101)](_0xS(637))local T=Instance[_0xS(101)](
+_0xS(705))local U=Instance[_0xS(101)](_0xS(637))local V=Instance[_0xS(101)](
+_0xS(637))local W G[_0xS(137)]=_0xS(28)G[_0xS(182)]=r[_0xS(624)]G[_0xS(639)]=
+Color3[_0xS(573)](42,42,42)G[_0xS(634)]=1 G[_0xS(142)]=UDim2[_0xS(101)](0.5,0,
+0.5,0)G[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)G[_0xS(192)]=UDim2[_0xS(101)](0,
+629,0,359)makeDraggable(G,G)H[_0xS(278)]=false H[_0xS(706)]=1 W=Instance[_0xS(
+101)](_0xS(640))W[_0xS(137)]=_0xS(707)W[_0xS(182)]=G W[_0xS(639)]=Color3[_0xS(
+573)](18,18,22)W[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)local X=Instance[_0xS(101)
+](_0xS(708),W)X[_0xS(709)]=1 X[_0xS(710)]=Color3[_0xS(573)](36,39,48)local Y=
+Instance[_0xS(101)](_0xS(711),W)Y[_0xS(710)]=ColorSequence[_0xS(101)]({
+ColorSequenceKeypoint[_0xS(101)](0,Color3[_0xS(573)](255,255,255)),
+ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](200,200,200))})Y[_0xS(712)]
+=90 Y[_0xS(247)]=NumberSequence[_0xS(101)]({NumberSequenceKeypoint[_0xS(101)](0,
 0.92),NumberSequenceKeypoint[_0xS(101)](1,0.92)})getgenv()[_0xS(628)]=true
-MainCorner[_0xS(644)]=UDim[_0xS(101)](0,5)MainCorner[_0xS(137)]=_0xS(710)
-MainCorner[_0xS(182)]=MainContainer Concacontainer[_0xS(137)]=_0xS(711)
-Concacontainer[_0xS(182)]=MainContainer Concacontainer[_0xS(639)]=Color3[_0xS(
-573)](255,255,255)Concacontainer[_0xS(634)]=1 Concacontainer[_0xS(670)]=true
-Concacontainer[_0xS(142)]=UDim2[_0xS(101)](0,0,0,30)Concacontainer[_0xS(192)]=
-UDim2[_0xS(101)](1,0,1,-30)Concacmain[_0xS(137)]=_0xS(712)Concacmain[_0xS(182)]=
-Concacontainer Concacmain[_0xS(639)]=Color3[_0xS(573)](255,255,255)Concacmain[
-_0xS(634)]=1 Concacmain[_0xS(713)]=true Concacmain[_0xS(192)]=UDim2[_0xS(101)](1
-,0,1,0)TopMain[_0xS(137)]=_0xS(714)TopMain[_0xS(182)]=MainContainer TopMain[
-_0xS(639)]=Color3[_0xS(573)](255,255,255)TopMain[_0xS(634)]=1 TopMain[_0xS(192)]
-=UDim2[_0xS(101)](1,0,0,25)local J=Instance[_0xS(101)](_0xS(637),TopMain)J[_0xS(
-137)]=_0xS(715)J[_0xS(639)]=Color3[_0xS(573)](90,90,70)J[_0xS(634)]=0.6 J[_0xS(
-716)]=0 J[_0xS(142)]=UDim2[_0xS(101)](0,0,1,-1)J[_0xS(192)]=UDim2[_0xS(101)](1,0
-,0,1)Ruafimg[_0xS(137)]=_0xS(674)Ruafimg[_0xS(182)]=TopMain Ruafimg[_0xS(639)]=
-Color3[_0xS(573)](255,255,255)Ruafimg[_0xS(634)]=1 Ruafimg[_0xS(142)]=UDim2[
-_0xS(101)](0,5,0,0)Ruafimg[_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)Ruafimg[_0xS(
-641)]=getgenv()[_0xS(609)][_0xS(576)]TextLabelMain[_0xS(137)]=_0xS(717)
-TextLabelMain[_0xS(182)]=TopMain TextLabelMain[_0xS(639)]=Color3[_0xS(573)](230,
-230,230)TextLabelMain[_0xS(634)]=1 TextLabelMain[_0xS(142)]=UDim2[_0xS(101)](0,
-220,0,0)TextLabelMain[_0xS(192)]=UDim2[_0xS(101)](1,-35,1,0)TextLabelMain[_0xS(
-684)]=Enum[_0xS(684)][_0xS(685)]TextLabelMain[_0xS(690)]=true TextLabelMain[
-_0xS(686)]=16 TextLabelMain[_0xS(687)]=true TextLabelMain[_0xS(688)]=Enum[_0xS(
-688)][_0xS(689)]TextLabelMain[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]local K=
-tostring(r[_0xS(676)](getgenv()[_0xS(609)][_0xS(583)])[1])local L=tostring(r[
-_0xS(676)](getgenv()[_0xS(609)][_0xS(583)])[2])local M=tostring(r[_0xS(676)](
-getgenv()[_0xS(609)][_0xS(583)])[3])local N=K.._0xS(677)..L.._0xS(677)..M
-TextLabelMain[_0xS(635)]=_0xS(678)..tostring(N or _0xS(679)).._0xS(680)..
-tostring(E or _0xS(681)).._0xS(682)..tostring(getgenv()[_0xS(702)]or _0xS(150))
-PageControl[_0xS(137)]=_0xS(718)PageControl[_0xS(182)]=Concacmain PageControl[
-_0xS(142)]=UDim2[_0xS(101)](0,5,0,0)PageControl[_0xS(192)]=UDim2[_0xS(101)](0,
-180,0,325)PageControl[_0xS(639)]=Color3[_0xS(573)](28,28,34)PageControl[_0xS(634
-)]=0.1 local O=Instance[_0xS(101)](_0xS(705),PageControl)O[_0xS(707)]=Color3[
-_0xS(573)](90,90,70)O[_0xS(706)]=1 local P=Instance[_0xS(101)](_0xS(708),
-PageControl)P[_0xS(707)]=ColorSequence[_0xS(101)]({ColorSequenceKeypoint[_0xS(
-101)](0,Color3[_0xS(573)](28,28,34)),ColorSequenceKeypoint[_0xS(101)](1,Color3[
-_0xS(573)](38,38,46))})P[_0xS(709)]=90 P[_0xS(247)]=NumberSequence[_0xS(101)]({
-NumberSequenceKeypoint[_0xS(101)](0,0.06),NumberSequenceKeypoint[_0xS(101)](1,
-0.12)})UICorner[_0xS(644)]=UDim[_0xS(101)](0,4)UICorner[_0xS(182)]=PageControl
-ControlList[_0xS(137)]=_0xS(719)ControlList[_0xS(182)]=PageControl ControlList[
-_0xS(720)]=true ControlList[_0xS(639)]=Color3[_0xS(573)](230,230,230)ControlList
-[_0xS(634)]=1 ControlList[_0xS(721)]=Color3[_0xS(573)](27,42,53)ControlList[
-_0xS(716)]=0 ControlList[_0xS(142)]=UDim2[_0xS(101)](0,0,0,30)ControlList[_0xS(
-192)]=UDim2[_0xS(101)](1,-5,1,-30)ControlList[_0xS(722)]=_0xS(723)ControlList[
-_0xS(724)]=UDim2[_0xS(101)](0,0,0,0)ControlList[_0xS(725)]=5 ControlList[_0xS(
-726)]=_0xS(723)UIListLayout[_0xS(182)]=ControlList UIListLayout[_0xS(653)]=Enum[
-_0xS(653)][_0xS(654)]UIListLayout[_0xS(657)]=UDim[_0xS(101)](0,5)ControlTitle[
-_0xS(137)]=_0xS(727)ControlTitle[_0xS(182)]=PageControl ControlTitle[_0xS(639)]=
-Color3[_0xS(573)](230,230,230)ControlTitle[_0xS(634)]=1 ControlTitle[_0xS(142)]=
-UDim2[_0xS(101)](0,5,0,0)ControlTitle[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)
-ControlTitle[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]ControlTitle[_0xS(635)]=E
-ControlTitle[_0xS(686)]=14 ControlTitle[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]
-ControlTitle[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]local R=Instance[_0xS(101
-)](_0xS(637))local S=Instance[_0xS(101)](_0xS(643))local T=Instance[_0xS(101)](
-_0xS(637))local U=Instance[_0xS(101)](_0xS(640))local V=Instance[_0xS(101)](
-_0xS(728))R[_0xS(137)]=_0xS(729)R[_0xS(182)]=PageControl R[_0xS(636)]=Vector2[
-_0xS(101)](1,0)R[_0xS(639)]=Color3[_0xS(573)](38,38,46)R[_0xS(142)]=UDim2[_0xS(
-101)](1,-5,0,5)R[_0xS(192)]=UDim2[_0xS(101)](0,170,0,25)R[_0xS(670)]=true S[
-_0xS(182)]=R S[_0xS(644)]=UDim[_0xS(101)](0,4)T[_0xS(137)]=_0xS(730)T[_0xS(182)]
-=R T[_0xS(639)]=Color3[_0xS(573)](163,162,165)T[_0xS(634)]=1 T[_0xS(192)]=UDim2[
-_0xS(101)](0,25,1,0)U[_0xS(137)]=_0xS(731)U[_0xS(182)]=T U[_0xS(636)]=Vector2[
-_0xS(101)](0.5,0.5)U[_0xS(639)]=Color3[_0xS(573)](163,162,165)U[_0xS(634)]=1 U[
-_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)U[_0xS(192)]=UDim2[_0xS(101)](0,16,0,16)
-U[_0xS(641)]=_0xS(732)U[_0xS(696)]=Color3[_0xS(573)](240,240,230)V[_0xS(137)]=
-_0xS(733)V[_0xS(182)]=R V[_0xS(720)]=true V[_0xS(639)]=Color3[_0xS(573)](163,162
-,165)V[_0xS(634)]=1 V[_0xS(734)]=-1 V[_0xS(142)]=UDim2[_0xS(101)](0,30,0,0)V[
-_0xS(192)]=UDim2[_0xS(101)](1,-30,1,0)V[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]V[
-_0xS(735)]=Color3[_0xS(573)](170,170,160)V[_0xS(736)]=_0xS(737)V[_0xS(635)]=
-_0xS(150)V[_0xS(189)]=Color3[_0xS(573)](235,235,230)V[_0xS(686)]=14 V[_0xS(688)]
-=Enum[_0xS(688)][_0xS(689)]MainPage[_0xS(137)]=_0xS(738)MainPage[_0xS(182)]=
-Concacmain MainPage[_0xS(639)]=Color3[_0xS(573)](230,230,230)MainPage[_0xS(634)]
-=1 MainPage[_0xS(670)]=true MainPage[_0xS(142)]=UDim2[_0xS(101)](0,190,0,0)
-MainPage[_0xS(192)]=UDim2[_0xS(101)](0,435,0,325)UIPage[_0xS(137)]=_0xS(739)
-UIPage[_0xS(182)]=MainPage UIPage[_0xS(740)]=Enum[_0xS(740)][_0xS(741)]UIPage[
-_0xS(653)]=Enum[_0xS(653)][_0xS(654)]UIPage[_0xS(621)]=Enum[_0xS(621)][_0xS(742)
-]UIPage[_0xS(344)]=Enum[_0xS(344)][_0xS(743)]UIPage[_0xS(657)]=UDim[_0xS(101)](0
-,10)UIPage[_0xS(744)]=getgenv()[_0xS(609)][_0xS(605)]UIListLayout:
-GetPropertyChangedSignal(_0xS(745)):Connect(function()ControlList[_0xS(724)]=
-UDim2[_0xS(101)](0,0,0,UIListLayout[_0xS(745)][_0xS(195)]+5)end)local W={}if not
-GlobalSearch then GlobalSearch=function(X)X=string[_0xS(746)](X)if X==_0xS(150)
-then for Y,Z in pairs(getgenv()[_0xS(610)])do Z[_0xS(747)][_0xS(278)]=true Z[
-_0xS(748)][_0xS(278)]=true Z[_0xS(749)][_0xS(278)]=true end for Y,Z in pairs(
-ControlList:GetChildren())do if not Z:IsA(_0xS(650))then Z[_0xS(278)]=true end
-end return end for Y,Z in pairs(getgenv()[_0xS(610)])do Z[_0xS(748)][_0xS(278)]=
-false Z[_0xS(749)][_0xS(278)]=false end for Y,Z in pairs(ControlList:
-GetChildren())do if not Z:IsA(_0xS(650))then Z[_0xS(278)]=false end end local Y=
-{}local Z={}for _,aa in pairs(getgenv()[_0xS(610)])do local ab=string[_0xS(746)
-](aa[_0xS(137)]or _0xS(150))local ac=string[_0xS(746)](aa[_0xS(750)]or _0xS(150)
-)local ad=string[_0xS(215)](ab,X,1,true)~=nil local ae=string[_0xS(215)](ac,X,1,
-true)~=nil if not Z[aa[_0xS(748)] ]then Z[aa[_0xS(748)] ]={}end table[_0xS(751)
-](Z[aa[_0xS(748)] ],{control=aa,elementFound=ad,sectionFound=ae})if ad then Y[aa
-[_0xS(748)] ]=true end end local aa={}for ab,ac in pairs(Z)do local ad=false
-local ae=false for _,af in ipairs(ac)do if af[_0xS(752)]then ad=true end if af[
-_0xS(753)]then ae=true end end for af,_ in ipairs(ac)do local ag=_[_0xS(754)]if
-_[_0xS(753)]then ag[_0xS(749)][_0xS(278)]=true if _[_0xS(752)]or ae then ag[
-_0xS(748)][_0xS(278)]=true end aa[ag[_0xS(755)] ]=true ag[_0xS(747)][_0xS(278)]=
-true elseif _[_0xS(752)]and not ae then ag[_0xS(748)][_0xS(278)]=true ag[_0xS(
-749)][_0xS(278)]=false aa[ag[_0xS(755)] ]=true ag[_0xS(747)][_0xS(278)]=true end
-end end for ab,ac in pairs(aa)do for ad,ae in pairs(ControlList:GetChildren())do
-if not ae:IsA(_0xS(650))and string[_0xS(215)](ae[_0xS(137)],ab,1,true)then ae[
-_0xS(278)]=true end end end if not next(aa)then end end end V:
-GetPropertyChangedSignal(_0xS(635)):Connect(function()GlobalSearch(V[_0xS(635)])
-end)local aa={}local ab=-1 local ac=-1 local ad=1 function aa:AddTab(ae)local af
-=tostring(ae)local ag=af ac=ac+1 ab=ab+1 local X=Instance[_0xS(101)](_0xS(637))
-local Y=Instance[_0xS(101)](_0xS(637))local Z=Instance[_0xS(101)](_0xS(643))
-local _=Instance[_0xS(101)](_0xS(637))local ah=Instance[_0xS(101)](_0xS(637))
-local ai=Instance[_0xS(101)](_0xS(643))local aj=Instance[_0xS(101)](_0xS(637))
-local ak=Instance[_0xS(101)](_0xS(188))local al=Instance[_0xS(101)](_0xS(633))X[
-_0xS(137)]=af.._0xS(756)X[_0xS(182)]=ControlList X[_0xS(639)]=Color3[_0xS(573)](
-230,230,230)X[_0xS(634)]=1 X[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,25)X[_0xS(654)]
-=ab Y[_0xS(182)]=X Y[_0xS(639)]=Color3[_0xS(573)](230,230,230)Y[_0xS(634)]=1 Y[
-_0xS(142)]=UDim2[_0xS(101)](0,5,0,0)Y[_0xS(192)]=UDim2[_0xS(101)](1,-5,1,0)Z[
-_0xS(644)]=UDim[_0xS(101)](0,4)Z[_0xS(137)]=_0xS(757)Z[_0xS(182)]=Y _[_0xS(137)]
-=_0xS(758)_[_0xS(182)]=Y _[_0xS(636)]=Vector2[_0xS(101)](0,0.5)_[_0xS(639)]=
-Color3[_0xS(573)](230,230,230)_[_0xS(634)]=1 _[_0xS(142)]=UDim2[_0xS(101)](0,0,
-0.5,0)_[_0xS(192)]=UDim2[_0xS(101)](0,14,1,0)ah[_0xS(137)]=_0xS(759)ah[_0xS(182)
-]=_ ah[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)ah[_0xS(716)]=0 ah[_0xS(142)]=UDim2
-[_0xS(101)](0.5,0,0.5,0)ah[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,-10)ah[_0xS(639)]
-=getgenv()[_0xS(609)][_0xS(590)]ah[_0xS(634)]=1 ai[_0xS(137)]=_0xS(760)ai[_0xS(
-182)]=ah aj[_0xS(137)]=_0xS(761)aj[_0xS(182)]=Y aj[_0xS(639)]=Color3[_0xS(573)](
-230,230,230)aj[_0xS(634)]=1 aj[_0xS(142)]=UDim2[_0xS(101)](0,15,0,0)aj[_0xS(192)
-]=UDim2[_0xS(101)](1,-15,1,0)ak[_0xS(137)]=_0xS(727)ak[_0xS(182)]=aj ak[_0xS(639
-)]=Color3[_0xS(573)](230,230,230)ak[_0xS(634)]=1 ak[_0xS(192)]=UDim2[_0xS(101)](
-1,0,1,0)ak[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]ak[_0xS(635)]=af ak[_0xS(189)]=
-Color3[_0xS(573)](230,230,230)ak[_0xS(686)]=14 ak[_0xS(688)]=Enum[_0xS(688)][
-_0xS(689)]ak[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]al[_0xS(137)]=_0xS(762)al
-[_0xS(182)]=X al[_0xS(639)]=Color3[_0xS(573)](230,230,230)al[_0xS(634)]=1 al[
-_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)al[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]al[
-_0xS(635)]=_0xS(150)al[_0xS(189)]=Color3[_0xS(573)](0,0,0)al[_0xS(686)]=14 local
-am=Instance[_0xS(101)](_0xS(637))local an=Instance[_0xS(101)](_0xS(643))local ao
-=Instance[_0xS(101)](_0xS(188))local ap=Instance[_0xS(101)](_0xS(763))local aq=
-Instance[_0xS(101)](_0xS(650))local ar=ad ad=ad+1 am[_0xS(137)]=_0xS(764)..ar am
-[_0xS(182)]=MainPage am[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]am[_0xS(142)]=
-UDim2[_0xS(101)](0,190,0,30)am[_0xS(192)]=UDim2[_0xS(101)](0,435,0,325)am[_0xS(
-654)]=ac am[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]an[_0xS(644)]=UDim[_0xS(
-101)](0,4)an[_0xS(182)]=am ao[_0xS(137)]=_0xS(727)ao[_0xS(182)]=am ao[_0xS(639)]
-=Color3[_0xS(573)](230,230,230)ao[_0xS(634)]=1 ao[_0xS(142)]=UDim2[_0xS(101)](0,
-5,0,0)ao[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)ao[_0xS(684)]=Enum[_0xS(684)][
-_0xS(685)]ao[_0xS(635)]=ag ao[_0xS(686)]=16 ao[_0xS(688)]=Enum[_0xS(688)][_0xS(
-689)]ao[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]ap[_0xS(137)]=_0xS(765)ap[
-_0xS(182)]=am ap[_0xS(720)]=true ap[_0xS(639)]=Color3[_0xS(573)](230,230,230)ap[
-_0xS(634)]=1 ap[_0xS(721)]=Color3[_0xS(573)](27,42,53)ap[_0xS(716)]=0 ap[_0xS(
-142)]=UDim2[_0xS(101)](0,5,0,30)ap[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,-30)ap[
-_0xS(722)]=_0xS(723)ap[_0xS(725)]=5 ap[_0xS(726)]=_0xS(723)ap[_0xS(766)]=true ap
-[_0xS(767)]=Enum[_0xS(768)][_0xS(769)]aq[_0xS(137)]=_0xS(770)aq[_0xS(182)]=ap aq
-[_0xS(653)]=Enum[_0xS(653)][_0xS(654)]aq[_0xS(657)]=UDim[_0xS(101)](0,5)aq:
-GetPropertyChangedSignal(_0xS(745)):Connect(function()ap[_0xS(724)]=UDim2[_0xS(
-101)](0,0,0,aq[_0xS(745)][_0xS(195)])end)local as=Instance[_0xS(101)](_0xS(637))
-local at=Instance[_0xS(101)](_0xS(643))local au=Instance[_0xS(101)](_0xS(637))
-local av=Instance[_0xS(101)](_0xS(640))local aw=Instance[_0xS(101)](_0xS(633))
-local ax=Instance[_0xS(101)](_0xS(728))as[_0xS(137)]=_0xS(771)as[_0xS(182)]=am
-as[_0xS(636)]=Vector2[_0xS(101)](1,0)as[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587
-)]as[_0xS(142)]=UDim2[_0xS(101)](1,-5,0,5)as[_0xS(192)]=UDim2[_0xS(101)](0,20,0,
-20)as[_0xS(670)]=true at[_0xS(644)]=UDim[_0xS(101)](0,2)at[_0xS(137)]=_0xS(772)
-at[_0xS(182)]=as au[_0xS(137)]=_0xS(730)au[_0xS(182)]=as au[_0xS(639)]=Color3[
-_0xS(573)](255,255,255)au[_0xS(634)]=1 au[_0xS(192)]=UDim2[_0xS(101)](0,20,0,20)
-av[_0xS(137)]=_0xS(731)av[_0xS(182)]=au av[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5
-)av[_0xS(639)]=Color3[_0xS(573)](255,255,255)av[_0xS(634)]=1 av[_0xS(142)]=UDim2
-[_0xS(101)](0.5,0,0.5,0)av[_0xS(192)]=UDim2[_0xS(101)](0,16,0,16)av[_0xS(641)]=
-_0xS(732)av[_0xS(696)]=getgenv()[_0xS(609)][_0xS(578)]aw[_0xS(137)]=_0xS(773)aw[
-_0xS(182)]=au aw[_0xS(639)]=Color3[_0xS(573)](255,255,255)aw[_0xS(634)]=1 aw[
-_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)aw[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]aw[
-_0xS(635)]=_0xS(150)aw[_0xS(189)]=Color3[_0xS(573)](0,0,0)aw[_0xS(686)]=14 ax[
-_0xS(137)]=_0xS(774)ax[_0xS(182)]=as ax[_0xS(639)]=Color3[_0xS(573)](255,255,255
-)ax[_0xS(634)]=1 ax[_0xS(142)]=UDim2[_0xS(101)](0,30,0,0)ax[_0xS(192)]=UDim2[
-_0xS(101)](1,-30,1,0)ax[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]ax[_0xS(635)]=_0xS(
-150)ax[_0xS(686)]=14 ax[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]ax[_0xS(736)]=_0xS(
-775)ax[_0xS(735)]=getgenv()[_0xS(609)][_0xS(582)]ax[_0xS(189)]=getgenv()[_0xS(
-609)][_0xS(581)]local ay=false aw[_0xS(699)]:Connect(function()s:Create(av,
+getgenv()[_0xS(611)]=true r[_0xS(624)][_0xS(242)]=true I[_0xS(644)]=UDim[_0xS(
+101)](0,5)I[_0xS(137)]=_0xS(713)I[_0xS(182)]=W U[_0xS(137)]=_0xS(714)U[_0xS(182)
+]=W U[_0xS(639)]=Color3[_0xS(573)](255,255,255)U[_0xS(634)]=1 U[_0xS(670)]=true
+U[_0xS(142)]=UDim2[_0xS(101)](0,0,0,30)U[_0xS(192)]=UDim2[_0xS(101)](1,0,1,-30)V
+[_0xS(137)]=_0xS(715)V[_0xS(182)]=U V[_0xS(639)]=Color3[_0xS(573)](255,255,255)V
+[_0xS(634)]=1 V[_0xS(716)]=true V[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)J[_0xS(137
+)]=_0xS(717)J[_0xS(182)]=W J[_0xS(639)]=Color3[_0xS(573)](255,255,255)J[_0xS(634
+)]=1 J[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)local Z=Instance[_0xS(101)](_0xS(637
+),J)Z[_0xS(137)]=_0xS(718)Z[_0xS(639)]=Color3[_0xS(573)](90,90,70)Z[_0xS(634)]=
+0.6 Z[_0xS(719)]=0 Z[_0xS(142)]=UDim2[_0xS(101)](0,0,1,-1)Z[_0xS(192)]=UDim2[
+_0xS(101)](1,0,0,1)K[_0xS(137)]=_0xS(674)K[_0xS(182)]=J K[_0xS(639)]=Color3[
+_0xS(573)](255,255,255)K[_0xS(634)]=1 K[_0xS(142)]=UDim2[_0xS(101)](0,5,0,0)K[
+_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)K[_0xS(641)]=getgenv()[_0xS(609)][_0xS(576
+)]L[_0xS(137)]=_0xS(720)L[_0xS(182)]=J L[_0xS(639)]=Color3[_0xS(573)](230,230,
+230)L[_0xS(634)]=1 L[_0xS(142)]=UDim2[_0xS(101)](0,220,0,0)L[_0xS(192)]=UDim2[
+_0xS(101)](1,-35,1,0)L[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]L[_0xS(690)]=true L[
+_0xS(686)]=16 L[_0xS(687)]=true L[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]L[_0xS(
+189)]=getgenv()[_0xS(609)][_0xS(580)]local _=tostring(r[_0xS(676)](getgenv()[
+_0xS(609)][_0xS(583)])[1])local aa=tostring(r[_0xS(676)](getgenv()[_0xS(609)][
+_0xS(583)])[2])local ab=tostring(r[_0xS(676)](getgenv()[_0xS(609)][_0xS(583)])[3
+])local ac=_.._0xS(677)..aa.._0xS(677)..ab L[_0xS(635)]=_0xS(678)..tostring(ac
+or _0xS(679)).._0xS(680)..tostring(E or _0xS(681)).._0xS(682)..tostring(getgenv(
+)[_0xS(702)]or _0xS(150))M[_0xS(137)]=_0xS(721)M[_0xS(182)]=V M[_0xS(142)]=UDim2
+[_0xS(101)](0,5,0,0)M[_0xS(192)]=UDim2[_0xS(101)](0,180,0,325)M[_0xS(639)]=
+Color3[_0xS(573)](28,28,34)M[_0xS(634)]=0.1 local ad=Instance[_0xS(101)](_0xS(
+708),M)ad[_0xS(710)]=Color3[_0xS(573)](90,90,70)ad[_0xS(709)]=1 local ae=
+Instance[_0xS(101)](_0xS(711),M)ae[_0xS(710)]=ColorSequence[_0xS(101)]({
+ColorSequenceKeypoint[_0xS(101)](0,Color3[_0xS(573)](28,28,34)),
+ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](38,38,46))})ae[_0xS(712)]=
+90 ae[_0xS(247)]=NumberSequence[_0xS(101)]({NumberSequenceKeypoint[_0xS(101)](0,
+0.06),NumberSequenceKeypoint[_0xS(101)](1,0.12)})N[_0xS(644)]=UDim[_0xS(101)](0,
+4)N[_0xS(182)]=M O[_0xS(137)]=_0xS(722)O[_0xS(182)]=M O[_0xS(723)]=true O[_0xS(
+639)]=Color3[_0xS(573)](230,230,230)O[_0xS(634)]=1 O[_0xS(724)]=Color3[_0xS(573)
+](27,42,53)O[_0xS(719)]=0 O[_0xS(142)]=UDim2[_0xS(101)](0,0,0,30)O[_0xS(192)]=
+UDim2[_0xS(101)](1,-5,1,-30)O[_0xS(725)]=_0xS(726)O[_0xS(727)]=UDim2[_0xS(101)](
+0,0,0,0)O[_0xS(728)]=5 O[_0xS(729)]=_0xS(726)P[_0xS(182)]=O P[_0xS(653)]=Enum[
+_0xS(653)][_0xS(654)]P[_0xS(657)]=UDim[_0xS(101)](0,5)R[_0xS(137)]=_0xS(730)R[
+_0xS(182)]=M R[_0xS(639)]=Color3[_0xS(573)](230,230,230)R[_0xS(634)]=1 R[_0xS(
+142)]=UDim2[_0xS(101)](0,5,0,0)R[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)R[_0xS(684
+)]=Enum[_0xS(684)][_0xS(685)]R[_0xS(635)]=E R[_0xS(686)]=14 R[_0xS(688)]=Enum[
+_0xS(688)][_0xS(689)]R[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]local af=
+Instance[_0xS(101)](_0xS(637))local ag=Instance[_0xS(101)](_0xS(643))local ah=
+Instance[_0xS(101)](_0xS(637))local ai=Instance[_0xS(101)](_0xS(640))local aj=
+Instance[_0xS(101)](_0xS(731))af[_0xS(137)]=_0xS(732)af[_0xS(182)]=M af[_0xS(636
+)]=Vector2[_0xS(101)](1,0)af[_0xS(639)]=Color3[_0xS(573)](38,38,46)af[_0xS(142)]
+=UDim2[_0xS(101)](1,-5,0,5)af[_0xS(192)]=UDim2[_0xS(101)](0,170,0,25)af[_0xS(670
+)]=true ag[_0xS(182)]=af ag[_0xS(644)]=UDim[_0xS(101)](0,4)ah[_0xS(137)]=_0xS(
+733)ah[_0xS(182)]=af ah[_0xS(639)]=Color3[_0xS(573)](163,162,165)ah[_0xS(634)]=1
+ah[_0xS(192)]=UDim2[_0xS(101)](0,25,1,0)ai[_0xS(137)]=_0xS(734)ai[_0xS(182)]=ah
+ai[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)ai[_0xS(639)]=Color3[_0xS(573)](163,162
+,165)ai[_0xS(634)]=1 ai[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)ai[_0xS(192)]=
+UDim2[_0xS(101)](0,16,0,16)ai[_0xS(641)]=_0xS(735)ai[_0xS(696)]=Color3[_0xS(573)
+](240,240,230)aj[_0xS(137)]=_0xS(736)aj[_0xS(182)]=af aj[_0xS(723)]=true aj[
+_0xS(639)]=Color3[_0xS(573)](163,162,165)aj[_0xS(634)]=1 aj[_0xS(737)]=-1 aj[
+_0xS(142)]=UDim2[_0xS(101)](0,30,0,0)aj[_0xS(192)]=UDim2[_0xS(101)](1,-30,1,0)aj
+[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]aj[_0xS(738)]=Color3[_0xS(573)](170,170,
+160)aj[_0xS(739)]=_0xS(740)aj[_0xS(635)]=_0xS(150)aj[_0xS(189)]=Color3[_0xS(573)
+](235,235,230)aj[_0xS(686)]=14 aj[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]S[_0xS(
+137)]=_0xS(741)S[_0xS(182)]=V S[_0xS(639)]=Color3[_0xS(573)](230,230,230)S[_0xS(
+634)]=1 S[_0xS(670)]=true S[_0xS(142)]=UDim2[_0xS(101)](0,190,0,0)S[_0xS(192)]=
+UDim2[_0xS(101)](0,435,0,325)T[_0xS(137)]=_0xS(742)T[_0xS(182)]=S T[_0xS(743)]=
+Enum[_0xS(743)][_0xS(744)]T[_0xS(653)]=Enum[_0xS(653)][_0xS(654)]T[_0xS(621)]=
+Enum[_0xS(621)][_0xS(745)]T[_0xS(344)]=Enum[_0xS(344)][_0xS(746)]T[_0xS(657)]=
+UDim[_0xS(101)](0,10)T[_0xS(747)]=getgenv()[_0xS(609)][_0xS(605)]P:
+GetPropertyChangedSignal(_0xS(748)):Connect(function()O[_0xS(727)]=UDim2[_0xS(
+101)](0,0,0,P[_0xS(748)][_0xS(195)]+5)end)local ak=Instance[_0xS(101)](_0xS(640)
+)ak[_0xS(278)]=false local al={}if not GlobalSearch then GlobalSearch=function(
+am)am=string[_0xS(749)](am)if am==_0xS(150)then for an,ao in pairs(getgenv()[
+_0xS(610)])do ao[_0xS(750)][_0xS(278)]=true ao[_0xS(751)][_0xS(278)]=true ao[
+_0xS(752)][_0xS(278)]=true end for an,ao in pairs(O:GetChildren())do if not ao:
+IsA(_0xS(650))then ao[_0xS(278)]=true end end return end for an,ao in pairs(
+getgenv()[_0xS(610)])do ao[_0xS(751)][_0xS(278)]=false ao[_0xS(752)][_0xS(278)]=
+false end for an,ao in pairs(O:GetChildren())do if not ao:IsA(_0xS(650))then ao[
+_0xS(278)]=false end end local an={}local ao={}for ap,aq in pairs(getgenv()[
+_0xS(610)])do local ar=string[_0xS(749)](aq[_0xS(137)]or _0xS(150))local as=
+string[_0xS(749)](aq[_0xS(753)]or _0xS(150))local at=string[_0xS(215)](ar,am,1,
+true)~=nil local au=string[_0xS(215)](as,am,1,true)~=nil if not ao[aq[_0xS(751)]
+]then ao[aq[_0xS(751)] ]={}end table[_0xS(754)](ao[aq[_0xS(751)] ],{control=aq,
+elementFound=at,sectionFound=au})if at then an[aq[_0xS(751)] ]=true end end
+local ap={}for aq,ar in pairs(ao)do local as=false local at=false for au,av in
+ipairs(ar)do if av[_0xS(755)]then as=true end if av[_0xS(756)]then at=true end
+end for au,av in ipairs(ar)do local aw=av[_0xS(757)]if av[_0xS(756)]then aw[
+_0xS(752)][_0xS(278)]=true if av[_0xS(755)]or at then aw[_0xS(751)][_0xS(278)]=
+true end ap[aw[_0xS(758)] ]=true aw[_0xS(750)][_0xS(278)]=true elseif av[_0xS(
+755)]and not at then aw[_0xS(751)][_0xS(278)]=true aw[_0xS(752)][_0xS(278)]=
+false ap[aw[_0xS(758)] ]=true aw[_0xS(750)][_0xS(278)]=true end end end for aq,
+ar in pairs(ap)do for as,at in pairs(O:GetChildren())do if not at:IsA(_0xS(650))
+and string[_0xS(215)](at[_0xS(137)],aq,1,true)then at[_0xS(278)]=true end end
+end if not next(ap)then end end end aj:GetPropertyChangedSignal(_0xS(635)):
+Connect(function()GlobalSearch(aj[_0xS(635)])end)local am={}local an=-1 local ao
+=-1 local ap=1 function am:AddTab(aq)local ar=tostring(aq)local as=ar ao=ao+1 an
+=an+1 local at=Instance[_0xS(101)](_0xS(637))local au=Instance[_0xS(101)](_0xS(
+637))local av=Instance[_0xS(101)](_0xS(643))local aw=Instance[_0xS(101)](_0xS(
+637))local ax=Instance[_0xS(101)](_0xS(637))local ay=Instance[_0xS(101)](_0xS(
+643))local az=Instance[_0xS(101)](_0xS(637))local aA=Instance[_0xS(101)](_0xS(
+188))local aB=Instance[_0xS(101)](_0xS(633))at[_0xS(137)]=ar.._0xS(759)at[_0xS(
+182)]=O at[_0xS(639)]=Color3[_0xS(573)](230,230,230)at[_0xS(634)]=1 at[_0xS(192)
+]=UDim2[_0xS(101)](1,-10,0,25)at[_0xS(654)]=an au[_0xS(182)]=at au[_0xS(639)]=
+Color3[_0xS(573)](230,230,230)au[_0xS(634)]=1 au[_0xS(142)]=UDim2[_0xS(101)](0,5
+,0,0)au[_0xS(192)]=UDim2[_0xS(101)](1,-5,1,0)av[_0xS(644)]=UDim[_0xS(101)](0,4)
+av[_0xS(137)]=_0xS(760)av[_0xS(182)]=au aw[_0xS(137)]=_0xS(761)aw[_0xS(182)]=au
+aw[_0xS(636)]=Vector2[_0xS(101)](0,0.5)aw[_0xS(639)]=Color3[_0xS(573)](230,230,
+230)aw[_0xS(634)]=1 aw[_0xS(142)]=UDim2[_0xS(101)](0,0,0.5,0)aw[_0xS(192)]=UDim2
+[_0xS(101)](0,14,1,0)ax[_0xS(137)]=_0xS(762)ax[_0xS(182)]=aw ax[_0xS(636)]=
+Vector2[_0xS(101)](0.5,0.5)ax[_0xS(719)]=0 ax[_0xS(142)]=UDim2[_0xS(101)](0.5,0,
+0.5,0)ax[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,-10)ax[_0xS(639)]=getgenv()[_0xS(
+609)][_0xS(590)]ax[_0xS(634)]=1 ay[_0xS(137)]=_0xS(763)ay[_0xS(182)]=ax az[_0xS(
+137)]=_0xS(764)az[_0xS(182)]=au az[_0xS(639)]=Color3[_0xS(573)](230,230,230)az[
+_0xS(634)]=1 az[_0xS(142)]=UDim2[_0xS(101)](0,15,0,0)az[_0xS(192)]=UDim2[_0xS(
+101)](1,-15,1,0)aA[_0xS(137)]=_0xS(730)aA[_0xS(182)]=az aA[_0xS(639)]=Color3[
+_0xS(573)](230,230,230)aA[_0xS(634)]=1 aA[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)aA
+[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]aA[_0xS(635)]=ar aA[_0xS(189)]=Color3[
+_0xS(573)](230,230,230)aA[_0xS(686)]=14 aA[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]
+aA[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]aB[_0xS(137)]=_0xS(765)aB[_0xS(182)
+]=at aB[_0xS(639)]=Color3[_0xS(573)](230,230,230)aB[_0xS(634)]=1 aB[_0xS(192)]=
+UDim2[_0xS(101)](1,0,1,0)aB[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]aB[_0xS(635)]=
+_0xS(150)aB[_0xS(189)]=Color3[_0xS(573)](0,0,0)aB[_0xS(686)]=14 local aC=
+Instance[_0xS(101)](_0xS(637))local aD=Instance[_0xS(101)](_0xS(643))local aE=
+Instance[_0xS(101)](_0xS(188))local aF=Instance[_0xS(101)](_0xS(704))local aG=
+Instance[_0xS(101)](_0xS(650))local aH=ap ap=ap+1 aC[_0xS(137)]=_0xS(766)..aH aC
+[_0xS(182)]=S aC[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]aC[_0xS(142)]=UDim2[
+_0xS(101)](0,190,0,30)aC[_0xS(192)]=UDim2[_0xS(101)](0,435,0,325)aC[_0xS(654)]=
+ao aC[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]aD[_0xS(644)]=UDim[_0xS(101)](0,
+4)aD[_0xS(182)]=aC aE[_0xS(137)]=_0xS(730)aE[_0xS(182)]=aC aE[_0xS(639)]=Color3[
+_0xS(573)](230,230,230)aE[_0xS(634)]=1 aE[_0xS(142)]=UDim2[_0xS(101)](0,5,0,0)aE
+[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)aE[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]aE
+[_0xS(635)]=as aE[_0xS(686)]=16 aE[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]aE[_0xS(
+189)]=getgenv()[_0xS(609)][_0xS(580)]aF[_0xS(137)]=_0xS(767)aF[_0xS(182)]=aC aF[
+_0xS(723)]=true aF[_0xS(639)]=Color3[_0xS(573)](230,230,230)aF[_0xS(634)]=1 aF[
+_0xS(724)]=Color3[_0xS(573)](27,42,53)aF[_0xS(719)]=0 aF[_0xS(142)]=UDim2[_0xS(
+101)](0,5,0,30)aF[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,-30)aF[_0xS(725)]=_0xS(726
+)aF[_0xS(728)]=5 aF[_0xS(729)]=_0xS(726)aF[_0xS(768)]=true aF[_0xS(769)]=Enum[
+_0xS(770)][_0xS(771)]aG[_0xS(137)]=_0xS(772)aG[_0xS(182)]=aF aG[_0xS(653)]=Enum[
+_0xS(653)][_0xS(654)]aG[_0xS(657)]=UDim[_0xS(101)](0,5)aG:
+GetPropertyChangedSignal(_0xS(748)):Connect(function()aF[_0xS(727)]=UDim2[_0xS(
+101)](0,0,0,aG[_0xS(748)][_0xS(195)])end)local aI=Instance[_0xS(101)](_0xS(637))
+local aJ=Instance[_0xS(101)](_0xS(643))local aK=Instance[_0xS(101)](_0xS(637))
+local aL=Instance[_0xS(101)](_0xS(640))local aM=Instance[_0xS(101)](_0xS(633))
+local aN=Instance[_0xS(101)](_0xS(731))aI[_0xS(137)]=_0xS(773)aI[_0xS(182)]=aC
+aI[_0xS(636)]=Vector2[_0xS(101)](1,0)aI[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587
+)]aI[_0xS(142)]=UDim2[_0xS(101)](1,-5,0,5)aI[_0xS(192)]=UDim2[_0xS(101)](0,20,0,
+20)aI[_0xS(670)]=true aJ[_0xS(644)]=UDim[_0xS(101)](0,2)aJ[_0xS(137)]=_0xS(774)
+aJ[_0xS(182)]=aI aK[_0xS(137)]=_0xS(733)aK[_0xS(182)]=aI aK[_0xS(639)]=Color3[
+_0xS(573)](255,255,255)aK[_0xS(634)]=1 aK[_0xS(192)]=UDim2[_0xS(101)](0,20,0,20)
+aL[_0xS(137)]=_0xS(734)aL[_0xS(182)]=aK aL[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5
+)aL[_0xS(639)]=Color3[_0xS(573)](255,255,255)aL[_0xS(634)]=1 aL[_0xS(142)]=UDim2
+[_0xS(101)](0.5,0,0.5,0)aL[_0xS(192)]=UDim2[_0xS(101)](0,16,0,16)aL[_0xS(641)]=
+_0xS(735)aL[_0xS(696)]=getgenv()[_0xS(609)][_0xS(578)]aM[_0xS(137)]=_0xS(775)aM[
+_0xS(182)]=aK aM[_0xS(639)]=Color3[_0xS(573)](255,255,255)aM[_0xS(634)]=1 aM[
+_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)aM[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]aM[
+_0xS(635)]=_0xS(150)aM[_0xS(189)]=Color3[_0xS(573)](0,0,0)aM[_0xS(686)]=14 aN[
+_0xS(137)]=_0xS(776)aN[_0xS(182)]=aI aN[_0xS(639)]=Color3[_0xS(573)](255,255,255
+)aN[_0xS(634)]=1 aN[_0xS(142)]=UDim2[_0xS(101)](0,30,0,0)aN[_0xS(192)]=UDim2[
+_0xS(101)](1,-30,1,0)aN[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]aN[_0xS(635)]=_0xS(
+150)aN[_0xS(686)]=14 aN[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]aN[_0xS(739)]=_0xS(
+777)aN[_0xS(738)]=getgenv()[_0xS(609)][_0xS(582)]aN[_0xS(189)]=getgenv()[_0xS(
+609)][_0xS(581)]local aO=false aM[_0xS(699)]:Connect(function()s:Create(aL,
 TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(607)]),{ImageColor3=getgenv()[
-_0xS(609)][_0xS(579)]}):Play()end)aw[_0xS(700)]:Connect(function()s:Create(av,
+_0xS(609)][_0xS(579)]}):Play()end)aM[_0xS(700)]:Connect(function()s:Create(aL,
 TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(607)]),{ImageColor3=getgenv()[
-_0xS(609)][_0xS(578)]}):Play()end)aw[_0xS(649)]:Connect(function()ay=not ay
-local az=ay and UDim2[_0xS(101)](0,175,0,20)or UDim2[_0xS(101)](0,20,0,20)game[
-_0xS(16)]:Create(as,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{Size=
-az}):Play()end)local function hideOtherFrame()for az,aA in next,ap:GetChildren()
-do if not aA:IsA(_0xS(650))then aA[_0xS(278)]=false end end end local function 
-showFrameName()for az,aA in pairs(ap:GetChildren())do if not aA:IsA(_0xS(650))
-then if string[_0xS(215)](string[_0xS(746)](aA[_0xS(137)]),string[_0xS(746)](ax[
-_0xS(635)]))then aA[_0xS(278)]=true end end end end ax:GetPropertyChangedSignal(
-_0xS(635)):Connect(function()hideOtherFrame()showFrameName()end)for az,aA in
-pairs(ControlList:GetChildren())do if not(aA:IsA(_0xS(650)))then if az==2 then
-aA[_0xS(637)][_0xS(758)][_0xS(759)][_0xS(634)]=0 end end end al[_0xS(649)]:
-Connect(function()if tostring(UIPage[_0xS(776)])==am[_0xS(137)]then return end
-for az,aA in pairs(MainPage:GetChildren())do if not(aA:IsA(_0xS(777)))and not(aA
-:IsA(_0xS(643)))then aA[_0xS(278)]=false end end am[_0xS(278)]=true UIPage:
-JumpTo(am)for az,aA in next,ControlList:GetChildren()do if not(aA:IsA(_0xS(650))
-)then if aA[_0xS(137)]==af.._0xS(756)then s:Create(aA[_0xS(637)][_0xS(758)][
-_0xS(759)],TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
-BackgroundTransparency=0}):Play()else s:Create(aA[_0xS(637)][_0xS(758)][_0xS(759
-)],TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{BackgroundTransparency
-=1}):Play()end end end end)local az={}function az:AddSection(aA,aB,aC,aD)local
-aE=aB or false local aF=Instance[_0xS(101)](_0xS(637))local aG=Instance[_0xS(101
-)](_0xS(643))local aH=Instance[_0xS(101)](_0xS(637))local aI=Instance[_0xS(101)
-](_0xS(188))local aJ=Instance[_0xS(101)](_0xS(637))local aK=Instance[_0xS(101)](
-_0xS(708))local aL=Instance[_0xS(101)](_0xS(650))aF[_0xS(137)]=aA.._0xS(778)aF[
-_0xS(182)]=ap aF[_0xS(192)]=UDim2[_0xS(101)](1,-5,0,30)aF[_0xS(639)]=Color3[
-_0xS(573)](48,48,56)aF[_0xS(634)]=0.25 aF[_0xS(670)]=true local aM=Instance[
-_0xS(101)](_0xS(705),aF)aM[_0xS(707)]=Color3[_0xS(573)](90,90,70)aM[_0xS(706)]=1
-local aN=Instance[_0xS(101)](_0xS(708),aF)aN[_0xS(707)]=ColorSequence[_0xS(101)
-]({ColorSequenceKeypoint[_0xS(101)](0,Color3[_0xS(573)](38,38,46)),
-ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](48,48,56))})aN[_0xS(709)]=
-90 aN[_0xS(247)]=NumberSequence[_0xS(101)]({NumberSequenceKeypoint[_0xS(101)](0,
-0.05),NumberSequenceKeypoint[_0xS(101)](1,0.15)})aG[_0xS(644)]=UDim[_0xS(101)](0
-,4)aG[_0xS(182)]=aF aH[_0xS(137)]=_0xS(779)aH[_0xS(182)]=aF aH[_0xS(639)]=Color3
-[_0xS(573)](230,230,230)aH[_0xS(634)]=1 aH[_0xS(192)]=UDim2[_0xS(101)](0,415,0,
-30)aI[_0xS(137)]=_0xS(780)aI[_0xS(182)]=aH aI[_0xS(639)]=Color3[_0xS(573)](230,
-230,230)aI[_0xS(634)]=1 aI[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)aI[_0xS(684)]=
-Enum[_0xS(684)][_0xS(685)]aI[_0xS(635)]=aA aI[_0xS(686)]=14 aI[_0xS(189)]=
-getgenv()[_0xS(609)][_0xS(591)]aJ[_0xS(137)]=_0xS(781)aJ[_0xS(182)]=aH aJ[_0xS(
-636)]=Vector2[_0xS(101)](0.5,1)aJ[_0xS(716)]=0 aJ[_0xS(142)]=UDim2[_0xS(101)](
-0.5,0,1,-2)aJ[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,2)aJ[_0xS(639)]=getgenv()[
-_0xS(609)][_0xS(592)]aK[_0xS(247)]=NumberSequence[_0xS(101)]({
+_0xS(609)][_0xS(578)]}):Play()end)aM[_0xS(649)]:Connect(function()aO=not aO
+local aP=aO and UDim2[_0xS(101)](0,175,0,20)or UDim2[_0xS(101)](0,20,0,20)game[
+_0xS(16)]:Create(aI,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{Size=
+aP}):Play()end)local function hideOtherFrame()for aP,aQ in next,aF:GetChildren()
+do if not aQ:IsA(_0xS(650))then aQ[_0xS(278)]=false end end end local function 
+showFrameName()for aP,aQ in pairs(aF:GetChildren())do if not aQ:IsA(_0xS(650))
+then if string[_0xS(215)](string[_0xS(749)](aQ[_0xS(137)]),string[_0xS(749)](aN[
+_0xS(635)]))then aQ[_0xS(278)]=true end end end end aN:GetPropertyChangedSignal(
+_0xS(635)):Connect(function()hideOtherFrame()showFrameName()end)for aP,aQ in
+pairs(O:GetChildren())do if not(aQ:IsA(_0xS(650)))then if aP==2 then aQ[_0xS(637
+)][_0xS(761)][_0xS(762)][_0xS(634)]=0 end end end aB[_0xS(649)]:Connect(function
+()if tostring(T[_0xS(778)])==aC[_0xS(137)]then return end for aP,aQ in pairs(S:
+GetChildren())do if not(aQ:IsA(_0xS(705)))and not(aQ:IsA(_0xS(643)))then aQ[
+_0xS(278)]=false end end aC[_0xS(278)]=true T:JumpTo(aC)for aP,aQ in next,O:
+GetChildren()do if not(aQ:IsA(_0xS(650)))then if aQ[_0xS(137)]==ar.._0xS(759)
+then s:Create(aQ[_0xS(637)][_0xS(761)][_0xS(762)],TweenInfo[_0xS(101)](getgenv()
+[_0xS(609)][_0xS(605)]),{BackgroundTransparency=0}):Play()else s:Create(aQ[_0xS(
+637)][_0xS(761)][_0xS(762)],TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]
+),{BackgroundTransparency=1}):Play()end end end end)local aP={}function aP:
+AddSection(aQ,aR,aS,aT)local aU=aR or false local aV=Instance[_0xS(101)](_0xS(
+637))local aW=Instance[_0xS(101)](_0xS(643))local aX=Instance[_0xS(101)](_0xS(
+637))local aY=Instance[_0xS(101)](_0xS(188))local aZ=Instance[_0xS(101)](_0xS(
+637))local a_=Instance[_0xS(101)](_0xS(711))local a0=Instance[_0xS(101)](_0xS(
+650))aV[_0xS(137)]=aQ.._0xS(779)aV[_0xS(182)]=aF aV[_0xS(192)]=UDim2[_0xS(101)](
+1,-5,0,30)aV[_0xS(639)]=Color3[_0xS(573)](48,48,56)aV[_0xS(634)]=0.25 aV[_0xS(
+670)]=true local a1=Instance[_0xS(101)](_0xS(708),aV)a1[_0xS(710)]=Color3[_0xS(
+573)](90,90,70)a1[_0xS(709)]=1 local a2=Instance[_0xS(101)](_0xS(711),aV)a2[
+_0xS(710)]=ColorSequence[_0xS(101)]({ColorSequenceKeypoint[_0xS(101)](0,Color3[
+_0xS(573)](38,38,46)),ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](48,48
+,56))})a2[_0xS(712)]=90 a2[_0xS(247)]=NumberSequence[_0xS(101)]({
+NumberSequenceKeypoint[_0xS(101)](0,0.05),NumberSequenceKeypoint[_0xS(101)](1,
+0.15)})aW[_0xS(644)]=UDim[_0xS(101)](0,4)aW[_0xS(182)]=aV aX[_0xS(137)]=_0xS(780
+)aX[_0xS(182)]=aV aX[_0xS(639)]=Color3[_0xS(573)](230,230,230)aX[_0xS(634)]=1 aX
+[_0xS(192)]=UDim2[_0xS(101)](0,415,0,30)aY[_0xS(137)]=_0xS(781)aY[_0xS(182)]=aX
+aY[_0xS(639)]=Color3[_0xS(573)](230,230,230)aY[_0xS(634)]=1 aY[_0xS(192)]=UDim2[
+_0xS(101)](1,0,1,0)aY[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]aY[_0xS(635)]=aQ aY[
+_0xS(686)]=14 aY[_0xS(189)]=getgenv()[_0xS(609)][_0xS(591)]aZ[_0xS(137)]=_0xS(
+782)aZ[_0xS(182)]=aX aZ[_0xS(636)]=Vector2[_0xS(101)](0.5,1)aZ[_0xS(719)]=0 aZ[
+_0xS(142)]=UDim2[_0xS(101)](0.5,0,1,-2)aZ[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,2)
+aZ[_0xS(639)]=getgenv()[_0xS(609)][_0xS(592)]local a3=Instance[_0xS(101)](_0xS(
+640))a3[_0xS(278)]=false a_[_0xS(247)]=NumberSequence[_0xS(101)]({
 NumberSequenceKeypoint[_0xS(101)](0,1),NumberSequenceKeypoint[_0xS(101)](0.5,0),
 NumberSequenceKeypoint[_0xS(101)](0.51,0.02),NumberSequenceKeypoint[_0xS(101)](1
-,1)})aK[_0xS(182)]=aJ aL[_0xS(137)]=_0xS(782)aL[_0xS(182)]=aF aL[_0xS(653)]=Enum
-[_0xS(653)][_0xS(654)]aL[_0xS(657)]=UDim[_0xS(101)](0,5)local aO local aP=false
-if aE then local aQ=Instance[_0xS(101)](_0xS(637))local aR=Instance[_0xS(101)](
-_0xS(643))local aS=Instance[_0xS(101)](_0xS(783))local aT=Instance[_0xS(101)](
-_0xS(783))local aU=Instance[_0xS(101)](_0xS(633))aU[_0xS(137)]=_0xS(784)aU[_0xS(
-182)]=aH aU[_0xS(636)]=Vector2[_0xS(101)](1,0.5)aU[_0xS(639)]=Color3[_0xS(573)](
-255,255,255)aU[_0xS(634)]=1 aU[_0xS(721)]=Color3[_0xS(573)](0,0,0)aU[_0xS(716)]=
-0 aU[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]aU[_0xS(635)]=_0xS(150)aU[_0xS(189)]=
-Color3[_0xS(573)](0,0,0)aU[_0xS(686)]=14 aU[_0xS(785)]=2 aU[_0xS(142)]=UDim2[
-_0xS(101)](1,-5,0.5,0)aU[_0xS(192)]=UDim2[_0xS(101)](0,20,0,20)aQ[_0xS(137)]=
-_0xS(786)aQ[_0xS(182)]=aH aQ[_0xS(636)]=Vector2[_0xS(101)](1,0.5)aQ[_0xS(639)]=
-Color3[_0xS(573)](30,30,30)aQ[_0xS(721)]=Color3[_0xS(573)](0,0,0)aQ[_0xS(716)]=0
-aQ[_0xS(142)]=UDim2[_0xS(101)](1,-5,0.5,0)aQ[_0xS(192)]=UDim2[_0xS(101)](0,20,0,
-20)aR[_0xS(644)]=UDim[_0xS(101)](0,4)aR[_0xS(137)]=_0xS(787)aR[_0xS(182)]=aQ aS[
-_0xS(137)]=_0xS(788)aS[_0xS(182)]=aQ aS[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)aS
-[_0xS(634)]=1 aS[_0xS(654)]=4 aS[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)aS[
-_0xS(192)]=UDim2[_0xS(101)](1,-4,1,-4)aS[_0xS(785)]=2 aS[_0xS(641)]=_0xS(789)aS[
-_0xS(694)]=Vector2[_0xS(101)](84,44)aS[_0xS(695)]=Vector2[_0xS(101)](36,36)aS[
-_0xS(790)]=1 aT[_0xS(137)]=_0xS(791)aT[_0xS(182)]=aQ aT[_0xS(636)]=Vector2[_0xS(
-101)](0.5,0.5)aT[_0xS(634)]=1 aT[_0xS(654)]=4 aT[_0xS(142)]=UDim2[_0xS(101)](0.5
-,0,0.5,0)aT[_0xS(192)]=UDim2[_0xS(101)](1,-4,1,-4)aT[_0xS(785)]=2 aT[_0xS(641)]=
-_0xS(789)aT[_0xS(694)]=Vector2[_0xS(101)](564,44)aT[_0xS(695)]=Vector2[_0xS(101)
-](36,36)aT[_0xS(790)]=0 aU[_0xS(792)]:Connect(function()aP=not aP s:Create(aS,
-TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]/2),{ImageTransparency=aP
-and 0 or 1}):Play()wait(getgenv()[_0xS(609)][_0xS(605)]/4)s:Create(aT,TweenInfo[
-_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]/2),{ImageTransparency=aP and 1 or 0})
-:Play()s:Create(aF,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{Size=
-UDim2[_0xS(101)](1,-5,0,(aP and aO or 30))}):Play()end)end if aC then local aQ=
-Instance[_0xS(101)](_0xS(637))aQ[_0xS(137)]=_0xS(793)aQ[_0xS(182)]=ap aQ[_0xS(
-192)]=UDim2[_0xS(101)](1,-5,0,30)aQ[_0xS(670)]=true aQ[_0xS(247)]=1 end aL:
-GetPropertyChangedSignal(_0xS(745)):Connect(function()if(not aE)then aF[_0xS(192
-)]=UDim2[_0xS(101)](1,-5,0,aL[_0xS(745)][_0xS(195)]+5)end aO=aL[_0xS(745)][_0xS(
-195)]+5 if aP then s:Create(aF,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
-605)]),{Size=UDim2[_0xS(101)](1,-5,0,aO)}):Play()end end)local aQ={}function aQ:
-AddToggle(aR,aS)local aT=tostring(aS[_0xS(635)]or aS[_0xS(187)])or _0xS(150)
-local aU=aS[_0xS(664)]or aS[_0xS(663)]local aV=aS[_0xS(551)]if aV==nil then aV=
-false end local aW=aS[_0xS(794)]local aX=Instance[_0xS(101)](_0xS(637))local aY=
-Instance[_0xS(101)](_0xS(637))local aZ=Instance[_0xS(101)](_0xS(640))local a_=
-Instance[_0xS(101)](_0xS(637))local a0=Instance[_0xS(101)](_0xS(188))local a1=
-Instance[_0xS(101)](_0xS(188))local a2=Instance[_0xS(101)](_0xS(637))local a3=
-Instance[_0xS(101)](_0xS(643))local a4=Instance[_0xS(101)](_0xS(633))local a5=
-Instance[_0xS(101)](_0xS(650))aX[_0xS(137)]=_0xS(795)aX[_0xS(182)]=aF aX[_0xS(
-639)]=Color3[_0xS(573)](230,230,230)aX[_0xS(634)]=1 aX[_0xS(142)]=UDim2[_0xS(101
-)](0,0,0.300000012,0)aX[_0xS(192)]=UDim2[_0xS(101)](1,0,0,0)aX[_0xS(671)]=Enum[
-_0xS(671)][_0xS(195)]aY[_0xS(137)]=_0xS(796)aY[_0xS(182)]=aX aY[_0xS(636)]=
-Vector2[_0xS(101)](0.5,0.5)aY[_0xS(639)]=Color3[_0xS(573)](230,230,230)aY[_0xS(
-634)]=1 aY[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)aY[_0xS(192)]=UDim2[_0xS(101)
-](1,-10,0,0)aY[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]aZ[_0xS(137)]=_0xS(797)aZ[
-_0xS(182)]=aY aZ[_0xS(636)]=Vector2[_0xS(101)](1,0.5)aZ[_0xS(639)]=Color3[_0xS(
-573)](230,230,230)aZ[_0xS(634)]=1 aZ[_0xS(142)]=UDim2[_0xS(101)](1,-5,0.5,3)aZ[
-_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)aZ[_0xS(641)]=_0xS(798)aZ[_0xS(696)]=
-getgenv()[_0xS(609)][_0xS(593)]a_[_0xS(137)]=_0xS(799)a_[_0xS(182)]=aZ a_[_0xS(
-636)]=Vector2[_0xS(101)](0.5,0.5)a_[_0xS(639)]=Color3[_0xS(573)](255,206,27)a_[
-_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)local a6=5 if aU then a6=0 a0[_0xS(137)]
-=_0xS(800)a0[_0xS(182)]=aY a0[_0xS(639)]=Color3[_0xS(573)](230,230,230)a0[_0xS(
-634)]=1 a0[_0xS(142)]=UDim2[_0xS(101)](0,15,0,20)a0[_0xS(192)]=UDim2[_0xS(101)](
-1,-50,0,0)a0[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]a0[_0xS(635)]=aU a0[_0xS(686)]
-=13 a0[_0xS(687)]=true a0[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]a0[_0xS(690)]=
-true a0[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]a0[_0xS(189)]=getgenv()[_0xS(609)][
-_0xS(595)]else a0[_0xS(635)]=_0xS(150)end a1[_0xS(137)]=_0xS(698)a1[_0xS(182)]=
-aY a1[_0xS(639)]=Color3[_0xS(573)](230,230,230)a1[_0xS(634)]=1 a1[_0xS(142)]=
-UDim2[_0xS(101)](0,10,0,a6)a1[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,20)a1[_0xS(684
-)]=Enum[_0xS(684)][_0xS(801)]a1[_0xS(635)]=aT a1[_0xS(686)]=14 a1[_0xS(688)]=
-Enum[_0xS(688)][_0xS(689)]a1[_0xS(802)]=Enum[_0xS(802)][_0xS(803)]a1[_0xS(690)]=
-true a1[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]a1[_0xS(189)]=getgenv()[_0xS(609)][
-_0xS(581)]a2[_0xS(137)]=_0xS(718)a2[_0xS(182)]=aY a2[_0xS(192)]=UDim2[_0xS(101)
-](1,0,1,6)a2[_0xS(785)]=0 a2[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]a2[_0xS(
-634)]=getgenv()[_0xS(609)][_0xS(586)]a3[_0xS(644)]=UDim[_0xS(101)](0,4)a3[_0xS(
-137)]=_0xS(804)a3[_0xS(182)]=a2 a4[_0xS(137)]=_0xS(805)a4[_0xS(182)]=aY a4[_0xS(
-639)]=Color3[_0xS(573)](230,230,230)a4[_0xS(634)]=1 a4[_0xS(636)]=Vector2[_0xS(
-101)](1,0.5)a4[_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)a4[_0xS(142)]=UDim2[_0xS(
-101)](1,-5,0.5,3)a4[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]a4[_0xS(635)]=_0xS(150)
-a4[_0xS(189)]=Color3[_0xS(573)](0,0,0)a4[_0xS(686)]=14 a5[_0xS(137)]=_0xS(806)a5
-[_0xS(182)]=aX a5[_0xS(807)]=Enum[_0xS(807)][_0xS(803)]a5[_0xS(653)]=Enum[_0xS(
-653)][_0xS(654)]a5[_0xS(655)]=Enum[_0xS(655)][_0xS(803)]a5[_0xS(657)]=UDim[_0xS(
-101)](0,5)local function ChangeStage(a7)local a8=a7 and UDim2[_0xS(101)](0.5,0,
-0.5,0)or UDim2[_0xS(101)](0,0,0,0)local a9=a7 and UDim2[_0xS(101)](0.5,0,0.5,0)
-or UDim2[_0xS(101)](0.5,0,0.5,0)local ba=a7 and Vector2[_0xS(101)](0.5,0.5)or
-Vector2[_0xS(101)](0.5,0.5)game[_0xS(16)]:Create(a_,TweenInfo[_0xS(101)](
-getgenv()[_0xS(609)][_0xS(605)]),{Size=a8,Position=a9,AnchorPoint=ba}):Play()end
-ChangeStage(aV)local function ButtonClick()aV=not aV ChangeStage(aV)if aW then
-pcall(aW,aV)end end a4[_0xS(792)]:Connect(function()ButtonClick()end)local a7={}
-function a7.SetStage(a8)if a8~=aV then ButtonClick()end end local a8={Name=aT,
-Section=aF,Element=aX,SectionName=aA,TabName=af,TabButton=X}table[_0xS(751)](
-getgenv()[_0xS(610)],a8)if aW and aV~=nil then pcall(aW,aV)end return a7 end
-function aQ:AddButton(aR,aS)local aT=aR[_0xS(187)]or aR[_0xS(635)]or _0xS(150)
-local aU=aR[_0xS(794)]or aR[_0xS(808)]or function()end local aV=Instance[_0xS(
-101)](_0xS(637))local aW=Instance[_0xS(101)](_0xS(637))local aX=Instance[_0xS(
-101)](_0xS(643))local aY=Instance[_0xS(101)](_0xS(637))local aZ=Instance[_0xS(
-101)](_0xS(643))local a_=Instance[_0xS(101)](_0xS(188))local a0=Instance[_0xS(
-101)](_0xS(637))local a1=Instance[_0xS(101)](_0xS(643))local a2=Instance[_0xS(
-101)](_0xS(708))local a3=Instance[_0xS(101)](_0xS(640))local a4=Instance[_0xS(
-101)](_0xS(637))local a5=Instance[_0xS(101)](_0xS(643))local a6=Instance[_0xS(
-101)](_0xS(809))local a7=Instance[_0xS(101)](_0xS(633))aV[_0xS(137)]=_0xS(810)aV
-[_0xS(182)]=aF aV[_0xS(639)]=Color3[_0xS(573)](163,162,165)aV[_0xS(634)]=1 aV[
-_0xS(192)]=UDim2[_0xS(101)](1,0,0,40)aW[_0xS(137)]=_0xS(811)aW[_0xS(182)]=aV aW[
-_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)aW[_0xS(639)]=getgenv()[_0xS(609)][_0xS(
-585)]aW[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]aW[_0xS(142)]=UDim2[_0xS(101)
-](0.5,0,0.5,0)aW[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)aX[_0xS(182)]=aW aX[_0xS(
-644)]=UDim[_0xS(101)](0,10)aY[_0xS(137)]=_0xS(812)aY[_0xS(182)]=aW aY[_0xS(639)]
-=getgenv()[_0xS(609)][_0xS(587)]aY[_0xS(634)]=1 aY[_0xS(192)]=UDim2[_0xS(101)](1
-,0,1,0)aY[_0xS(785)]=2 aZ[_0xS(182)]=aY aZ[_0xS(644)]=UDim[_0xS(101)](0,10)a_[
-_0xS(137)]=_0xS(698)a_[_0xS(182)]=aW a_[_0xS(639)]=Color3[_0xS(573)](163,162,165
-)a_[_0xS(634)]=1 a_[_0xS(142)]=UDim2[_0xS(101)](0,12,0,0)a_[_0xS(192)]=UDim2[
-_0xS(101)](1,-110,1,0)a_[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]a_[_0xS(635)]=aT
-a_[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]a_[_0xS(686)]=14 a_[_0xS(813)]=
-0.8500000238418579 a_[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]a0[_0xS(137)]=_0xS(
-814)a0[_0xS(182)]=aW a0[_0xS(636)]=Vector2[_0xS(101)](1,0.5)a0[_0xS(639)]=Color3
-[_0xS(573)](255,206,27)a0[_0xS(142)]=UDim2[_0xS(101)](1,-8,0.5,0)a0[_0xS(192)]=
-UDim2[_0xS(101)](0,94,0,30)a0[_0xS(670)]=true a1[_0xS(182)]=a0 a1[_0xS(644)]=
-UDim[_0xS(101)](0,12)a2[_0xS(182)]=a0 a2[_0xS(707)]=ColorSequence[_0xS(101)]({
+,1)})a_[_0xS(182)]=aZ a0[_0xS(137)]=_0xS(783)a0[_0xS(182)]=aV a0[_0xS(653)]=Enum
+[_0xS(653)][_0xS(654)]a0[_0xS(657)]=UDim[_0xS(101)](0,5)local a4 local a5=false
+if aU then local a6=Instance[_0xS(101)](_0xS(637))local a7=Instance[_0xS(101)](
+_0xS(643))local a8=Instance[_0xS(101)](_0xS(784))local a9=Instance[_0xS(101)](
+_0xS(784))local ba=Instance[_0xS(101)](_0xS(633))ba[_0xS(137)]=_0xS(785)ba[_0xS(
+182)]=aX ba[_0xS(636)]=Vector2[_0xS(101)](1,0.5)ba[_0xS(639)]=Color3[_0xS(573)](
+255,255,255)ba[_0xS(634)]=1 ba[_0xS(724)]=Color3[_0xS(573)](0,0,0)ba[_0xS(719)]=
+0 ba[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]ba[_0xS(635)]=_0xS(150)ba[_0xS(189)]=
+Color3[_0xS(573)](0,0,0)ba[_0xS(686)]=14 ba[_0xS(786)]=2 ba[_0xS(142)]=UDim2[
+_0xS(101)](1,-5,0.5,0)ba[_0xS(192)]=UDim2[_0xS(101)](0,20,0,20)a6[_0xS(137)]=
+_0xS(787)a6[_0xS(182)]=aX a6[_0xS(636)]=Vector2[_0xS(101)](1,0.5)a6[_0xS(639)]=
+Color3[_0xS(573)](30,30,30)a6[_0xS(724)]=Color3[_0xS(573)](0,0,0)a6[_0xS(719)]=0
+a6[_0xS(142)]=UDim2[_0xS(101)](1,-5,0.5,0)a6[_0xS(192)]=UDim2[_0xS(101)](0,20,0,
+20)a7[_0xS(644)]=UDim[_0xS(101)](0,4)a7[_0xS(137)]=_0xS(788)a7[_0xS(182)]=a6 a8[
+_0xS(137)]=_0xS(789)a8[_0xS(182)]=a6 a8[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)a8
+[_0xS(634)]=1 a8[_0xS(654)]=4 a8[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)a8[
+_0xS(192)]=UDim2[_0xS(101)](1,-4,1,-4)a8[_0xS(786)]=2 a8[_0xS(641)]=_0xS(790)a8[
+_0xS(694)]=Vector2[_0xS(101)](84,44)a8[_0xS(695)]=Vector2[_0xS(101)](36,36)a8[
+_0xS(706)]=1 a9[_0xS(137)]=_0xS(791)a9[_0xS(182)]=a6 a9[_0xS(636)]=Vector2[_0xS(
+101)](0.5,0.5)a9[_0xS(634)]=1 a9[_0xS(654)]=4 a9[_0xS(142)]=UDim2[_0xS(101)](0.5
+,0,0.5,0)a9[_0xS(192)]=UDim2[_0xS(101)](1,-4,1,-4)a9[_0xS(786)]=2 a9[_0xS(641)]=
+_0xS(790)a9[_0xS(694)]=Vector2[_0xS(101)](564,44)a9[_0xS(695)]=Vector2[_0xS(101)
+](36,36)a9[_0xS(706)]=0 ba[_0xS(792)]:Connect(function()a5=not a5 s:Create(a8,
+TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]/2),{ImageTransparency=a5
+and 0 or 1}):Play()wait(getgenv()[_0xS(609)][_0xS(605)]/4)s:Create(a9,TweenInfo[
+_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]/2),{ImageTransparency=a5 and 1 or 0})
+:Play()s:Create(aV,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{Size=
+UDim2[_0xS(101)](1,-5,0,(a5 and a4 or 30))}):Play()end)end if aS then local a6=
+Instance[_0xS(101)](_0xS(637))a6[_0xS(137)]=_0xS(793)a6[_0xS(182)]=aF a6[_0xS(
+192)]=UDim2[_0xS(101)](1,-5,0,30)a6[_0xS(670)]=true a6[_0xS(247)]=1 end a0:
+GetPropertyChangedSignal(_0xS(748)):Connect(function()if(not aU)then aV[_0xS(192
+)]=UDim2[_0xS(101)](1,-5,0,a0[_0xS(748)][_0xS(195)]+5)end a4=a0[_0xS(748)][_0xS(
+195)]+5 if a5 then s:Create(aV,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
+605)]),{Size=UDim2[_0xS(101)](1,-5,0,a4)}):Play()end end)local a6={}function a6:
+AddToggle(a7,a8)local a9=tostring(a8[_0xS(635)]or a8[_0xS(187)])or _0xS(150)
+local ba=a8[_0xS(664)]or a8[_0xS(663)]local bb=a8[_0xS(551)]if bb==nil then bb=
+false end local bc=a8[_0xS(794)]local bd=Instance[_0xS(101)](_0xS(637))local be=
+Instance[_0xS(101)](_0xS(637))local bf=Instance[_0xS(101)](_0xS(640))local bg=
+Instance[_0xS(101)](_0xS(637))local bh=Instance[_0xS(101)](_0xS(188))local bi=
+Instance[_0xS(101)](_0xS(188))local bj=Instance[_0xS(101)](_0xS(637))local bk=
+Instance[_0xS(101)](_0xS(643))local bl=Instance[_0xS(101)](_0xS(633))local bm=
+Instance[_0xS(101)](_0xS(650))bd[_0xS(137)]=_0xS(795)bd[_0xS(182)]=aV bd[_0xS(
+639)]=Color3[_0xS(573)](230,230,230)bd[_0xS(634)]=1 bd[_0xS(142)]=UDim2[_0xS(101
+)](0,0,0.300000012,0)bd[_0xS(192)]=UDim2[_0xS(101)](1,0,0,0)bd[_0xS(671)]=Enum[
+_0xS(671)][_0xS(195)]be[_0xS(137)]=_0xS(796)be[_0xS(182)]=bd be[_0xS(636)]=
+Vector2[_0xS(101)](0.5,0.5)be[_0xS(639)]=Color3[_0xS(573)](230,230,230)be[_0xS(
+634)]=1 be[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)be[_0xS(192)]=UDim2[_0xS(101)
+](1,-10,0,0)be[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]bf[_0xS(137)]=_0xS(797)bf[
+_0xS(182)]=be bf[_0xS(636)]=Vector2[_0xS(101)](1,0.5)bf[_0xS(639)]=Color3[_0xS(
+573)](230,230,230)bf[_0xS(634)]=1 bf[_0xS(142)]=UDim2[_0xS(101)](1,-5,0.5,3)bf[
+_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)bf[_0xS(641)]=_0xS(798)bf[_0xS(696)]=
+getgenv()[_0xS(609)][_0xS(593)]bg[_0xS(137)]=_0xS(799)bg[_0xS(182)]=bf bg[_0xS(
+636)]=Vector2[_0xS(101)](0.5,0.5)bg[_0xS(639)]=Color3[_0xS(573)](255,206,27)bg[
+_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)local bn=5 if ba then bn=0 bh[_0xS(137)]
+=_0xS(800)bh[_0xS(182)]=be bh[_0xS(639)]=Color3[_0xS(573)](230,230,230)bh[_0xS(
+634)]=1 bh[_0xS(142)]=UDim2[_0xS(101)](0,15,0,20)bh[_0xS(192)]=UDim2[_0xS(101)](
+1,-50,0,0)bh[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bh[_0xS(635)]=ba bh[_0xS(686)]
+=13 bh[_0xS(687)]=true bh[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bh[_0xS(690)]=
+true bh[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]bh[_0xS(189)]=getgenv()[_0xS(609)][
+_0xS(595)]else bh[_0xS(635)]=_0xS(150)end bi[_0xS(137)]=_0xS(698)bi[_0xS(182)]=
+be bi[_0xS(639)]=Color3[_0xS(573)](230,230,230)bi[_0xS(634)]=1 bi[_0xS(142)]=
+UDim2[_0xS(101)](0,10,0,bn)bi[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,20)bi[_0xS(684
+)]=Enum[_0xS(684)][_0xS(801)]bi[_0xS(635)]=a9 bi[_0xS(686)]=14 bi[_0xS(688)]=
+Enum[_0xS(688)][_0xS(689)]bi[_0xS(802)]=Enum[_0xS(802)][_0xS(803)]bi[_0xS(690)]=
+true bi[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]bi[_0xS(189)]=getgenv()[_0xS(609)][
+_0xS(581)]bj[_0xS(137)]=_0xS(721)bj[_0xS(182)]=be bj[_0xS(192)]=UDim2[_0xS(101)
+](1,0,1,6)bj[_0xS(786)]=0 bj[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bj[_0xS(
+634)]=getgenv()[_0xS(609)][_0xS(586)]bk[_0xS(644)]=UDim[_0xS(101)](0,4)bk[_0xS(
+137)]=_0xS(804)bk[_0xS(182)]=bj bl[_0xS(137)]=_0xS(805)bl[_0xS(182)]=be bl[_0xS(
+639)]=Color3[_0xS(573)](230,230,230)bl[_0xS(634)]=1 bl[_0xS(636)]=Vector2[_0xS(
+101)](1,0.5)bl[_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)bl[_0xS(142)]=UDim2[_0xS(
+101)](1,-5,0.5,3)bl[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]bl[_0xS(635)]=_0xS(150)
+bl[_0xS(189)]=Color3[_0xS(573)](0,0,0)bl[_0xS(686)]=14 bm[_0xS(137)]=_0xS(806)bm
+[_0xS(182)]=bd bm[_0xS(807)]=Enum[_0xS(807)][_0xS(803)]bm[_0xS(653)]=Enum[_0xS(
+653)][_0xS(654)]bm[_0xS(655)]=Enum[_0xS(655)][_0xS(803)]bm[_0xS(657)]=UDim[_0xS(
+101)](0,5)local function ChangeStage(bo)local bp=bo and UDim2[_0xS(101)](0.5,0,
+0.5,0)or UDim2[_0xS(101)](0,0,0,0)local bq=bo and UDim2[_0xS(101)](0.5,0,0.5,0)
+or UDim2[_0xS(101)](0.5,0,0.5,0)local br=bo and Vector2[_0xS(101)](0.5,0.5)or
+Vector2[_0xS(101)](0.5,0.5)game[_0xS(16)]:Create(bg,TweenInfo[_0xS(101)](
+getgenv()[_0xS(609)][_0xS(605)]),{Size=bp,Position=bq,AnchorPoint=br}):Play()end
+ChangeStage(bb)local function ButtonClick()bb=not bb ChangeStage(bb)if bc then
+pcall(bc,bb)end end bl[_0xS(792)]:Connect(function()ButtonClick()end)local bo={}
+function bo.SetStage(bp)if bp~=bb then ButtonClick()end end local bp={Name=a9,
+Section=aV,Element=bd,SectionName=aQ,TabName=ar,TabButton=at}table[_0xS(754)](
+getgenv()[_0xS(610)],bp)if bc and bb~=nil then pcall(bc,bb)end return bo end
+function a6:AddButton(a7,a8)local a9=a7[_0xS(187)]or a7[_0xS(635)]or _0xS(150)
+local ba=a7[_0xS(794)]or a7[_0xS(808)]or function()end local bb=Instance[_0xS(
+101)](_0xS(637))local bc=Instance[_0xS(101)](_0xS(637))local bd=Instance[_0xS(
+101)](_0xS(643))local be=Instance[_0xS(101)](_0xS(637))local bf=Instance[_0xS(
+101)](_0xS(643))local bg=Instance[_0xS(101)](_0xS(188))local bh=Instance[_0xS(
+101)](_0xS(637))local bi=Instance[_0xS(101)](_0xS(643))local bj=Instance[_0xS(
+101)](_0xS(711))local bk=Instance[_0xS(101)](_0xS(640))local bl=Instance[_0xS(
+101)](_0xS(637))local bm=Instance[_0xS(101)](_0xS(643))local bn=Instance[_0xS(
+101)](_0xS(809))local bo=Instance[_0xS(101)](_0xS(633))bb[_0xS(137)]=_0xS(810)bb
+[_0xS(182)]=aV bb[_0xS(639)]=Color3[_0xS(573)](163,162,165)bb[_0xS(634)]=1 bb[
+_0xS(192)]=UDim2[_0xS(101)](1,0,0,40)bc[_0xS(137)]=_0xS(811)bc[_0xS(182)]=bb bc[
+_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bc[_0xS(639)]=getgenv()[_0xS(609)][_0xS(
+585)]bc[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]bc[_0xS(142)]=UDim2[_0xS(101)
+](0.5,0,0.5,0)bc[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)bd[_0xS(182)]=bc bd[_0xS(
+644)]=UDim[_0xS(101)](0,10)be[_0xS(137)]=_0xS(812)be[_0xS(182)]=bc be[_0xS(639)]
+=getgenv()[_0xS(609)][_0xS(587)]be[_0xS(634)]=1 be[_0xS(192)]=UDim2[_0xS(101)](1
+,0,1,0)be[_0xS(786)]=2 bf[_0xS(182)]=be bf[_0xS(644)]=UDim[_0xS(101)](0,10)bg[
+_0xS(137)]=_0xS(698)bg[_0xS(182)]=bc bg[_0xS(639)]=Color3[_0xS(573)](163,162,165
+)bg[_0xS(634)]=1 bg[_0xS(142)]=UDim2[_0xS(101)](0,12,0,0)bg[_0xS(192)]=UDim2[
+_0xS(101)](1,-110,1,0)bg[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bg[_0xS(635)]=a9
+bg[_0xS(189)]=getgenv()[_0xS(609)][_0xS(580)]bg[_0xS(686)]=14 bg[_0xS(813)]=
+0.8500000238418579 bg[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bh[_0xS(137)]=_0xS(
+814)bh[_0xS(182)]=bc bh[_0xS(636)]=Vector2[_0xS(101)](1,0.5)bh[_0xS(639)]=Color3
+[_0xS(573)](255,206,27)bh[_0xS(142)]=UDim2[_0xS(101)](1,-8,0.5,0)bh[_0xS(192)]=
+UDim2[_0xS(101)](0,94,0,30)bh[_0xS(670)]=true bi[_0xS(182)]=bh bi[_0xS(644)]=
+UDim[_0xS(101)](0,12)bj[_0xS(182)]=bh bj[_0xS(710)]=ColorSequence[_0xS(101)]({
 ColorSequenceKeypoint[_0xS(101)](0,Color3[_0xS(573)](255,216,77)),
 ColorSequenceKeypoint[_0xS(101)](0.4,Color3[_0xS(573)](255,206,27)),
 ColorSequenceKeypoint[_0xS(101)](0.6,Color3[_0xS(573)](235,186,17)),
-ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](215,166,7))})a2[_0xS(709)]=
-90 a3[_0xS(182)]=a0 a3[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)a3[_0xS(639)]=
-Color3[_0xS(573)](163,162,165)a3[_0xS(634)]=1 a3[_0xS(142)]=UDim2[_0xS(101)](0.5
-,0,0.5,0)a3[_0xS(192)]=UDim2[_0xS(101)](1,14,1,14)a3[_0xS(785)]=0 a3[_0xS(641)]=
-_0xS(815)a3[_0xS(790)]=0.7 a3[_0xS(816)]=Enum[_0xS(816)][_0xS(817)]a3[_0xS(818)]
-=Rect[_0xS(101)](24,24,276,276)a4[_0xS(182)]=a0 a4[_0xS(636)]=Vector2[_0xS(101)
-](0.5,0)a4[_0xS(639)]=Color3[_0xS(573)](255,255,255)a4[_0xS(634)]=0.8 a4[_0xS(
-142)]=UDim2[_0xS(101)](0.5,0,0,2)a4[_0xS(192)]=UDim2[_0xS(101)](1,-6,0,10)a4[
-_0xS(785)]=2 a5[_0xS(182)]=a4 a5[_0xS(644)]=UDim[_0xS(101)](0,10)a6[_0xS(182)]=
-a0 a7[_0xS(137)]=_0xS(810)a7[_0xS(182)]=a0 a7[_0xS(720)]=true a7[_0xS(819)]=
-false a7[_0xS(639)]=Color3[_0xS(573)](163,162,165)a7[_0xS(634)]=1 a7[_0xS(192)]=
-UDim2[_0xS(101)](1,0,1,0)a7[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]a7[_0xS(635)]=
-_0xS(820)a7[_0xS(189)]=Color3[_0xS(573)](240,240,240)a7[_0xS(686)]=13 a6[_0xS(
-193)]=1 local a8=s:Create(a6,TweenInfo[_0xS(101)](0.12,Enum[_0xS(344)][_0xS(821)
-]),{Scale=1.05})local a9=s:Create(a6,TweenInfo[_0xS(101)](0.12,Enum[_0xS(344)][
-_0xS(821)]),{Scale=1})a7[_0xS(699)]:Connect(function()a8:Play()end)a7[_0xS(700)]
-:Connect(function()a9:Play()end)a7[_0xS(792)]:Connect(function()local ba=a0[
-_0xS(194)][_0xS(160)]local bb=a0[_0xS(194)][_0xS(195)]local bc=Instance[_0xS(101
-)](_0xS(637))bc[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bc[_0xS(142)]=UDim2[_0xS(
-101)](0.5,0,0.5,0)bc[_0xS(192)]=UDim2[_0xS(101)](0,0,0,0)bc[_0xS(639)]=Color3[
-_0xS(573)](255,255,255)bc[_0xS(634)]=0.6 bc[_0xS(785)]=20 bc[_0xS(182)]=a0 local
-bd=Instance[_0xS(101)](_0xS(643))bd[_0xS(644)]=a1[_0xS(644)]bd[_0xS(182)]=bc
-local be=s:Create(bc,TweenInfo[_0xS(101)](0.35,Enum[_0xS(344)][_0xS(822)],Enum[
+ColorSequenceKeypoint[_0xS(101)](1,Color3[_0xS(573)](215,166,7))})bj[_0xS(712)]=
+90 bk[_0xS(182)]=bh bk[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bk[_0xS(639)]=
+Color3[_0xS(573)](163,162,165)bk[_0xS(634)]=1 bk[_0xS(142)]=UDim2[_0xS(101)](0.5
+,0,0.5,0)bk[_0xS(192)]=UDim2[_0xS(101)](1,14,1,14)bk[_0xS(786)]=0 bk[_0xS(641)]=
+_0xS(815)bk[_0xS(706)]=0.7 bk[_0xS(816)]=Enum[_0xS(816)][_0xS(817)]bk[_0xS(818)]
+=Rect[_0xS(101)](24,24,276,276)bl[_0xS(182)]=bh bl[_0xS(636)]=Vector2[_0xS(101)
+](0.5,0)bl[_0xS(639)]=Color3[_0xS(573)](255,255,255)bl[_0xS(634)]=0.8 bl[_0xS(
+142)]=UDim2[_0xS(101)](0.5,0,0,2)bl[_0xS(192)]=UDim2[_0xS(101)](1,-6,0,10)bl[
+_0xS(786)]=2 bm[_0xS(182)]=bl bm[_0xS(644)]=UDim[_0xS(101)](0,10)bn[_0xS(182)]=
+bh bo[_0xS(137)]=_0xS(810)bo[_0xS(182)]=bh bo[_0xS(723)]=true bo[_0xS(819)]=
+false bo[_0xS(639)]=Color3[_0xS(573)](163,162,165)bo[_0xS(634)]=1 bo[_0xS(192)]=
+UDim2[_0xS(101)](1,0,1,0)bo[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bo[_0xS(635)]=
+_0xS(820)bo[_0xS(189)]=Color3[_0xS(573)](240,240,240)bo[_0xS(686)]=13 bn[_0xS(
+193)]=1 local bp=s:Create(bn,TweenInfo[_0xS(101)](0.12,Enum[_0xS(344)][_0xS(821)
+]),{Scale=1.05})local bq=s:Create(bn,TweenInfo[_0xS(101)](0.12,Enum[_0xS(344)][
+_0xS(821)]),{Scale=1})bo[_0xS(699)]:Connect(function()bp:Play()end)bo[_0xS(700)]
+:Connect(function()bq:Play()end)bo[_0xS(792)]:Connect(function()local br=bh[
+_0xS(194)][_0xS(160)]local bs=bh[_0xS(194)][_0xS(195)]local bt=Instance[_0xS(101
+)](_0xS(637))bt[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bt[_0xS(142)]=UDim2[_0xS(
+101)](0.5,0,0.5,0)bt[_0xS(192)]=UDim2[_0xS(101)](0,0,0,0)bt[_0xS(639)]=Color3[
+_0xS(573)](255,255,255)bt[_0xS(634)]=0.6 bt[_0xS(786)]=20 bt[_0xS(182)]=bh local
+bu=Instance[_0xS(101)](_0xS(643))bu[_0xS(644)]=bi[_0xS(644)]bu[_0xS(182)]=bt
+local bv=s:Create(bt,TweenInfo[_0xS(101)](0.35,Enum[_0xS(344)][_0xS(822)],Enum[
 _0xS(621)][_0xS(622)]),{Size=UDim2[_0xS(101)](1,0,1,0),BackgroundTransparency=1,
-Position=UDim2[_0xS(101)](0.5,0,0.5,0)})be:Play()be[_0xS(349)]:Connect(function(
-)bc:Destroy()end)aU()end)local ba={}function ba:SetTitle(bb)a_[_0xS(635)]=bb end
-local bb={Name=aT,Section=aF,Element=aV,SectionName=aA,TabName=af,TabButton=X}
-table[_0xS(751)](getgenv()[_0xS(610)],bb)return ba end function aQ:AddLabel(aR)
-local aS=aR local aT=Instance[_0xS(101)](_0xS(637))local aU=Instance[_0xS(101)](
-_0xS(637))local aV=Instance[_0xS(101)](_0xS(643))local aW=Instance[_0xS(101)](
-_0xS(188))aT[_0xS(137)]=_0xS(823)aT[_0xS(182)]=aF aT[_0xS(671)]=Enum[_0xS(671)][
-_0xS(195)]aT[_0xS(639)]=Color3[_0xS(573)](163,162,165)aT[_0xS(634)]=1 aT[_0xS(
-192)]=UDim2[_0xS(101)](1,0,0,0)aU[_0xS(137)]=_0xS(824)aU[_0xS(182)]=aT aU[_0xS(
-636)]=Vector2[_0xS(101)](0.5,0)aU[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]aU[_0xS(
-639)]=Color3[_0xS(573)](38,38,46)aU[_0xS(634)]=0.25 aU[_0xS(142)]=UDim2[_0xS(101
-)](0.5,0,0,0)aU[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,-10)aV[_0xS(182)]=aU aV[
-_0xS(644)]=UDim[_0xS(101)](0,6)aW[_0xS(137)]=_0xS(698)aW[_0xS(182)]=aU aW[_0xS(
-671)]=Enum[_0xS(671)][_0xS(195)]aW[_0xS(639)]=Color3[_0xS(573)](163,162,165)aW[
-_0xS(634)]=1 aW[_0xS(142)]=UDim2[_0xS(101)](0,12,0,6)aW[_0xS(192)]=UDim2[_0xS(
-101)](1,-24,1,-12)aW[_0xS(684)]=Enum[_0xS(684)][_0xS(825)]aW[_0xS(635)]=aS aW[
-_0xS(189)]=Color3[_0xS(573)](240,240,230)aW[_0xS(686)]=14 aW[_0xS(813)]=
-0.8500000238418579 aW[_0xS(687)]=true aW[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]
-local aX={}function aX:SetText(aY)aW[_0xS(635)]=aY end function aX.SetColor(aY)
-aW[_0xS(189)]=aY end local aY={Name=aS,Section=aF,Element=aT,SectionName=aA,
-TabName=af,TabButton=X}table[_0xS(751)](getgenv()[_0xS(610)],aY)return aX end
-function aQ:AddDropdownSection(aR)local aS=tostring(aR[_0xS(635)]or aR[_0xS(187)
-]or _0xS(150))local aT=aR[_0xS(826)]or false local aU=Instance[_0xS(101)](_0xS(
-637))local aV=Instance[_0xS(101)](_0xS(637))local aW=Instance[_0xS(101)](_0xS(
-643))local aX=Instance[_0xS(101)](_0xS(637))local aY=Instance[_0xS(101)](_0xS(
-643))local aZ=Instance[_0xS(101)](_0xS(640))local a_=Instance[_0xS(101)](_0xS(
-633))local a0=Instance[_0xS(101)](_0xS(637))local a1=Instance[_0xS(101)](_0xS(
-763))local a2=Instance[_0xS(101)](_0xS(637))local a3=Instance[_0xS(101)](_0xS(
-650))aU[_0xS(137)]=aS.._0xS(827)aU[_0xS(182)]=aF aU[_0xS(639)]=Color3[_0xS(573)
-](230,230,230)aU[_0xS(634)]=1 aU[_0xS(142)]=UDim2[_0xS(101)](0,0,0.473684222,0)
-aU[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)aV[_0xS(137)]=_0xS(718)aV[_0xS(182)]=aU
-aV[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)aV[_0xS(142)]=UDim2[_0xS(101)](0.5,0,
-0.5,0)aV[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)aV[_0xS(670)]=true aV[_0xS(639)]=
-getgenv()[_0xS(609)][_0xS(585)]aV[_0xS(634)]=0.25 aW[_0xS(644)]=UDim[_0xS(101)](
-0,4)aW[_0xS(137)]=_0xS(828)aW[_0xS(182)]=aV aX[_0xS(137)]=_0xS(829)aX[_0xS(182)]
-=aV aX[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)aX[_0xS(639)]=getgenv()[_0xS(609)][
-_0xS(587)]aX[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]aY[_0xS(644)]=UDim[_0xS(
-101)](0,4)aY[_0xS(182)]=aX local a4 if aT then a4=Instance[_0xS(101)](_0xS(728))
-a4[_0xS(736)]=aS a4[_0xS(735)]=getgenv()[_0xS(609)][_0xS(582)]else a4=Instance[
-_0xS(101)](_0xS(188))a4[_0xS(635)]=aS end a4[_0xS(137)]=_0xS(830)a4[_0xS(182)]=
-aX a4[_0xS(639)]=Color3[_0xS(573)](230,230,230)a4[_0xS(634)]=1 a4[_0xS(142)]=
-UDim2[_0xS(101)](0,10,0,0)a4[_0xS(192)]=UDim2[_0xS(101)](1,-40,1,0)a4[_0xS(684)]
-=Enum[_0xS(684)][_0xS(801)]a4[_0xS(686)]=14 a4[_0xS(688)]=Enum[_0xS(688)][_0xS(
-689)]a4[_0xS(670)]=true a4[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]aZ[_0xS(137
-)]=_0xS(831)aZ[_0xS(182)]=aX aZ[_0xS(636)]=Vector2[_0xS(101)](1,0.5)aZ[_0xS(634)
-]=1 aZ[_0xS(721)]=Color3[_0xS(573)](27,42,53)aZ[_0xS(142)]=UDim2[_0xS(101)](1,-6
-,0.5,0)aZ[_0xS(192)]=UDim2[_0xS(101)](0,15,0,15)aZ[_0xS(641)]=_0xS(832)aZ[_0xS(
-696)]=getgenv()[_0xS(609)][_0xS(598)]a_[_0xS(137)]=_0xS(833)a_[_0xS(182)]=aX a_[
-_0xS(639)]=Color3[_0xS(573)](230,230,230)a_[_0xS(634)]=1 a_[_0xS(192)]=aT and
-UDim2[_0xS(101)](0,30,0,30)or UDim2[_0xS(101)](1,0,1,0)a_[_0xS(142)]=aT and
-UDim2[_0xS(101)](1,-35,0,0)or UDim2[_0xS(101)](0,0,0,0)a_[_0xS(684)]=Enum[_0xS(
-684)][_0xS(685)]a_[_0xS(635)]=_0xS(150)a_[_0xS(189)]=Color3[_0xS(573)](230,230,
-230)a_[_0xS(686)]=14 a0[_0xS(137)]=_0xS(834)a0[_0xS(182)]=aV a0[_0xS(634)]=1 a0[
-_0xS(716)]=0 a0[_0xS(142)]=UDim2[_0xS(101)](0,0,0,25)a0[_0xS(192)]=UDim2[_0xS(
-101)](1,0,0,0)a0[_0xS(639)]=Color3[_0xS(573)](230,230,230)a1[_0xS(137)]=_0xS(835
-)a1[_0xS(182)]=a0 a1[_0xS(720)]=true a1[_0xS(639)]=Color3[_0xS(573)](230,230,230
-)a1[_0xS(634)]=1 a1[_0xS(716)]=0 a1[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)a1[_0xS(
-722)]=_0xS(723)a1[_0xS(724)]=UDim2[_0xS(101)](0,0,0,0)a1[_0xS(725)]=5 a1[_0xS(
-726)]=_0xS(723)a1[_0xS(766)]=true a1[_0xS(767)]=Enum[_0xS(768)][_0xS(769)]a2[
-_0xS(137)]=_0xS(836)a2[_0xS(182)]=a1 a2[_0xS(639)]=Color3[_0xS(573)](230,230,230
-)a2[_0xS(634)]=1 a2[_0xS(142)]=UDim2[_0xS(101)](0,5,0,5)a2[_0xS(192)]=UDim2[
-_0xS(101)](1,-15,1,-5)a3[_0xS(137)]=_0xS(837)a3[_0xS(182)]=a2 a3[_0xS(653)]=Enum
-[_0xS(653)][_0xS(654)]a3[_0xS(657)]=UDim[_0xS(101)](0,5)local a5=Instance[_0xS(
-101)](_0xS(637))a5[_0xS(137)]=_0xS(838)a5[_0xS(182)]=a2 a5[_0xS(639)]=Color3[
-_0xS(573)](230,230,230)a5[_0xS(634)]=1 a5[_0xS(192)]=UDim2[_0xS(101)](1,0,0,0)a5
-[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]local a6=Instance[_0xS(101)](_0xS(650))a6[
-_0xS(137)]=_0xS(839)a6[_0xS(182)]=a5 a6[_0xS(653)]=Enum[_0xS(653)][_0xS(654)]a6[
-_0xS(657)]=UDim[_0xS(101)](0,5)local a7=false a_[_0xS(649)]:Connect(function()a7
-=not a7 local a8=a7 and UDim2[_0xS(101)](1,0,0,200)or UDim2[_0xS(101)](1,0,0,0)
-local a9=a7 and UDim2[_0xS(101)](1,0,0,230)or UDim2[_0xS(101)](1,0,0,25)local ba
-=a7 and 90 or 0 s:Create(a0,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]
-),{Size=a8}):Play()s:Create(aU,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
-606)]),{Size=a9}):Play()s:Create(aZ,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
-_0xS(606)]),{Rotation=ba}):Play()end)a3:GetPropertyChangedSignal(_0xS(745)):
-Connect(function()a1[_0xS(724)]=UDim2[_0xS(101)](0,0,0,10+a3[_0xS(745)][_0xS(195
-)]+5)end)a6:GetPropertyChangedSignal(_0xS(745)):Connect(function()local a8=math[
-_0xS(840)](a6[_0xS(745)][_0xS(195)]+10,300)local a9=a7 and UDim2[_0xS(101)](1,0,
-0,a8)or UDim2[_0xS(101)](1,0,0,0)local ba=a7 and UDim2[_0xS(101)](1,0,0,a8+25)or
-UDim2[_0xS(101)](1,0,0,25)if a7 then s:Create(a0,TweenInfo[_0xS(101)](getgenv()[
-_0xS(609)][_0xS(606)]),{Size=a9}):Play()s:Create(aU,TweenInfo[_0xS(101)](
-getgenv()[_0xS(609)][_0xS(606)]),{Size=ba}):Play()end end)local a8={}function a8
-:AddSlider(a9)local ba=tostring(a9[_0xS(635)]or a9[_0xS(187)])or _0xS(150)local
-bb=tonumber(a9[_0xS(841)])or 0 local bc=tonumber(a9[_0xS(842)])or 100 local bd=
-a9[_0xS(843)]or false local be=tonumber(a9[_0xS(551)])or 0 local bf=a9[_0xS(794)
-]local bg=a9[_0xS(844)]or a9[_0xS(845)]local bh=Instance[_0xS(101)](_0xS(637))
-local bi=Instance[_0xS(101)](_0xS(643))local bj=Instance[_0xS(101)](_0xS(637))
-local bk=Instance[_0xS(101)](_0xS(643))local bl=Instance[_0xS(101)](_0xS(188))
-local bm=Instance[_0xS(101)](_0xS(637))local bn=Instance[_0xS(101)](_0xS(633))
-local bo=Instance[_0xS(101)](_0xS(643))local bp=Instance[_0xS(101)](_0xS(637))
-local bq=Instance[_0xS(101)](_0xS(643))local br=Instance[_0xS(101)](_0xS(637))
-local bs=Instance[_0xS(101)](_0xS(643))local bt=Instance[_0xS(101)](_0xS(728))bh
-[_0xS(137)]=ba bh[_0xS(182)]=a5 bh[_0xS(639)]=Color3[_0xS(573)](60,60,60)bh[
-_0xS(634)]=1 bh[_0xS(192)]=UDim2[_0xS(101)](1,0,0,50)bi[_0xS(644)]=UDim[_0xS(101
-)](0,4)bi[_0xS(137)]=_0xS(846)bi[_0xS(182)]=bh bj[_0xS(137)]=_0xS(718)bj[_0xS(
-182)]=bh bj[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bj[_0xS(142)]=UDim2[_0xS(101)
-](0.5,0,0.5,0)bj[_0xS(192)]=UDim2[_0xS(101)](1,-5,1,0)bj[_0xS(639)]=Color3[_0xS(
-573)](28,28,34)bj[_0xS(634)]=0.25 bk[_0xS(644)]=UDim[_0xS(101)](0,4)bk[_0xS(137)
-]=_0xS(847)bk[_0xS(182)]=bj bl[_0xS(137)]=_0xS(698)bl[_0xS(182)]=bj bl[_0xS(639)
-]=Color3[_0xS(573)](230,230,230)bl[_0xS(634)]=1 bl[_0xS(142)]=UDim2[_0xS(101)](0
-,10,0,0)bl[_0xS(192)]=UDim2[_0xS(101)](0.65,-10,0,25)bl[_0xS(684)]=Enum[_0xS(684
-)][_0xS(801)]bl[_0xS(635)]=ba bl[_0xS(686)]=14 bl[_0xS(690)]=true bl[_0xS(688)]=
-Enum[_0xS(688)][_0xS(689)]bl[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bm[_0xS(
-137)]=_0xS(848)bm[_0xS(182)]=bh bm[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bm[
-_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,14)bm[_0xS(192)]=UDim2[_0xS(101)](0.9,0,0,
-6)bm[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bn[_0xS(137)]=_0xS(849)bn[_0xS(
-182)]=bm bn[_0xS(639)]=Color3[_0xS(573)](230,230,230)bn[_0xS(634)]=1 bn[_0xS(192
-)]=UDim2[_0xS(101)](1,0,1,0)bn[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bn[_0xS(635)
-]=_0xS(150)bn[_0xS(189)]=Color3[_0xS(573)](230,230,230)bn[_0xS(686)]=14 bo[_0xS(
-644)]=UDim[_0xS(101)](1,0)bo[_0xS(137)]=_0xS(850)bo[_0xS(182)]=bm bp[_0xS(137)]=
-_0xS(851)bp[_0xS(716)]=0 bp[_0xS(182)]=bm bp[_0xS(192)]=UDim2[_0xS(101)](0,0,1,0
-)bp[_0xS(639)]=getgenv()[_0xS(609)][_0xS(603)]bq[_0xS(644)]=UDim[_0xS(101)](1,0)
-bq[_0xS(137)]=_0xS(852)bq[_0xS(182)]=bp br[_0xS(137)]=_0xS(829)br[_0xS(182)]=bh
-br[_0xS(636)]=Vector2[_0xS(101)](1,0)br[_0xS(142)]=UDim2[_0xS(101)](1,-10,0,5)br
-[_0xS(192)]=UDim2[_0xS(101)](0.25,0,0,25)br[_0xS(639)]=getgenv()[_0xS(609)][
-_0xS(587)]bs[_0xS(644)]=UDim[_0xS(101)](0,4)bs[_0xS(137)]=_0xS(853)bs[_0xS(182)]
-=br bt[_0xS(137)]=_0xS(698)bt[_0xS(182)]=br bt[_0xS(639)]=Color3[_0xS(573)](230,
-230,230)bt[_0xS(634)]=1 bt[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bt[_0xS(684)]=
-Enum[_0xS(684)][_0xS(685)]bt[_0xS(635)]=_0xS(150)bt[_0xS(686)]=14 bt[_0xS(189)]=
-getgenv()[_0xS(609)][_0xS(581)]bn[_0xS(699)]:Connect(function()s:Create(bp,
+Position=UDim2[_0xS(101)](0.5,0,0.5,0)})bv:Play()bv[_0xS(349)]:Connect(function(
+)bt:Destroy()end)ba()end)local br={}function br:SetTitle(bs)bg[_0xS(635)]=bs end
+local bs={Name=a9,Section=aV,Element=bb,SectionName=aQ,TabName=ar,TabButton=at}
+table[_0xS(754)](getgenv()[_0xS(610)],bs)return br end function a6:AddLabel(a7)
+local a8=a7 local a9=Instance[_0xS(101)](_0xS(637))local ba=Instance[_0xS(101)](
+_0xS(637))local bb=Instance[_0xS(101)](_0xS(643))local bc=Instance[_0xS(101)](
+_0xS(188))a9[_0xS(137)]=_0xS(823)a9[_0xS(182)]=aV a9[_0xS(671)]=Enum[_0xS(671)][
+_0xS(195)]a9[_0xS(639)]=Color3[_0xS(573)](163,162,165)a9[_0xS(634)]=1 a9[_0xS(
+192)]=UDim2[_0xS(101)](1,0,0,0)ba[_0xS(137)]=_0xS(824)ba[_0xS(182)]=a9 ba[_0xS(
+636)]=Vector2[_0xS(101)](0.5,0)ba[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]ba[_0xS(
+639)]=Color3[_0xS(573)](38,38,46)ba[_0xS(634)]=0.25 ba[_0xS(142)]=UDim2[_0xS(101
+)](0.5,0,0,0)ba[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,-10)bb[_0xS(182)]=ba bb[
+_0xS(644)]=UDim[_0xS(101)](0,6)bc[_0xS(137)]=_0xS(698)bc[_0xS(182)]=ba bc[_0xS(
+671)]=Enum[_0xS(671)][_0xS(195)]bc[_0xS(639)]=Color3[_0xS(573)](163,162,165)bc[
+_0xS(634)]=1 bc[_0xS(142)]=UDim2[_0xS(101)](0,12,0,6)bc[_0xS(192)]=UDim2[_0xS(
+101)](1,-24,1,-12)bc[_0xS(684)]=Enum[_0xS(684)][_0xS(825)]bc[_0xS(635)]=a8 bc[
+_0xS(189)]=Color3[_0xS(573)](240,240,230)bc[_0xS(686)]=14 bc[_0xS(813)]=
+0.8500000238418579 bc[_0xS(687)]=true bc[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]
+local bd={}function bd:SetText(be)bc[_0xS(635)]=be end function bd.SetColor(be)
+bc[_0xS(189)]=be end local be={Name=a8,Section=aV,Element=a9,SectionName=aQ,
+TabName=ar,TabButton=at}table[_0xS(754)](getgenv()[_0xS(610)],be)return bd end
+function a6:AddDropdownSection(a7)local a8=tostring(a7[_0xS(635)]or a7[_0xS(187)
+]or _0xS(150))local a9=a7[_0xS(826)]or false local ba=Instance[_0xS(101)](_0xS(
+637))local bb=Instance[_0xS(101)](_0xS(637))local bc=Instance[_0xS(101)](_0xS(
+643))local bd=Instance[_0xS(101)](_0xS(637))local be=Instance[_0xS(101)](_0xS(
+643))local bf=Instance[_0xS(101)](_0xS(640))local bg=Instance[_0xS(101)](_0xS(
+633))local bh=Instance[_0xS(101)](_0xS(637))local bi=Instance[_0xS(101)](_0xS(
+704))local bj=Instance[_0xS(101)](_0xS(637))local bk=Instance[_0xS(101)](_0xS(
+650))ba[_0xS(137)]=a8.._0xS(827)ba[_0xS(182)]=aV ba[_0xS(639)]=Color3[_0xS(573)
+](230,230,230)ba[_0xS(634)]=1 ba[_0xS(142)]=UDim2[_0xS(101)](0,0,0.473684222,0)
+ba[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bb[_0xS(137)]=_0xS(721)bb[_0xS(182)]=ba
+bb[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bb[_0xS(142)]=UDim2[_0xS(101)](0.5,0,
+0.5,0)bb[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)bb[_0xS(670)]=true bb[_0xS(639)]=
+getgenv()[_0xS(609)][_0xS(585)]bb[_0xS(634)]=0.25 bc[_0xS(644)]=UDim[_0xS(101)](
+0,4)bc[_0xS(137)]=_0xS(828)bc[_0xS(182)]=bb bd[_0xS(137)]=_0xS(829)bd[_0xS(182)]
+=bb bd[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bd[_0xS(639)]=getgenv()[_0xS(609)][
+_0xS(587)]bd[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]be[_0xS(644)]=UDim[_0xS(
+101)](0,4)be[_0xS(182)]=bd local bl if a9 then bl=Instance[_0xS(101)](_0xS(731))
+bl[_0xS(739)]=a8 bl[_0xS(738)]=getgenv()[_0xS(609)][_0xS(582)]else bl=Instance[
+_0xS(101)](_0xS(188))bl[_0xS(635)]=a8 end bl[_0xS(137)]=_0xS(830)bl[_0xS(182)]=
+bd bl[_0xS(639)]=Color3[_0xS(573)](230,230,230)bl[_0xS(634)]=1 bl[_0xS(142)]=
+UDim2[_0xS(101)](0,10,0,0)bl[_0xS(192)]=UDim2[_0xS(101)](1,-40,1,0)bl[_0xS(684)]
+=Enum[_0xS(684)][_0xS(801)]bl[_0xS(686)]=14 bl[_0xS(688)]=Enum[_0xS(688)][_0xS(
+689)]bl[_0xS(670)]=true bl[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bf[_0xS(137
+)]=_0xS(831)bf[_0xS(182)]=bd bf[_0xS(636)]=Vector2[_0xS(101)](1,0.5)bf[_0xS(634)
+]=1 bf[_0xS(724)]=Color3[_0xS(573)](27,42,53)bf[_0xS(142)]=UDim2[_0xS(101)](1,-6
+,0.5,0)bf[_0xS(192)]=UDim2[_0xS(101)](0,15,0,15)bf[_0xS(641)]=_0xS(832)bf[_0xS(
+696)]=getgenv()[_0xS(609)][_0xS(598)]bg[_0xS(137)]=_0xS(833)bg[_0xS(182)]=bd bg[
+_0xS(639)]=Color3[_0xS(573)](230,230,230)bg[_0xS(634)]=1 bg[_0xS(192)]=a9 and
+UDim2[_0xS(101)](0,30,0,30)or UDim2[_0xS(101)](1,0,1,0)bg[_0xS(142)]=a9 and
+UDim2[_0xS(101)](1,-35,0,0)or UDim2[_0xS(101)](0,0,0,0)bg[_0xS(684)]=Enum[_0xS(
+684)][_0xS(685)]bg[_0xS(635)]=_0xS(150)bg[_0xS(189)]=Color3[_0xS(573)](230,230,
+230)bg[_0xS(686)]=14 bh[_0xS(137)]=_0xS(834)bh[_0xS(182)]=bb bh[_0xS(634)]=1 bh[
+_0xS(719)]=0 bh[_0xS(142)]=UDim2[_0xS(101)](0,0,0,25)bh[_0xS(192)]=UDim2[_0xS(
+101)](1,0,0,0)bh[_0xS(639)]=Color3[_0xS(573)](230,230,230)bi[_0xS(137)]=_0xS(835
+)bi[_0xS(182)]=bh bi[_0xS(723)]=true bi[_0xS(639)]=Color3[_0xS(573)](230,230,230
+)bi[_0xS(634)]=1 bi[_0xS(719)]=0 bi[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bi[_0xS(
+725)]=_0xS(726)bi[_0xS(727)]=UDim2[_0xS(101)](0,0,0,0)bi[_0xS(728)]=5 bi[_0xS(
+729)]=_0xS(726)bi[_0xS(768)]=true bi[_0xS(769)]=Enum[_0xS(770)][_0xS(771)]bj[
+_0xS(137)]=_0xS(836)bj[_0xS(182)]=bi bj[_0xS(639)]=Color3[_0xS(573)](230,230,230
+)bj[_0xS(634)]=1 bj[_0xS(142)]=UDim2[_0xS(101)](0,5,0,5)bj[_0xS(192)]=UDim2[
+_0xS(101)](1,-15,1,-5)bk[_0xS(137)]=_0xS(837)bk[_0xS(182)]=bj bk[_0xS(653)]=Enum
+[_0xS(653)][_0xS(654)]bk[_0xS(657)]=UDim[_0xS(101)](0,5)local bm=Instance[_0xS(
+101)](_0xS(637))bm[_0xS(137)]=_0xS(838)bm[_0xS(182)]=bj bm[_0xS(639)]=Color3[
+_0xS(573)](230,230,230)bm[_0xS(634)]=1 bm[_0xS(192)]=UDim2[_0xS(101)](1,0,0,0)bm
+[_0xS(671)]=Enum[_0xS(671)][_0xS(195)]local bn=Instance[_0xS(101)](_0xS(650))bn[
+_0xS(137)]=_0xS(839)bn[_0xS(182)]=bm bn[_0xS(653)]=Enum[_0xS(653)][_0xS(654)]bn[
+_0xS(657)]=UDim[_0xS(101)](0,5)local bo=false bg[_0xS(649)]:Connect(function()bo
+=not bo local bp=bo and UDim2[_0xS(101)](1,0,0,200)or UDim2[_0xS(101)](1,0,0,0)
+local bq=bo and UDim2[_0xS(101)](1,0,0,230)or UDim2[_0xS(101)](1,0,0,25)local br
+=bo and 90 or 0 s:Create(bh,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]
+),{Size=bp}):Play()s:Create(ba,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
+606)]),{Size=bq}):Play()s:Create(bf,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
+_0xS(606)]),{Rotation=br}):Play()end)bk:GetPropertyChangedSignal(_0xS(748)):
+Connect(function()bi[_0xS(727)]=UDim2[_0xS(101)](0,0,0,10+bk[_0xS(748)][_0xS(195
+)]+5)end)bn:GetPropertyChangedSignal(_0xS(748)):Connect(function()local bp=math[
+_0xS(840)](bn[_0xS(748)][_0xS(195)]+10,300)local bq=bo and UDim2[_0xS(101)](1,0,
+0,bp)or UDim2[_0xS(101)](1,0,0,0)local br=bo and UDim2[_0xS(101)](1,0,0,bp+25)or
+UDim2[_0xS(101)](1,0,0,25)if bo then s:Create(bh,TweenInfo[_0xS(101)](getgenv()[
+_0xS(609)][_0xS(606)]),{Size=bq}):Play()s:Create(ba,TweenInfo[_0xS(101)](
+getgenv()[_0xS(609)][_0xS(606)]),{Size=br}):Play()end end)local bp={}function bp
+:AddSlider(bq)local br=tostring(bq[_0xS(635)]or bq[_0xS(187)])or _0xS(150)local
+bs=tonumber(bq[_0xS(841)])or 0 local bt=tonumber(bq[_0xS(842)])or 100 local bu=
+bq[_0xS(843)]or false local bv=tonumber(bq[_0xS(551)])or 0 local bw=bq[_0xS(794)
+]local bx=bq[_0xS(844)]or bq[_0xS(845)]local by=Instance[_0xS(101)](_0xS(637))
+local bz=Instance[_0xS(101)](_0xS(643))local bA=Instance[_0xS(101)](_0xS(637))
+local bB=Instance[_0xS(101)](_0xS(643))local bC=Instance[_0xS(101)](_0xS(188))
+local bD=Instance[_0xS(101)](_0xS(637))local bE=Instance[_0xS(101)](_0xS(633))
+local bF=Instance[_0xS(101)](_0xS(643))local bG=Instance[_0xS(101)](_0xS(637))
+local bH=Instance[_0xS(101)](_0xS(643))local bI=Instance[_0xS(101)](_0xS(637))
+local bJ=Instance[_0xS(101)](_0xS(643))local bK=Instance[_0xS(101)](_0xS(731))by
+[_0xS(137)]=br by[_0xS(182)]=bm by[_0xS(639)]=Color3[_0xS(573)](60,60,60)by[
+_0xS(634)]=1 by[_0xS(192)]=UDim2[_0xS(101)](1,0,0,50)bz[_0xS(644)]=UDim[_0xS(101
+)](0,4)bz[_0xS(137)]=_0xS(846)bz[_0xS(182)]=by bA[_0xS(137)]=_0xS(721)bA[_0xS(
+182)]=by bA[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bA[_0xS(142)]=UDim2[_0xS(101)
+](0.5,0,0.5,0)bA[_0xS(192)]=UDim2[_0xS(101)](1,-5,1,0)bA[_0xS(639)]=Color3[_0xS(
+573)](28,28,34)bA[_0xS(634)]=0.25 bB[_0xS(644)]=UDim[_0xS(101)](0,4)bB[_0xS(137)
+]=_0xS(847)bB[_0xS(182)]=bA bC[_0xS(137)]=_0xS(698)bC[_0xS(182)]=bA bC[_0xS(639)
+]=Color3[_0xS(573)](230,230,230)bC[_0xS(634)]=1 bC[_0xS(142)]=UDim2[_0xS(101)](0
+,10,0,0)bC[_0xS(192)]=UDim2[_0xS(101)](0.65,-10,0,25)bC[_0xS(684)]=Enum[_0xS(684
+)][_0xS(801)]bC[_0xS(635)]=br bC[_0xS(686)]=14 bC[_0xS(690)]=true bC[_0xS(688)]=
+Enum[_0xS(688)][_0xS(689)]bC[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bD[_0xS(
+137)]=_0xS(848)bD[_0xS(182)]=by bD[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bD[
+_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,14)bD[_0xS(192)]=UDim2[_0xS(101)](0.9,0,0,
+6)bD[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bE[_0xS(137)]=_0xS(849)bE[_0xS(
+182)]=bD bE[_0xS(639)]=Color3[_0xS(573)](230,230,230)bE[_0xS(634)]=1 bE[_0xS(192
+)]=UDim2[_0xS(101)](1,0,1,0)bE[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bE[_0xS(635)
+]=_0xS(150)bE[_0xS(189)]=Color3[_0xS(573)](230,230,230)bE[_0xS(686)]=14 bF[_0xS(
+644)]=UDim[_0xS(101)](1,0)bF[_0xS(137)]=_0xS(850)bF[_0xS(182)]=bD bG[_0xS(137)]=
+_0xS(851)bG[_0xS(719)]=0 bG[_0xS(182)]=bD bG[_0xS(192)]=UDim2[_0xS(101)](0,0,1,0
+)bG[_0xS(639)]=getgenv()[_0xS(609)][_0xS(603)]bH[_0xS(644)]=UDim[_0xS(101)](1,0)
+bH[_0xS(137)]=_0xS(852)bH[_0xS(182)]=bG bI[_0xS(137)]=_0xS(829)bI[_0xS(182)]=by
+bI[_0xS(636)]=Vector2[_0xS(101)](1,0)bI[_0xS(142)]=UDim2[_0xS(101)](1,-10,0,5)bI
+[_0xS(192)]=UDim2[_0xS(101)](0.25,0,0,25)bI[_0xS(639)]=getgenv()[_0xS(609)][
+_0xS(587)]bJ[_0xS(644)]=UDim[_0xS(101)](0,4)bJ[_0xS(137)]=_0xS(853)bJ[_0xS(182)]
+=bI bK[_0xS(137)]=_0xS(698)bK[_0xS(182)]=bI bK[_0xS(639)]=Color3[_0xS(573)](230,
+230,230)bK[_0xS(634)]=1 bK[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bK[_0xS(684)]=
+Enum[_0xS(684)][_0xS(685)]bK[_0xS(635)]=_0xS(150)bK[_0xS(686)]=14 bK[_0xS(189)]=
+getgenv()[_0xS(609)][_0xS(581)]bE[_0xS(699)]:Connect(function()s:Create(bG,
 TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{BackgroundColor3=getgenv(
-)[_0xS(609)][_0xS(604)]}):Play()end)bn[_0xS(700)]:Connect(function()s:Create(bp,
+)[_0xS(609)][_0xS(604)]}):Play()end)bE[_0xS(700)]:Connect(function()s:Create(bG,
 TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{BackgroundColor3=getgenv(
-)[_0xS(609)][_0xS(603)]}):Play()end)local bu=function(bu)bt[_0xS(635)]=tostring(
-bu)bf(tonumber(bu))end if be then if be<=bb then be=bb elseif be>=bc then be=bc
-end bp[_0xS(192)]=UDim2[_0xS(101)](1-((bc-be)/(bc-bb)),0,0,6)bt[_0xS(635)]=
-tostring(be)end local bv=false local bw local bx=0 local by=0 local function 
-onInputBegan(bz)if bz[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bz[_0xS(614)]==
-Enum[_0xS(614)][_0xS(616)]then by=tick()bz[_0xS(286)]:Connect(function()if bz[
-_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then bv=false by=0 end end)end end local 
-function onInputEnded(bz)if bz[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bz[_0xS(
-614)]==Enum[_0xS(614)][_0xS(616)]then bv=false by=0 end end local function 
-onInputChanged(bz)if bz[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or bz[_0xS(614)]==
-Enum[_0xS(614)][_0xS(616)]then bw=bz end end bn[_0xS(613)]:Connect(onInputBegan)
-bn[_0xS(647)]:Connect(onInputEnded)bn[_0xS(619)]:Connect(onInputChanged)u[_0xS(
-648)]:Connect(function()if by>0 and(tick()-by>=bx)and not bv then bv=true end if
-bv and bw then local bz=math[_0xS(854)](bw[_0xS(142)][_0xS(160)]-bp[_0xS(855)][
-_0xS(160)],0,bm[_0xS(194)][_0xS(160)])local bA=bz/bm[_0xS(194)][_0xS(160)]local
-bB=bb+(bc-bb)*bA if bg then bB=tonumber(string[_0xS(856)](_0xS(857)..bg.._0xS(
-858),bB))elseif not bd then bB=math[_0xS(658)](bB)end bB=math[_0xS(854)](bB,bb,
-bc)pcall(function()bu(bB)end)bp[_0xS(192)]=UDim2[_0xS(101)](bA,0,1,0)end end)
-local function GetSliderValue(bz)bz=tonumber(bz)or bb bz=math[_0xS(854)](bz,bb,
-bc)if bg then bz=tonumber(string[_0xS(856)](_0xS(857)..bg.._0xS(858),bz))elseif
-not bd then bz=math[_0xS(658)](bz)end local bA=(bz-bb)/(bc-bb)bp[_0xS(192)]=
-UDim2[_0xS(101)](bA,0,1,0)bu(bz)end bt[_0xS(859)]:Connect(function()
-GetSliderValue(bt[_0xS(635)])end)local bz={}function bz.SetValue(bA)
-GetSliderValue(bA)end function bz.GetValue()return tonumber(bt[_0xS(635)])or bb
-end return bz end function a8:SetOpen(a9)if a9~=a7 then a_[_0xS(649)]:Fire()end
-end function a8:GetOpen()return a7 end function a8:SetTitle(a9)if aT then a4[
-_0xS(736)]=a9 else a4[_0xS(635)]=a9 end end local a9={Name=aS,Section=aF,Element
-=aU,SectionName=aA,TabName=af,TabButton=X}table[_0xS(751)](getgenv()[_0xS(610)],
-a9)return a8 end function aQ:AddDropdown(aR,aS)local aT=tostring(aS[_0xS(635)]or
-aS[_0xS(187)])or _0xS(150)local aU=aS[_0xS(860)]local aV=aS[_0xS(826)]or false
-local aW=aS[_0xS(861)]or aS[_0xS(862)]or false local aX=aS[_0xS(863)]or false
-local aY=aS[_0xS(864)]or false local aZ=(function()if aS[_0xS(551)]then if type(
-aS[_0xS(551)])==_0xS(164)then return aU[aS[_0xS(551)] ]elseif type(aS[_0xS(551)]
-)==_0xS(165)then return aS[_0xS(551)]end end return nil end)()local a_=aS[_0xS(
-794)]local a0=aS[_0xS(865)]or pairs local a1=Instance[_0xS(101)](_0xS(637))local
-a2=Instance[_0xS(101)](_0xS(637))local a3=Instance[_0xS(101)](_0xS(643))local a4
-=Instance[_0xS(101)](_0xS(637))local a5=Instance[_0xS(101)](_0xS(643))local a6=
-Instance[_0xS(101)](_0xS(640))local a7=Instance[_0xS(101)](_0xS(633))local a8=
-Instance[_0xS(101)](_0xS(637))local a9=Instance[_0xS(101)](_0xS(763))local ba=
-Instance[_0xS(101)](_0xS(637))local bb=Instance[_0xS(101)](_0xS(650))local bc=
-false local bd if aV then bd=Instance[_0xS(101)](_0xS(728))else bd=Instance[
-_0xS(101)](_0xS(188))end a1[_0xS(137)]=aT.._0xS(866)a1[_0xS(182)]=aF a1[_0xS(639
-)]=Color3[_0xS(573)](230,230,230)a1[_0xS(634)]=1 a1[_0xS(142)]=UDim2[_0xS(101)](
-0,0,0.473684222,0)a1[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)a2[_0xS(137)]=_0xS(718
-)a2[_0xS(182)]=a1 a2[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)a2[_0xS(142)]=UDim2[
-_0xS(101)](0.5,0,0.5,0)a2[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)a2[_0xS(670)]=
-true a2[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]a2[_0xS(634)]=getgenv()[_0xS(
-609)][_0xS(586)]a3[_0xS(644)]=UDim[_0xS(101)](0,4)a3[_0xS(137)]=_0xS(828)a3[
-_0xS(182)]=a2 a4[_0xS(137)]=_0xS(829)a4[_0xS(182)]=a2 a4[_0xS(192)]=UDim2[_0xS(
-101)](1,0,0,25)a4[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]a4[_0xS(634)]=
-getgenv()[_0xS(609)][_0xS(586)]a5[_0xS(644)]=UDim[_0xS(101)](0,4)a5[_0xS(182)]=
-a4 bd[_0xS(137)]=_0xS(830)bd[_0xS(182)]=a4 bd[_0xS(639)]=Color3[_0xS(573)](230,
-230,230)bd[_0xS(634)]=1 bd[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)bd[_0xS(192)]=
-UDim2[_0xS(101)](1,-40,1,0)bd[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bd[_0xS(635)]
-=_0xS(150)bd[_0xS(686)]=14 bd[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bd[_0xS(670)]
-=true local be=Instance[_0xS(101)](_0xS(867),bd)be[_0xS(14)]=_0xS(150)if aZ and
-table[_0xS(215)](aU,aZ)then be[_0xS(14)]=aZ end if not aW then if aV then bd[
-_0xS(735)]=getgenv()[_0xS(609)][_0xS(582)]bd[_0xS(736)]=aT.._0xS(868)..tostring(
-aZ or _0xS(150))else bd[_0xS(635)]=aT.._0xS(868)..tostring(aZ or _0xS(150))end
-else if aV then bd[_0xS(735)]=getgenv()[_0xS(609)][_0xS(582)]bd[_0xS(736)]=aT..
-_0xS(868)..tostring(aZ or _0xS(150))else bd[_0xS(635)]=aT.._0xS(868)..tostring(
-aZ or _0xS(150))end end bd[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]a6[_0xS(137
-)]=_0xS(831)a6[_0xS(182)]=a4 a6[_0xS(636)]=Vector2[_0xS(101)](1,0.5)a6[_0xS(634)
-]=1 a6[_0xS(721)]=Color3[_0xS(573)](27,42,53)a6[_0xS(142)]=UDim2[_0xS(101)](1,-6
-,0.5,0)a6[_0xS(192)]=UDim2[_0xS(101)](0,15,0,15)a6[_0xS(641)]=_0xS(832)a6[_0xS(
-696)]=getgenv()[_0xS(609)][_0xS(598)]a7[_0xS(137)]=_0xS(833)a7[_0xS(182)]=a4 a7[
-_0xS(639)]=Color3[_0xS(573)](230,230,230)a7[_0xS(634)]=1 a7[_0xS(192)]=aV and
-UDim2[_0xS(101)](0,30,0,30)or UDim2[_0xS(101)](1,0,1,0)a7[_0xS(142)]=aV and
-UDim2[_0xS(101)](1,-35,0,0)or UDim2[_0xS(101)](0,0,0,0)a7[_0xS(684)]=Enum[_0xS(
-684)][_0xS(685)]a7[_0xS(635)]=_0xS(150)a7[_0xS(189)]=Color3[_0xS(573)](230,230,
-230)a7[_0xS(686)]=14 a8[_0xS(137)]=_0xS(834)a8[_0xS(182)]=a2 a8[_0xS(634)]=1 a8[
-_0xS(716)]=0 a8[_0xS(142)]=UDim2[_0xS(101)](0,0,0,25)a8[_0xS(192)]=UDim2[_0xS(
-101)](1,0,0,25)a8[_0xS(639)]=Color3[_0xS(573)](230,230,230)a9[_0xS(137)]=_0xS(
-835)a9[_0xS(182)]=a8 a9[_0xS(720)]=true a9[_0xS(639)]=Color3[_0xS(573)](230,230,
-230)a9[_0xS(634)]=1 a9[_0xS(716)]=0 a9[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)a9[
-_0xS(722)]=_0xS(723)a9[_0xS(724)]=UDim2[_0xS(101)](0,0,0,0)a9[_0xS(725)]=5 a9[
-_0xS(726)]=_0xS(723)a9[_0xS(766)]=true a9[_0xS(767)]=Enum[_0xS(768)][_0xS(769)]
-ba[_0xS(137)]=_0xS(836)ba[_0xS(182)]=a9 ba[_0xS(639)]=Color3[_0xS(573)](230,230,
-230)ba[_0xS(634)]=1 ba[_0xS(142)]=UDim2[_0xS(101)](0,5,0,5)ba[_0xS(192)]=UDim2[
-_0xS(101)](1,-15,1,-5)bb[_0xS(137)]=_0xS(837)bb[_0xS(182)]=ba bb[_0xS(653)]=Enum
-[_0xS(653)][_0xS(654)]bb[_0xS(657)]=UDim[_0xS(101)](0,5)bb:
-GetPropertyChangedSignal(_0xS(745)):Connect(function()a9[_0xS(724)]=UDim2[_0xS(
-101)](0,0,0,10+bb[_0xS(745)][_0xS(195)]+5)end)local bf=false local bg={}local bh
-={}local function edit()for bi in a0(bg)do bg[_0xS(869)]=nil end for bi,bj in
-a0(ba:GetChildren())do if not bj:IsA(_0xS(650))and not bj:IsA(_0xS(870))and not
-bj:IsA(_0xS(871))then bj[_0xS(278)]=false end end bd[_0xS(635)]=string[_0xS(746)
-](bd[_0xS(635)])end local function SearchDropdown()local bi={}for bj,bk in a0(bh
-)do if string[_0xS(215)](bk,bd[_0xS(635)])then table[_0xS(751)](bg,bk)end end
-for bj,bk in a0(ba:GetChildren())do for bl,bm in a0(bg)do if bm==bk[_0xS(137)]
-then bk[_0xS(278)]=true end end end end local function clear_object_in_list()for
-bi,bj in next,ba:GetChildren()do if bj:IsA(_0xS(637))then bj:Destroy()end end
-end local bi local bj={}if aW then bi={}for bk,bl in ipairs(aU)do bi[_0xS(872)]=
-(bl==aZ)table[_0xS(751)](bj,bl)end else bi=aU end local function refreshlist(bk)
-a0=bk or a0 clear_object_in_list()bh={}for bl,bm in a0(bi)do if aW then table[
-_0xS(751)](bh,string[_0xS(746)](bl))elseif aX then table[_0xS(751)](bh,string[
-_0xS(746)](bm[_0xS(187)]))else table[_0xS(751)](bh,string[_0xS(746)](bm))end end
-if aW then for bl,bm in ipairs(bj)do local bn=bi[_0xS(869)]local bo=Instance[
-_0xS(101)](_0xS(637))local bp=Instance[_0xS(101)](_0xS(643))local bq=Instance[
-_0xS(101)](_0xS(637))local br=Instance[_0xS(101)](_0xS(643))local bs=Instance[
-_0xS(101)](_0xS(188))local bt=Instance[_0xS(101)](_0xS(783))local bu=Instance[
-_0xS(101)](_0xS(633))bo[_0xS(137)]=string[_0xS(746)](bm)bo[_0xS(182)]=ba bo[
-_0xS(639)]=Color3[_0xS(573)](60,60,60)bo[_0xS(634)]=1 bo[_0xS(721)]=Color3[_0xS(
-573)](27,42,53)bo[_0xS(654)]=1 bo[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)
-bo[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bp[_0xS(644)]=UDim[_0xS(101)](0,4)bp[
-_0xS(137)]=_0xS(873)bp[_0xS(182)]=bo bq[_0xS(137)]=_0xS(874)bq[_0xS(182)]=bo bq[
-_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bq[_0xS(639)]=bn and UIColor[_0xS(600)]or
-Color3[_0xS(573)](255,255,255)bq[_0xS(634)]=bn and 0.5 or 1 bq[_0xS(721)]=Color3
-[_0xS(573)](27,42,53)bq[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bq[_0xS(192)]=
-UDim2[_0xS(101)](1,0,1,0)br[_0xS(644)]=UDim[_0xS(101)](0,4)br[_0xS(137)]=_0xS(
-875)br[_0xS(182)]=bq bs[_0xS(137)]=_0xS(876)bs[_0xS(182)]=bq bs[_0xS(639)]=
-Color3[_0xS(573)](255,255,255)bs[_0xS(634)]=1 bs[_0xS(721)]=Color3[_0xS(573)](27
-,42,53)bs[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)bs[_0xS(192)]=UDim2[_0xS(101)](1,
--40,0,25)bs[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bs[_0xS(635)]=tostring(bm)bs[
-_0xS(189)]=Color3[_0xS(573)](255,255,255)bs[_0xS(686)]=14 bs[_0xS(813)]=0.5 bs[
-_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bt[_0xS(137)]=_0xS(877)bt[_0xS(182)]=bq bt[
-_0xS(636)]=Vector2[_0xS(101)](1,0.5)bt[_0xS(634)]=1 bt[_0xS(142)]=UDim2[_0xS(101
-)](1,0,0.5,0)bt[_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)bt[_0xS(785)]=2 bt[_0xS(
-641)]=_0xS(693)bt[_0xS(696)]=UIColor[_0xS(600)]bt[_0xS(694)]=Vector2[_0xS(101)](
-312,4)bt[_0xS(695)]=Vector2[_0xS(101)](24,24)bt[_0xS(790)]=bn and 0 or 1 bu[
-_0xS(137)]=_0xS(878)bu[_0xS(182)]=bo bu[_0xS(639)]=Color3[_0xS(573)](255,255,255
-)bu[_0xS(634)]=1 bu[_0xS(721)]=Color3[_0xS(573)](0,0,0)bu[_0xS(716)]=0 bu[_0xS(
-192)]=UDim2[_0xS(101)](1,0,1,0)bu[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]bu[_0xS(
-189)]=getgenv()[_0xS(609)][_0xS(581)]bu[_0xS(686)]=14 bu[_0xS(879)]=1 bu[_0xS(
-699)]:Connect(function()if bn then return end s:Create(bq,TweenInfo[_0xS(101)](
+)[_0xS(609)][_0xS(603)]}):Play()end)local bL=function(bL)bK[_0xS(635)]=tostring(
+bL)bw(tonumber(bL))end if bv then if bv<=bs then bv=bs elseif bv>=bt then bv=bt
+end bG[_0xS(192)]=UDim2[_0xS(101)](1-((bt-bv)/(bt-bs)),0,0,6)bK[_0xS(635)]=
+tostring(bv)end local bM=false local bN local bO=0 local bP=0 local function 
+onInputBegan(bQ)if bQ[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bQ[_0xS(614)]==
+Enum[_0xS(614)][_0xS(616)]then bP=tick()bQ[_0xS(286)]:Connect(function()if bQ[
+_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then bM=false bP=0 end end)end end local 
+function onInputEnded(bQ)if bQ[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bQ[_0xS(
+614)]==Enum[_0xS(614)][_0xS(616)]then bM=false bP=0 end end local function 
+onInputChanged(bQ)if bQ[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or bQ[_0xS(614)]==
+Enum[_0xS(614)][_0xS(616)]then bN=bQ end end bE[_0xS(613)]:Connect(onInputBegan)
+bE[_0xS(647)]:Connect(onInputEnded)bE[_0xS(619)]:Connect(onInputChanged)u[_0xS(
+648)]:Connect(function()if bP>0 and(tick()-bP>=bO)and not bM then bM=true end if
+bM and bN then local bQ=math[_0xS(854)](bN[_0xS(142)][_0xS(160)]-bG[_0xS(855)][
+_0xS(160)],0,bD[_0xS(194)][_0xS(160)])local bR=bQ/bD[_0xS(194)][_0xS(160)]local
+bS=bs+(bt-bs)*bR if bx then bS=tonumber(string[_0xS(856)](_0xS(857)..bx.._0xS(
+858),bS))elseif not bu then bS=math[_0xS(658)](bS)end bS=math[_0xS(854)](bS,bs,
+bt)pcall(function()bL(bS)end)bG[_0xS(192)]=UDim2[_0xS(101)](bR,0,1,0)end end)
+local function GetSliderValue(bQ)bQ=tonumber(bQ)or bs bQ=math[_0xS(854)](bQ,bs,
+bt)if bx then bQ=tonumber(string[_0xS(856)](_0xS(857)..bx.._0xS(858),bQ))elseif
+not bu then bQ=math[_0xS(658)](bQ)end local bR=(bQ-bs)/(bt-bs)bG[_0xS(192)]=
+UDim2[_0xS(101)](bR,0,1,0)bL(bQ)end bK[_0xS(859)]:Connect(function()
+GetSliderValue(bK[_0xS(635)])end)local bQ={}function bQ.SetValue(bR)
+GetSliderValue(bR)end function bQ.GetValue()return tonumber(bK[_0xS(635)])or bs
+end return bQ end function bp:SetOpen(bq)if bq~=bo then bg[_0xS(649)]:Fire()end
+end function bp:GetOpen()return bo end function bp:SetTitle(bq)if a9 then bl[
+_0xS(739)]=bq else bl[_0xS(635)]=bq end end local bq={Name=a8,Section=aV,Element
+=ba,SectionName=aQ,TabName=ar,TabButton=at}table[_0xS(754)](getgenv()[_0xS(610)]
+,bq)return bp end function a6:AddDropdown(a7,a8)local a9=tostring(a8[_0xS(635)]
+or a8[_0xS(187)])or _0xS(150)local ba=a8[_0xS(860)]local bb=a8[_0xS(826)]or
+false local bc=a8[_0xS(861)]or a8[_0xS(862)]or false local bd=a8[_0xS(863)]or
+false local be=a8[_0xS(864)]or false local bf=(function()if a8[_0xS(551)]then if
+type(a8[_0xS(551)])==_0xS(164)then return ba[a8[_0xS(551)] ]elseif type(a8[_0xS(
+551)])==_0xS(165)then return a8[_0xS(551)]end end return nil end)()local bg=a8[
+_0xS(794)]local bh=a8[_0xS(865)]or pairs local bi=Instance[_0xS(101)](_0xS(637))
+local bj=Instance[_0xS(101)](_0xS(637))local bk=Instance[_0xS(101)](_0xS(643))
+local bl=Instance[_0xS(101)](_0xS(637))local bm=Instance[_0xS(101)](_0xS(643))
+local bn=Instance[_0xS(101)](_0xS(640))local bo=Instance[_0xS(101)](_0xS(633))
+local bp=Instance[_0xS(101)](_0xS(637))local bq=Instance[_0xS(101)](_0xS(704))
+local br=Instance[_0xS(101)](_0xS(637))local bs=Instance[_0xS(101)](_0xS(650))
+local bt=false local bu if bb then bu=Instance[_0xS(101)](_0xS(731))else bu=
+Instance[_0xS(101)](_0xS(188))end bi[_0xS(137)]=a9.._0xS(866)bi[_0xS(182)]=aV bi
+[_0xS(639)]=Color3[_0xS(573)](230,230,230)bi[_0xS(634)]=1 bi[_0xS(142)]=UDim2[
+_0xS(101)](0,0,0.473684222,0)bi[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bj[_0xS(137
+)]=_0xS(721)bj[_0xS(182)]=bi bj[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bj[_0xS(
+142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bj[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)bj[
+_0xS(670)]=true bj[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bj[_0xS(634)]=
+getgenv()[_0xS(609)][_0xS(586)]bk[_0xS(644)]=UDim[_0xS(101)](0,4)bk[_0xS(137)]=
+_0xS(828)bk[_0xS(182)]=bj bl[_0xS(137)]=_0xS(829)bl[_0xS(182)]=bj bl[_0xS(192)]=
+UDim2[_0xS(101)](1,0,0,25)bl[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bl[_0xS(
+634)]=getgenv()[_0xS(609)][_0xS(586)]bm[_0xS(644)]=UDim[_0xS(101)](0,4)bm[_0xS(
+182)]=bl bu[_0xS(137)]=_0xS(830)bu[_0xS(182)]=bl bu[_0xS(639)]=Color3[_0xS(573)
+](230,230,230)bu[_0xS(634)]=1 bu[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)bu[_0xS(
+192)]=UDim2[_0xS(101)](1,-40,1,0)bu[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bu[
+_0xS(635)]=_0xS(150)bu[_0xS(686)]=14 bu[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bu[
+_0xS(670)]=true local bv=Instance[_0xS(101)](_0xS(867),bu)bv[_0xS(14)]=_0xS(150)
+if bf and table[_0xS(215)](ba,bf)then bv[_0xS(14)]=bf end if not bc then if bb
+then bu[_0xS(738)]=getgenv()[_0xS(609)][_0xS(582)]bu[_0xS(739)]=a9.._0xS(868)..
+tostring(bf or _0xS(150))else bu[_0xS(635)]=a9.._0xS(868)..tostring(bf or _0xS(
+150))end else if bb then bu[_0xS(738)]=getgenv()[_0xS(609)][_0xS(582)]bu[_0xS(
+739)]=a9.._0xS(868)..tostring(bf or _0xS(150))else bu[_0xS(635)]=a9.._0xS(868)..
+tostring(bf or _0xS(150))end end bu[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bn
+[_0xS(137)]=_0xS(831)bn[_0xS(182)]=bl bn[_0xS(636)]=Vector2[_0xS(101)](1,0.5)bn[
+_0xS(634)]=1 bn[_0xS(724)]=Color3[_0xS(573)](27,42,53)bn[_0xS(142)]=UDim2[_0xS(
+101)](1,-6,0.5,0)bn[_0xS(192)]=UDim2[_0xS(101)](0,15,0,15)bn[_0xS(641)]=_0xS(832
+)bn[_0xS(696)]=getgenv()[_0xS(609)][_0xS(598)]bo[_0xS(137)]=_0xS(833)bo[_0xS(182
+)]=bl bo[_0xS(639)]=Color3[_0xS(573)](230,230,230)bo[_0xS(634)]=1 bo[_0xS(192)]=
+bb and UDim2[_0xS(101)](0,30,0,30)or UDim2[_0xS(101)](1,0,1,0)bo[_0xS(142)]=bb
+and UDim2[_0xS(101)](1,-35,0,0)or UDim2[_0xS(101)](0,0,0,0)bo[_0xS(684)]=Enum[
+_0xS(684)][_0xS(685)]bo[_0xS(635)]=_0xS(150)bo[_0xS(189)]=Color3[_0xS(573)](230,
+230,230)bo[_0xS(686)]=14 bp[_0xS(137)]=_0xS(834)bp[_0xS(182)]=bj bp[_0xS(634)]=1
+bp[_0xS(719)]=0 bp[_0xS(142)]=UDim2[_0xS(101)](0,0,0,25)bp[_0xS(192)]=UDim2[
+_0xS(101)](1,0,0,25)bp[_0xS(639)]=Color3[_0xS(573)](230,230,230)bq[_0xS(137)]=
+_0xS(835)bq[_0xS(182)]=bp bq[_0xS(723)]=true bq[_0xS(639)]=Color3[_0xS(573)](230
+,230,230)bq[_0xS(634)]=1 bq[_0xS(719)]=0 bq[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)
+bq[_0xS(725)]=_0xS(726)bq[_0xS(727)]=UDim2[_0xS(101)](0,0,0,0)bq[_0xS(728)]=5 bq
+[_0xS(729)]=_0xS(726)bq[_0xS(768)]=true bq[_0xS(769)]=Enum[_0xS(770)][_0xS(771)]
+br[_0xS(137)]=_0xS(836)br[_0xS(182)]=bq br[_0xS(639)]=Color3[_0xS(573)](230,230,
+230)br[_0xS(634)]=1 br[_0xS(142)]=UDim2[_0xS(101)](0,5,0,5)br[_0xS(192)]=UDim2[
+_0xS(101)](1,-15,1,-5)bs[_0xS(137)]=_0xS(837)bs[_0xS(182)]=br bs[_0xS(653)]=Enum
+[_0xS(653)][_0xS(654)]bs[_0xS(657)]=UDim[_0xS(101)](0,5)bs:
+GetPropertyChangedSignal(_0xS(748)):Connect(function()bq[_0xS(727)]=UDim2[_0xS(
+101)](0,0,0,10+bs[_0xS(748)][_0xS(195)]+5)end)local bw=false local bx={}local by
+={}local function edit()for bz in bh(bx)do bx[_0xS(869)]=nil end for bz,bA in
+bh(br:GetChildren())do if not bA:IsA(_0xS(650))and not bA:IsA(_0xS(870))and not
+bA:IsA(_0xS(871))then bA[_0xS(278)]=false end end bu[_0xS(635)]=string[_0xS(749)
+](bu[_0xS(635)])end local function SearchDropdown()local bz={}for bA,bB in bh(by
+)do if string[_0xS(215)](bB,bu[_0xS(635)])then table[_0xS(754)](bx,bB)end end
+for bA,bB in bh(br:GetChildren())do for bC,bD in bh(bx)do if bD==bB[_0xS(137)]
+then bB[_0xS(278)]=true end end end end local function clear_object_in_list()for
+bz,bA in next,br:GetChildren()do if bA:IsA(_0xS(637))then bA:Destroy()end end
+end local bz local bA={}if bc then bz={}for bB,bC in ipairs(ba)do bz[_0xS(872)]=
+(bC==bf)table[_0xS(754)](bA,bC)end else bz=ba end local function refreshlist(bB)
+bh=bB or bh clear_object_in_list()by={}for bC,bD in bh(bz)do if bc then table[
+_0xS(754)](by,string[_0xS(749)](bC))elseif bd then table[_0xS(754)](by,string[
+_0xS(749)](bD[_0xS(187)]))else table[_0xS(754)](by,string[_0xS(749)](bD))end end
+if bc then for bC,bD in ipairs(bA)do local bE=bz[_0xS(869)]local bF=Instance[
+_0xS(101)](_0xS(637))local bG=Instance[_0xS(101)](_0xS(643))local bH=Instance[
+_0xS(101)](_0xS(637))local bI=Instance[_0xS(101)](_0xS(643))local bJ=Instance[
+_0xS(101)](_0xS(188))local bK=Instance[_0xS(101)](_0xS(784))local bL=Instance[
+_0xS(101)](_0xS(633))bF[_0xS(137)]=string[_0xS(749)](bD)bF[_0xS(182)]=br bF[
+_0xS(639)]=Color3[_0xS(573)](60,60,60)bF[_0xS(634)]=1 bF[_0xS(724)]=Color3[_0xS(
+573)](27,42,53)bF[_0xS(654)]=1 bF[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)
+bF[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bG[_0xS(644)]=UDim[_0xS(101)](0,4)bG[
+_0xS(137)]=_0xS(873)bG[_0xS(182)]=bF bH[_0xS(137)]=_0xS(874)bH[_0xS(182)]=bF bH[
+_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bH[_0xS(639)]=bE and UIColor[_0xS(600)]or
+Color3[_0xS(573)](255,255,255)bH[_0xS(634)]=bE and 0.5 or 1 bH[_0xS(724)]=Color3
+[_0xS(573)](27,42,53)bH[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bH[_0xS(192)]=
+UDim2[_0xS(101)](1,0,1,0)bI[_0xS(644)]=UDim[_0xS(101)](0,4)bI[_0xS(137)]=_0xS(
+875)bI[_0xS(182)]=bH bJ[_0xS(137)]=_0xS(876)bJ[_0xS(182)]=bH bJ[_0xS(639)]=
+Color3[_0xS(573)](255,255,255)bJ[_0xS(634)]=1 bJ[_0xS(724)]=Color3[_0xS(573)](27
+,42,53)bJ[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)bJ[_0xS(192)]=UDim2[_0xS(101)](1,
+-40,0,25)bJ[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bJ[_0xS(635)]=tostring(bD)bJ[
+_0xS(189)]=Color3[_0xS(573)](255,255,255)bJ[_0xS(686)]=14 bJ[_0xS(813)]=0.5 bJ[
+_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bK[_0xS(137)]=_0xS(877)bK[_0xS(182)]=bH bK[
+_0xS(636)]=Vector2[_0xS(101)](1,0.5)bK[_0xS(634)]=1 bK[_0xS(142)]=UDim2[_0xS(101
+)](1,0,0.5,0)bK[_0xS(192)]=UDim2[_0xS(101)](0,25,0,25)bK[_0xS(786)]=2 bK[_0xS(
+641)]=_0xS(693)bK[_0xS(696)]=UIColor[_0xS(600)]bK[_0xS(694)]=Vector2[_0xS(101)](
+312,4)bK[_0xS(695)]=Vector2[_0xS(101)](24,24)bK[_0xS(706)]=bE and 0 or 1 bL[
+_0xS(137)]=_0xS(878)bL[_0xS(182)]=bF bL[_0xS(639)]=Color3[_0xS(573)](255,255,255
+)bL[_0xS(634)]=1 bL[_0xS(724)]=Color3[_0xS(573)](0,0,0)bL[_0xS(719)]=0 bL[_0xS(
+192)]=UDim2[_0xS(101)](1,0,1,0)bL[_0xS(684)]=Enum[_0xS(684)][_0xS(697)]bL[_0xS(
+189)]=getgenv()[_0xS(609)][_0xS(581)]bL[_0xS(686)]=14 bL[_0xS(879)]=1 bL[_0xS(
+699)]:Connect(function()if bE then return end s:Create(bH,TweenInfo[_0xS(101)](
 getgenv()[_0xS(609)][_0xS(605)]),{BackgroundColor3=Color3[_0xS(573)](255,255,255
-)}):Play()s:Create(bq,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
-BackgroundTransparency=0.7}):Play()end)bu[_0xS(700)]:Connect(function()if bn
-then return end s:Create(bq,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]
-),{BackgroundColor3=Color3[_0xS(573)](255,255,255)}):Play()s:Create(bq,TweenInfo
+)}):Play()s:Create(bH,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
+BackgroundTransparency=0.7}):Play()end)bL[_0xS(700)]:Connect(function()if bE
+then return end s:Create(bH,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]
+),{BackgroundColor3=Color3[_0xS(573)](255,255,255)}):Play()s:Create(bH,TweenInfo
 [_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{BackgroundTransparency=1}):Play()
-end)bu[_0xS(649)]:Connect(function()bn=not bn s:Create(bt,TweenInfo[_0xS(101)](
-getgenv()[_0xS(609)][_0xS(605)]),{ImageTransparency=bn and 0 or 1}):Play()s:
-Create(bq,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
-BackgroundColor3=bn and UIColor[_0xS(600)]or Color3[_0xS(573)](255,255,255)}):
-Play()s:Create(bq,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
-BackgroundTransparency=bn and 0.5 or 1}):Play()if a_ then a_(bm,bn)bi[_0xS(869)]
-=bn end local bv={}for bw,bx in a0(bi)do if bx then table[_0xS(751)](bv,
-tostring(bw))end end local bw=table[_0xS(880)](bv,_0xS(881))if aV then bd[_0xS(
-736)]=aT.._0xS(868)..bw else bd[_0xS(635)]=aT.._0xS(868)..bw end end)end elseif
-aX then for bl,bm in a0(bi)do local bn=tostring(bm[_0xS(187)])or _0xS(150)local
-bo=tonumber(bm[_0xS(841)])or 0 local bp=tonumber(bm[_0xS(842)])or 100 local bq=
-bm[_0xS(843)]or false local br=tonumber(bm[_0xS(551)])or bo local bs=365 local
-bt=Instance[_0xS(101)](_0xS(637))local bu=Instance[_0xS(101)](_0xS(643))local bv
-=Instance[_0xS(101)](_0xS(637))local bw=Instance[_0xS(101)](_0xS(643))local bx=
-Instance[_0xS(101)](_0xS(188))local by=Instance[_0xS(101)](_0xS(637))local bz=
-Instance[_0xS(101)](_0xS(633))local bA=Instance[_0xS(101)](_0xS(643))local bB=
-Instance[_0xS(101)](_0xS(637))local bC=Instance[_0xS(101)](_0xS(643))local bD=
-Instance[_0xS(101)](_0xS(637))local bE=Instance[_0xS(101)](_0xS(643))local bF=
-Instance[_0xS(101)](_0xS(728))bt[_0xS(137)]=string[_0xS(746)](bm[_0xS(187)])bt[
-_0xS(182)]=ba bt[_0xS(639)]=Color3[_0xS(573)](60,60,60)bt[_0xS(634)]=1 bt[_0xS(
-142)]=UDim2[_0xS(101)](0,0,0.208333328,0)bt[_0xS(192)]=UDim2[_0xS(101)](1,0,0,50
-)bu[_0xS(644)]=UDim[_0xS(101)](0,4)bu[_0xS(137)]=_0xS(846)bu[_0xS(182)]=bt bv[
-_0xS(137)]=_0xS(718)bv[_0xS(182)]=bt bv[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bv
-[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bv[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,
-0)bv[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bv[_0xS(634)]=getgenv()[_0xS(609)
-][_0xS(586)]bw[_0xS(644)]=UDim[_0xS(101)](0,4)bw[_0xS(137)]=_0xS(847)bw[_0xS(182
-)]=bv bx[_0xS(137)]=_0xS(698)bx[_0xS(182)]=bv bx[_0xS(639)]=Color3[_0xS(573)](
-230,230,230)bx[_0xS(634)]=1 bx[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)bx[_0xS(192)
-]=UDim2[_0xS(101)](1,-10,0,25)bx[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bx[_0xS(
-635)]=bn bx[_0xS(686)]=14 bx[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bx[_0xS(189)]=
-getgenv()[_0xS(609)][_0xS(581)]by[_0xS(137)]=_0xS(848)by[_0xS(182)]=bt by[_0xS(
-636)]=Vector2[_0xS(101)](0.5,0.5)by[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,14)by[
-_0xS(192)]=UDim2[_0xS(101)](1,-20,0,6)by[_0xS(639)]=getgenv()[_0xS(609)][_0xS(
-587)]bz[_0xS(137)]=_0xS(882)bz[_0xS(182)]=by bz[_0xS(639)]=Color3[_0xS(573)](230
-,230,230)bz[_0xS(634)]=1 bz[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bz[_0xS(684)]=
-Enum[_0xS(684)][_0xS(685)]bz[_0xS(635)]=_0xS(150)bz[_0xS(189)]=Color3[_0xS(573)
-](230,230,230)bz[_0xS(686)]=14 bA[_0xS(644)]=UDim[_0xS(101)](1,0)bA[_0xS(137)]=
-_0xS(850)bA[_0xS(182)]=by bB[_0xS(137)]=_0xS(851)bB[_0xS(716)]=0 bB[_0xS(182)]=
-by bB[_0xS(192)]=UDim2[_0xS(101)](0,0,1,0)bB[_0xS(639)]=getgenv()[_0xS(609)][
-_0xS(603)]bC[_0xS(644)]=UDim[_0xS(101)](1,0)bC[_0xS(137)]=_0xS(852)bC[_0xS(182)]
-=bB bD[_0xS(137)]=_0xS(829)bD[_0xS(182)]=bt bD[_0xS(636)]=Vector2[_0xS(101)](1,0
-)bD[_0xS(142)]=UDim2[_0xS(101)](1,-10,0,5)bD[_0xS(192)]=UDim2[_0xS(101)](0,150,0
-,25)bD[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bE[_0xS(644)]=UDim[_0xS(101)](0
-,4)bE[_0xS(137)]=_0xS(853)bE[_0xS(182)]=bD bF[_0xS(137)]=_0xS(698)bF[_0xS(182)]=
-bD bF[_0xS(639)]=Color3[_0xS(573)](230,230,230)bF[_0xS(634)]=1 bF[_0xS(192)]=
-UDim2[_0xS(101)](1,0,1,0)bF[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bF[_0xS(635)]=
-_0xS(150)bF[_0xS(686)]=14 bF[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bz[_0xS(
-699)]:Connect(function()s:Create(bB,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
-_0xS(606)]),{BackgroundColor3=getgenv()[_0xS(609)][_0xS(604)]}):Play()end)bz[
-_0xS(700)]:Connect(function()s:Create(bB,TweenInfo[_0xS(101)](getgenv()[_0xS(609
+end)bL[_0xS(649)]:Connect(function()bE=not bE s:Create(bK,TweenInfo[_0xS(101)](
+getgenv()[_0xS(609)][_0xS(605)]),{ImageTransparency=bE and 0 or 1}):Play()s:
+Create(bH,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
+BackgroundColor3=bE and UIColor[_0xS(600)]or Color3[_0xS(573)](255,255,255)}):
+Play()s:Create(bH,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
+BackgroundTransparency=bE and 0.5 or 1}):Play()if bg then bg(bD,bE)bz[_0xS(869)]
+=bE end local bM={}for bN,bO in bh(bz)do if bO then table[_0xS(754)](bM,
+tostring(bN))end end local bN=table[_0xS(880)](bM,_0xS(881))if bb then bu[_0xS(
+739)]=a9.._0xS(868)..bN else bu[_0xS(635)]=a9.._0xS(868)..bN end end)end elseif
+bd then for bC,bD in bh(bz)do local bE=tostring(bD[_0xS(187)])or _0xS(150)local
+bF=tonumber(bD[_0xS(841)])or 0 local bG=tonumber(bD[_0xS(842)])or 100 local bH=
+bD[_0xS(843)]or false local bI=tonumber(bD[_0xS(551)])or bF local bJ=365 local
+bK=Instance[_0xS(101)](_0xS(637))local bL=Instance[_0xS(101)](_0xS(643))local bM
+=Instance[_0xS(101)](_0xS(637))local bN=Instance[_0xS(101)](_0xS(643))local bO=
+Instance[_0xS(101)](_0xS(188))local bP=Instance[_0xS(101)](_0xS(637))local bQ=
+Instance[_0xS(101)](_0xS(633))local bR=Instance[_0xS(101)](_0xS(643))local bS=
+Instance[_0xS(101)](_0xS(637))local bT=Instance[_0xS(101)](_0xS(643))local bU=
+Instance[_0xS(101)](_0xS(637))local bV=Instance[_0xS(101)](_0xS(643))local bW=
+Instance[_0xS(101)](_0xS(731))bK[_0xS(137)]=string[_0xS(749)](bD[_0xS(187)])bK[
+_0xS(182)]=br bK[_0xS(639)]=Color3[_0xS(573)](60,60,60)bK[_0xS(634)]=1 bK[_0xS(
+142)]=UDim2[_0xS(101)](0,0,0.208333328,0)bK[_0xS(192)]=UDim2[_0xS(101)](1,0,0,50
+)bL[_0xS(644)]=UDim[_0xS(101)](0,4)bL[_0xS(137)]=_0xS(846)bL[_0xS(182)]=bK bM[
+_0xS(137)]=_0xS(721)bM[_0xS(182)]=bK bM[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bM
+[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bM[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,
+0)bM[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bM[_0xS(634)]=getgenv()[_0xS(609)
+][_0xS(586)]bN[_0xS(644)]=UDim[_0xS(101)](0,4)bN[_0xS(137)]=_0xS(847)bN[_0xS(182
+)]=bM bO[_0xS(137)]=_0xS(698)bO[_0xS(182)]=bM bO[_0xS(639)]=Color3[_0xS(573)](
+230,230,230)bO[_0xS(634)]=1 bO[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)bO[_0xS(192)
+]=UDim2[_0xS(101)](1,-10,0,25)bO[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]bO[_0xS(
+635)]=bE bO[_0xS(686)]=14 bO[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bO[_0xS(189)]=
+getgenv()[_0xS(609)][_0xS(581)]bP[_0xS(137)]=_0xS(848)bP[_0xS(182)]=bK bP[_0xS(
+636)]=Vector2[_0xS(101)](0.5,0.5)bP[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,14)bP[
+_0xS(192)]=UDim2[_0xS(101)](1,-20,0,6)bP[_0xS(639)]=getgenv()[_0xS(609)][_0xS(
+587)]bQ[_0xS(137)]=_0xS(882)bQ[_0xS(182)]=bP bQ[_0xS(639)]=Color3[_0xS(573)](230
+,230,230)bQ[_0xS(634)]=1 bQ[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bQ[_0xS(684)]=
+Enum[_0xS(684)][_0xS(685)]bQ[_0xS(635)]=_0xS(150)bQ[_0xS(189)]=Color3[_0xS(573)
+](230,230,230)bQ[_0xS(686)]=14 bR[_0xS(644)]=UDim[_0xS(101)](1,0)bR[_0xS(137)]=
+_0xS(850)bR[_0xS(182)]=bP bS[_0xS(137)]=_0xS(851)bS[_0xS(719)]=0 bS[_0xS(182)]=
+bP bS[_0xS(192)]=UDim2[_0xS(101)](0,0,1,0)bS[_0xS(639)]=getgenv()[_0xS(609)][
+_0xS(603)]bT[_0xS(644)]=UDim[_0xS(101)](1,0)bT[_0xS(137)]=_0xS(852)bT[_0xS(182)]
+=bS bU[_0xS(137)]=_0xS(829)bU[_0xS(182)]=bK bU[_0xS(636)]=Vector2[_0xS(101)](1,0
+)bU[_0xS(142)]=UDim2[_0xS(101)](1,-10,0,5)bU[_0xS(192)]=UDim2[_0xS(101)](0,150,0
+,25)bU[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bV[_0xS(644)]=UDim[_0xS(101)](0
+,4)bV[_0xS(137)]=_0xS(853)bV[_0xS(182)]=bU bW[_0xS(137)]=_0xS(698)bW[_0xS(182)]=
+bU bW[_0xS(639)]=Color3[_0xS(573)](230,230,230)bW[_0xS(634)]=1 bW[_0xS(192)]=
+UDim2[_0xS(101)](1,0,1,0)bW[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bW[_0xS(635)]=
+_0xS(150)bW[_0xS(686)]=14 bW[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bQ[_0xS(
+699)]:Connect(function()s:Create(bS,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
+_0xS(606)]),{BackgroundColor3=getgenv()[_0xS(609)][_0xS(604)]}):Play()end)bQ[
+_0xS(700)]:Connect(function()s:Create(bS,TweenInfo[_0xS(101)](getgenv()[_0xS(609
 )][_0xS(606)]),{BackgroundColor3=getgenv()[_0xS(609)][_0xS(603)]}):Play()end)
-local bG=function(bG)bF[_0xS(635)]=bG bi[_0xS(869)][_0xS(551)]=bG a_(bl,bm)end
-if br then if br<=bo then br=bo elseif br>=bp then br=bp end bB[_0xS(192)]=UDim2
-[_0xS(101)](1-((bp-br)/(bp-bo)),0,0,6)bG(br)end if aY then local bH=false local
-bI local bJ=0 local bK=0 local function onInputBegan(bL)if bL[_0xS(614)]==Enum[
-_0xS(614)][_0xS(615)]or bL[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bK=tick()
-bL[_0xS(286)]:Connect(function()if bL[_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then
-bH=false bK=0 end end)end end local function onInputEnded(bL)if bL[_0xS(614)]==
-Enum[_0xS(614)][_0xS(615)]or bL[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bH=
-false bK=0 end end local function onInputChanged(bL)if bL[_0xS(614)]==Enum[_0xS(
-614)][_0xS(620)]or bL[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bI=bL end end
-bz[_0xS(613)]:Connect(onInputBegan)bz[_0xS(647)]:Connect(onInputEnded)bz[_0xS(
-619)]:Connect(onInputChanged)u[_0xS(648)]:Connect(function()if bK>0 and(tick()-
-bK>=bJ)and not bH then bH=true end if bH and bI then local bL=bq and tonumber(
-string[_0xS(856)](_0xS(883),(((tonumber(bp)-tonumber(bo))/bs)*bB[_0xS(194)][
-_0xS(160)])+tonumber(bo)))or math[_0xS(658)]((((tonumber(bp)-tonumber(bo))/bs)*
-bB[_0xS(194)][_0xS(160)])+tonumber(bo))pcall(function()bG(bL)end)bB[_0xS(192)]=
-UDim2[_0xS(101)](0,math[_0xS(854)](bI[_0xS(142)][_0xS(160)]-bB[_0xS(855)][_0xS(
-160)],0,bs),0,6)end end)else local bH=false local bI local bJ=0 local bK=0 local 
-function onInputBegan(bL)if bL[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bL[_0xS(
-614)]==Enum[_0xS(614)][_0xS(616)]then bK=tick()bL[_0xS(286)]:Connect(function()
-if bL[_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then bH=false bK=0 end end)end end
-local function onInputEnded(bL)if bL[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bL
-[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bH=false bK=0 end end local function 
-onInputChanged(bL)if bL[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or bL[_0xS(614)]==
-Enum[_0xS(614)][_0xS(616)]then bI=bL end end bz[_0xS(613)]:Connect(onInputBegan)
-bz[_0xS(647)]:Connect(onInputEnded)bz[_0xS(619)]:Connect(onInputChanged)u[_0xS(
-648)]:Connect(function()if bK>0 and(tick()-bK>=bJ)and not bH then bH=true end if
-bH and bI then local bL=bq and tonumber(string[_0xS(856)](_0xS(883),(((tonumber(
-bp)-tonumber(bo))/bs)*bB[_0xS(194)][_0xS(160)])+tonumber(bo)))or math[_0xS(658)
-]((((tonumber(bp)-tonumber(bo))/bs)*bB[_0xS(194)][_0xS(160)])+tonumber(bo))
-pcall(function()bG(bL)end)bB[_0xS(192)]=UDim2[_0xS(101)](0,math[_0xS(854)](bI[
-_0xS(142)][_0xS(160)]-bB[_0xS(855)][_0xS(160)],0,bs),0,6)end end)end local 
-function GetSliderValue(bH)if tonumber(bH)<=bo then bB[_0xS(192)]=UDim2[_0xS(101
-)](0,(0*bs),0,6)bG(bo)elseif tonumber(bH)>=bp then bB[_0xS(192)]=UDim2[_0xS(101)
-](0,(bp/bp*bs),0,6)bG(bp)else bB[_0xS(192)]=UDim2[_0xS(101)](1-((bp-bH)/(bp-bo))
-,0,0,6)bG(bH)end end bF[_0xS(859)]:Connect(function()GetSliderValue(bF[_0xS(635)
-])end)end else for bl,bm in a0(bi)do if typeof(bm)==_0xS(165)then local bn=
-Instance[_0xS(101)](_0xS(637))local bo=Instance[_0xS(101)](_0xS(643))local bp=
-Instance[_0xS(101)](_0xS(637))local bq=Instance[_0xS(101)](_0xS(643))local br=
-Instance[_0xS(101)](_0xS(188))local bs=Instance[_0xS(101)](_0xS(783))local bt=
-Instance[_0xS(101)](_0xS(633))bn[_0xS(137)]=string[_0xS(746)](bm)bn[_0xS(182)]=
-ba bn[_0xS(639)]=Color3[_0xS(573)](60,60,60)bn[_0xS(634)]=1 bn[_0xS(721)]=Color3
-[_0xS(573)](27,42,53)bn[_0xS(654)]=1 bn[_0xS(142)]=UDim2[_0xS(101)](0,0,
-0.208333328,0)bn[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bo[_0xS(644)]=UDim[_0xS(
-101)](0,4)bo[_0xS(137)]=_0xS(873)bo[_0xS(182)]=bn bp[_0xS(137)]=_0xS(874)bp[
-_0xS(182)]=bn bp[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bp[_0xS(639)]=Color3[
-_0xS(573)](255,255,255)bp[_0xS(634)]=1 bp[_0xS(721)]=Color3[_0xS(573)](27,42,53)
-bp[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bp[_0xS(192)]=UDim2[_0xS(101)](1,0,1,
-0)bq[_0xS(644)]=UDim[_0xS(101)](0,4)bq[_0xS(137)]=_0xS(875)bq[_0xS(182)]=bp br[
-_0xS(137)]=_0xS(876)br[_0xS(182)]=bp br[_0xS(639)]=Color3[_0xS(573)](255,255,255
-)br[_0xS(634)]=1 br[_0xS(721)]=Color3[_0xS(573)](27,42,53)br[_0xS(142)]=UDim2[
-_0xS(101)](0,10,0,0)br[_0xS(192)]=UDim2[_0xS(101)](1,-40,0,25)br[_0xS(684)]=Enum
-[_0xS(684)][_0xS(801)]br[_0xS(635)]=bm br[_0xS(189)]=Color3[_0xS(573)](255,255,
-255)br[_0xS(686)]=14 br[_0xS(813)]=0.5 br[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]
-bs[_0xS(137)]=_0xS(877)bs[_0xS(182)]=bp bs[_0xS(636)]=Vector2[_0xS(101)](1,0.5)
-bs[_0xS(634)]=1 bs[_0xS(142)]=UDim2[_0xS(101)](1,0,0.5,0)bs[_0xS(192)]=UDim2[
-_0xS(101)](0,25,0,25)bs[_0xS(785)]=2 bs[_0xS(641)]=_0xS(693)bs[_0xS(696)]=
-UIColor[_0xS(600)]bs[_0xS(694)]=Vector2[_0xS(101)](312,4)bs[_0xS(695)]=Vector2[
-_0xS(101)](24,24)bs[_0xS(790)]=1 bt[_0xS(137)]=_0xS(878)bt[_0xS(182)]=bn bt[
-_0xS(639)]=Color3[_0xS(573)](255,255,255)bt[_0xS(634)]=1 bt[_0xS(721)]=Color3[
-_0xS(573)](0,0,0)bt[_0xS(716)]=0 bt[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bt[_0xS(
-684)]=Enum[_0xS(684)][_0xS(697)]bt[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bt[
-_0xS(686)]=14 bt[_0xS(879)]=1 bt[_0xS(699)]:Connect(function()if be[_0xS(14)]==
-bm then return end s:Create(bp,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
-605)]),{BackgroundColor3=Color3[_0xS(573)](255,255,255)}):Play()s:Create(bp,
+local bX=function(bX)bW[_0xS(635)]=bX bz[_0xS(869)][_0xS(551)]=bX bg(bC,bD)end
+if bI then if bI<=bF then bI=bF elseif bI>=bG then bI=bG end bS[_0xS(192)]=UDim2
+[_0xS(101)](1-((bG-bI)/(bG-bF)),0,0,6)bX(bI)end if be then local bY=false local
+bZ local b_=0 local b0=0 local function onInputBegan(b1)if b1[_0xS(614)]==Enum[
+_0xS(614)][_0xS(615)]or b1[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then b0=tick()
+b1[_0xS(286)]:Connect(function()if b1[_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then
+bY=false b0=0 end end)end end local function onInputEnded(b1)if b1[_0xS(614)]==
+Enum[_0xS(614)][_0xS(615)]or b1[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bY=
+false b0=0 end end local function onInputChanged(b1)if b1[_0xS(614)]==Enum[_0xS(
+614)][_0xS(620)]or b1[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bZ=b1 end end
+bQ[_0xS(613)]:Connect(onInputBegan)bQ[_0xS(647)]:Connect(onInputEnded)bQ[_0xS(
+619)]:Connect(onInputChanged)u[_0xS(648)]:Connect(function()if b0>0 and(tick()-
+b0>=b_)and not bY then bY=true end if bY and bZ then local b1=bH and tonumber(
+string[_0xS(856)](_0xS(883),(((tonumber(bG)-tonumber(bF))/bJ)*bS[_0xS(194)][
+_0xS(160)])+tonumber(bF)))or math[_0xS(658)]((((tonumber(bG)-tonumber(bF))/bJ)*
+bS[_0xS(194)][_0xS(160)])+tonumber(bF))pcall(function()bX(b1)end)bS[_0xS(192)]=
+UDim2[_0xS(101)](0,math[_0xS(854)](bZ[_0xS(142)][_0xS(160)]-bS[_0xS(855)][_0xS(
+160)],0,bJ),0,6)end end)else local bY=false local bZ local b_=0 local b0=0 local 
+function onInputBegan(b1)if b1[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or b1[_0xS(
+614)]==Enum[_0xS(614)][_0xS(616)]then b0=tick()b1[_0xS(286)]:Connect(function()
+if b1[_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then bY=false b0=0 end end)end end
+local function onInputEnded(b1)if b1[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or b1
+[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bY=false b0=0 end end local function 
+onInputChanged(b1)if b1[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or b1[_0xS(614)]==
+Enum[_0xS(614)][_0xS(616)]then bZ=b1 end end bQ[_0xS(613)]:Connect(onInputBegan)
+bQ[_0xS(647)]:Connect(onInputEnded)bQ[_0xS(619)]:Connect(onInputChanged)u[_0xS(
+648)]:Connect(function()if b0>0 and(tick()-b0>=b_)and not bY then bY=true end if
+bY and bZ then local b1=bH and tonumber(string[_0xS(856)](_0xS(883),(((tonumber(
+bG)-tonumber(bF))/bJ)*bS[_0xS(194)][_0xS(160)])+tonumber(bF)))or math[_0xS(658)
+]((((tonumber(bG)-tonumber(bF))/bJ)*bS[_0xS(194)][_0xS(160)])+tonumber(bF))
+pcall(function()bX(b1)end)bS[_0xS(192)]=UDim2[_0xS(101)](0,math[_0xS(854)](bZ[
+_0xS(142)][_0xS(160)]-bS[_0xS(855)][_0xS(160)],0,bJ),0,6)end end)end local 
+function GetSliderValue(bY)if tonumber(bY)<=bF then bS[_0xS(192)]=UDim2[_0xS(101
+)](0,(0*bJ),0,6)bX(bF)elseif tonumber(bY)>=bG then bS[_0xS(192)]=UDim2[_0xS(101)
+](0,(bG/bG*bJ),0,6)bX(bG)else bS[_0xS(192)]=UDim2[_0xS(101)](1-((bG-bY)/(bG-bF))
+,0,0,6)bX(bY)end end bW[_0xS(859)]:Connect(function()GetSliderValue(bW[_0xS(635)
+])end)end else for bC,bD in bh(bz)do if typeof(bD)==_0xS(165)then local bE=
+Instance[_0xS(101)](_0xS(637))local bF=Instance[_0xS(101)](_0xS(643))local bG=
+Instance[_0xS(101)](_0xS(637))local bH=Instance[_0xS(101)](_0xS(643))local bI=
+Instance[_0xS(101)](_0xS(188))local bJ=Instance[_0xS(101)](_0xS(784))local bK=
+Instance[_0xS(101)](_0xS(633))bE[_0xS(137)]=string[_0xS(749)](bD)bE[_0xS(182)]=
+br bE[_0xS(639)]=Color3[_0xS(573)](60,60,60)bE[_0xS(634)]=1 bE[_0xS(724)]=Color3
+[_0xS(573)](27,42,53)bE[_0xS(654)]=1 bE[_0xS(142)]=UDim2[_0xS(101)](0,0,
+0.208333328,0)bE[_0xS(192)]=UDim2[_0xS(101)](1,0,0,25)bF[_0xS(644)]=UDim[_0xS(
+101)](0,4)bF[_0xS(137)]=_0xS(873)bF[_0xS(182)]=bE bG[_0xS(137)]=_0xS(874)bG[
+_0xS(182)]=bE bG[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)bG[_0xS(639)]=Color3[
+_0xS(573)](255,255,255)bG[_0xS(634)]=1 bG[_0xS(724)]=Color3[_0xS(573)](27,42,53)
+bG[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bG[_0xS(192)]=UDim2[_0xS(101)](1,0,1,
+0)bH[_0xS(644)]=UDim[_0xS(101)](0,4)bH[_0xS(137)]=_0xS(875)bH[_0xS(182)]=bG bI[
+_0xS(137)]=_0xS(876)bI[_0xS(182)]=bG bI[_0xS(639)]=Color3[_0xS(573)](255,255,255
+)bI[_0xS(634)]=1 bI[_0xS(724)]=Color3[_0xS(573)](27,42,53)bI[_0xS(142)]=UDim2[
+_0xS(101)](0,10,0,0)bI[_0xS(192)]=UDim2[_0xS(101)](1,-40,0,25)bI[_0xS(684)]=Enum
+[_0xS(684)][_0xS(801)]bI[_0xS(635)]=bD bI[_0xS(189)]=Color3[_0xS(573)](255,255,
+255)bI[_0xS(686)]=14 bI[_0xS(813)]=0.5 bI[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]
+bJ[_0xS(137)]=_0xS(877)bJ[_0xS(182)]=bG bJ[_0xS(636)]=Vector2[_0xS(101)](1,0.5)
+bJ[_0xS(634)]=1 bJ[_0xS(142)]=UDim2[_0xS(101)](1,0,0.5,0)bJ[_0xS(192)]=UDim2[
+_0xS(101)](0,25,0,25)bJ[_0xS(786)]=2 bJ[_0xS(641)]=_0xS(693)bJ[_0xS(696)]=
+UIColor[_0xS(600)]bJ[_0xS(694)]=Vector2[_0xS(101)](312,4)bJ[_0xS(695)]=Vector2[
+_0xS(101)](24,24)bJ[_0xS(706)]=1 bK[_0xS(137)]=_0xS(878)bK[_0xS(182)]=bE bK[
+_0xS(639)]=Color3[_0xS(573)](255,255,255)bK[_0xS(634)]=1 bK[_0xS(724)]=Color3[
+_0xS(573)](0,0,0)bK[_0xS(719)]=0 bK[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bK[_0xS(
+684)]=Enum[_0xS(684)][_0xS(697)]bK[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bK[
+_0xS(686)]=14 bK[_0xS(879)]=1 bK[_0xS(699)]:Connect(function()if bv[_0xS(14)]==
+bD then return end s:Create(bG,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
+605)]),{BackgroundColor3=Color3[_0xS(573)](255,255,255)}):Play()s:Create(bG,
 TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{BackgroundTransparency=
-0.7}):Play()end)bt[_0xS(700)]:Connect(function()if be[_0xS(14)]==bm then return
-end s:Create(bp,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
-BackgroundColor3=Color3[_0xS(573)](255,255,255)}):Play()s:Create(bp,TweenInfo[
+0.7}):Play()end)bK[_0xS(700)]:Connect(function()if bv[_0xS(14)]==bD then return
+end s:Create(bG,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{
+BackgroundColor3=Color3[_0xS(573)](255,255,255)}):Play()s:Create(bG,TweenInfo[
 _0xS(101)](getgenv()[_0xS(609)][_0xS(605)]),{BackgroundTransparency=1}):Play()
-end)bt[_0xS(649)]:Connect(function()if aV then bd[_0xS(736)]=aT.._0xS(868)..bm
-or _0xS(150)be[_0xS(14)]=bm else bd[_0xS(635)]=aT.._0xS(868)..bm or _0xS(150)be[
-_0xS(14)]=bm end s:Create(bp,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)
-]),{BackgroundColor3=UIColor[_0xS(600)]}):Play()s:Create(bp,TweenInfo[_0xS(101)
-](getgenv()[_0xS(609)][_0xS(605)]),{BackgroundTransparency=0.5}):Play()if a_
-then a_(bm)end if aV then bd[_0xS(635)]=_0xS(150)end refreshlist()end)if be[
-_0xS(14)]==bm then bp[_0xS(634)]=0.5 bp[_0xS(639)]=UIColor[_0xS(600)]bn[_0xS(654
-)]=0 end end end end end if aV then bd[_0xS(286)]:Connect(function()edit()
-SearchDropdown()end)end if typeof(aZ)~=_0xS(2)then if aV then bd[_0xS(736)]=aT..
-_0xS(868)..tostring(aZ or _0xS(150))else bd[_0xS(635)]=aT.._0xS(868)..tostring(
-aZ or _0xS(150))end elseif aX then bd[_0xS(635)]=_0xS(150)bd[_0xS(736)]=aT..
-_0xS(868)elseif aW then if aV then bd[_0xS(736)]=aT.._0xS(868)else bd[_0xS(635)]
-=aT.._0xS(868)end end a7[_0xS(649)]:Connect(function()refreshlist()bf=not bf
-local bk=bf and UDim2[_0xS(101)](1,0,0,170)or UDim2[_0xS(101)](1,0,0,0)local bl=
-bf and UDim2[_0xS(101)](1,0,0,200)or UDim2[_0xS(101)](1,0,0,25)local bm=bf and
-90 or 0 s:Create(a8,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{Size=
-bk}):Play()s:Create(a1,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{
-Size=bl}):Play()s:Create(a6,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]
-),{Rotation=bm}):Play()end)local bk={rf=refreshlist}function bk:ClearText(bl)if
-not aW then if aV then bd[_0xS(736)]=aT.._0xS(868)..(bl or _0xS(150))else bd[
-_0xS(635)]=aT.._0xS(868)..(bl or _0xS(150))end else bd[_0xS(635)]=aT.._0xS(868)
-..(bl or _0xS(150))end end function bk:GetNewList(bl)be[_0xS(14)]=_0xS(150)bf=
-false local bm=bf and UDim2[_0xS(101)](1,0,0,170)or UDim2[_0xS(101)](1,0,0,0)
-local bn=bf and UDim2[_0xS(101)](1,0,0,200)or UDim2[_0xS(101)](1,0,0,25)local bo
-=bf and 90 or 0 s:Create(a8,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]
-),{Size=bm}):Play()s:Create(a1,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
-606)]),{Size=bn}):Play()s:Create(a6,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
-_0xS(606)]),{Rotation=bo}):Play()bi={}bi=bl refreshlist()if aV then bd[_0xS(736)
-]=aT.._0xS(868)else bd[_0xS(635)]=aT.._0xS(868)end end function bk:SetValue(bl)
-if not aW then if table[_0xS(215)](bi,bl)then be[_0xS(14)]=bl if aV then bd[
-_0xS(736)]=aT.._0xS(868)..bl else bd[_0xS(635)]=aT.._0xS(868)..bl end if a_ then
-a_(bl)end refreshlist()end else if bi[_0xS(872)]~=nil then bi[_0xS(872)]=true if
-aV then bd[_0xS(736)]=aT.._0xS(868)else bd[_0xS(635)]=aT.._0xS(868)end if a_
-then a_(bl,true)end refreshlist()end end end function bk:GetValue()if not aW
-then return be[_0xS(14)]else local bl={}for bm,bn in a0(bi)do if bn==true then
-table[_0xS(751)](bl,bm)end end return bl end end local bl={Name=aT,Section=aF,
-Element=a1,SectionName=aA,TabName=af,TabButton=X,SetValue=bk[_0xS(884)],GetValue
-=bk[_0xS(885)]}table[_0xS(751)](getgenv()[_0xS(610)],bl)if aZ and a_ then pcall(
-a_,aZ)end return bk end function aQ:AddKeyBind(aR,aS)local aT=tostring(aR[_0xS(
-187)]or aR[_0xS(635)])or _0xS(150)local aU=aR[_0xS(551)]or aR[_0xS(886)]or _0xS(
-163)local aV=aR[_0xS(887)]or _0xS(888)local aW=aR[_0xS(794)]or aS or function()
-end local function GetKeyString(aX)local aY=tostring(aX)aY=aY:gsub(_0xS(889),
-_0xS(150))aY=aY:gsub(_0xS(890),_0xS(150))return aY end local aX=GetKeyString(aU)
-local aY=aV local aZ=false local a_=false local a0=false local a1=Instance[_0xS(
-101)](_0xS(637))local a2=Instance[_0xS(101)](_0xS(643))local a3=Instance[_0xS(
-101)](_0xS(637))local a4=Instance[_0xS(101)](_0xS(643))local a5=Instance[_0xS(
-101)](_0xS(188))local a6=Instance[_0xS(101)](_0xS(637))local a7=Instance[_0xS(
-101)](_0xS(643))local a8=Instance[_0xS(101)](_0xS(633))a1[_0xS(137)]=aT.._0xS(
-891)a1[_0xS(182)]=aF a1[_0xS(639)]=Color3[_0xS(573)](60,60,60)a1[_0xS(634)]=1 a1
-[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)a1[_0xS(192)]=UDim2[_0xS(101)](1,
-0,0,35)a2[_0xS(644)]=UDim[_0xS(101)](0,4)a2[_0xS(137)]=_0xS(892)a2[_0xS(182)]=a1
-a3[_0xS(137)]=_0xS(718)a3[_0xS(182)]=a1 a3[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5
-)a3[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)a3[_0xS(192)]=UDim2[_0xS(101)](1,-10
-,1,0)a3[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]a3[_0xS(634)]=getgenv()[_0xS(
-609)][_0xS(586)]a4[_0xS(644)]=UDim[_0xS(101)](0,4)a4[_0xS(137)]=_0xS(893)a4[
-_0xS(182)]=a3 a5[_0xS(137)]=_0xS(698)a5[_0xS(182)]=a3 a5[_0xS(639)]=Color3[_0xS(
-573)](230,230,230)a5[_0xS(634)]=1 a5[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)a5[
-_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)a5[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]a5
-[_0xS(635)]=aT a5[_0xS(686)]=14 a5[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]a5[_0xS(
-189)]=getgenv()[_0xS(609)][_0xS(581)]a6[_0xS(137)]=_0xS(829)a6[_0xS(182)]=a3 a6[
-_0xS(636)]=Vector2[_0xS(101)](1,0.5)a6[_0xS(142)]=UDim2[_0xS(101)](1,-5,0.5,0)a6
-[_0xS(192)]=UDim2[_0xS(101)](0,150,0,25)a6[_0xS(639)]=getgenv()[_0xS(609)][_0xS(
-587)]a7[_0xS(644)]=UDim[_0xS(101)](0,4)a7[_0xS(137)]=_0xS(893)a7[_0xS(182)]=a6
-a8[_0xS(137)]=_0xS(894)a8[_0xS(182)]=a6 a8[_0xS(639)]=Color3[_0xS(573)](230,230,
-230)a8[_0xS(634)]=1 a8[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)a8[_0xS(684)]=Enum[
-_0xS(684)][_0xS(685)]a8[_0xS(635)]=aX a8[_0xS(686)]=14 a8[_0xS(189)]=getgenv()[
-_0xS(609)][_0xS(581)]a8[_0xS(649)]:Connect(function()if aZ then return end aZ=
-true a8[_0xS(635)]=_0xS(895)task[_0xS(294)](0.2)local a9 a9=t[_0xS(613)]:
-Connect(function(ba)if aZ then local bb if ba[_0xS(614)]==Enum[_0xS(614)][_0xS(
-896)]then bb=ba[_0xS(897)][_0xS(137)]elseif ba[_0xS(614)]==Enum[_0xS(614)][_0xS(
-615)]then bb=_0xS(898)elseif ba[_0xS(614)]==Enum[_0xS(614)][_0xS(899)]then bb=
-_0xS(900)end if bb then aZ=false aX=bb a8[_0xS(635)]=bb a9:Disconnect()end end
-end)end)t[_0xS(613)]:Connect(function(a9,ba)if ba or aZ then return end if t:
-GetFocusedTextBox()then return end local bb if a9[_0xS(614)]==Enum[_0xS(614)][
-_0xS(896)]then bb=a9[_0xS(897)][_0xS(137)]elseif a9[_0xS(614)]==Enum[_0xS(614)][
-_0xS(615)]then bb=_0xS(898)elseif a9[_0xS(614)]==Enum[_0xS(614)][_0xS(899)]then
-bb=_0xS(900)end if bb==aX then if aY==_0xS(888)then a_=not a_ pcall(aW,a_)elseif
-aY==_0xS(901)then a0=true pcall(aW,true)end end end)t[_0xS(647)]:Connect(
-function(a9)if aZ then return end if t:GetFocusedTextBox()then return end local
-ba if a9[_0xS(614)]==Enum[_0xS(614)][_0xS(896)]then ba=a9[_0xS(897)][_0xS(137)]
-elseif a9[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]then ba=_0xS(898)elseif a9[_0xS(
-614)]==Enum[_0xS(614)][_0xS(899)]then ba=_0xS(900)end if ba==aX and aY==_0xS(901
-)and a0 then a0=false pcall(aW,false)end end)local a9={Name=aT,Section=aF,
-Element=a1,SectionName=aA,TabName=af,TabButton=X}table[_0xS(751)](getgenv()[
-_0xS(610)],a9)local ba={}function ba:Set(bb)aX=GetKeyString(bb)a8[_0xS(635)]=aX
-end function ba:Get()return aX end function ba:SetMode(bb)if bb==_0xS(901)or bb
-==_0xS(888)then aY=bb a_=false a0=false end end function ba:GetMode()return aY
-end function ba:GetState()if aY==_0xS(888)then return a_ elseif aY==_0xS(901)
-then return a0 end return false end if aW and aU then pcall(aW,aU)end return ba
-end function aQ:AddInput(aR,aS)local aT=tostring(aS[_0xS(635)]or aS[_0xS(187)])
-or _0xS(150)local aU=tostring(aS[_0xS(902)])or _0xS(150)local aV=aS[_0xS(551)]or
-false local aW=aS[_0xS(903)]or false local aX=aS[_0xS(794)]local aY=Instance[
-_0xS(101)](_0xS(637))local aZ=Instance[_0xS(101)](_0xS(643))local a_=Instance[
-_0xS(101)](_0xS(637))local a0=Instance[_0xS(101)](_0xS(643))local a1=Instance[
-_0xS(101)](_0xS(188))local a2=Instance[_0xS(101)](_0xS(637))local a3=Instance[
-_0xS(101)](_0xS(643))local a4=Instance[_0xS(101)](_0xS(728))local a5=Instance[
-_0xS(101)](_0xS(637))local a6=Instance[_0xS(101)](_0xS(643))aY[_0xS(137)]=_0xS(
-904)aY[_0xS(182)]=aF aY[_0xS(639)]=Color3[_0xS(573)](60,60,60)aY[_0xS(634)]=1 aY
-[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)aY[_0xS(192)]=UDim2[_0xS(101)](1,
-0,0,60)aZ[_0xS(644)]=UDim[_0xS(101)](0,4)aZ[_0xS(137)]=_0xS(905)aZ[_0xS(182)]=aY
-a_[_0xS(137)]=_0xS(718)a_[_0xS(182)]=aY a_[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5
-)a_[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)a_[_0xS(192)]=UDim2[_0xS(101)](1,-10
-,1,0)a_[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]a_[_0xS(634)]=getgenv()[_0xS(
-609)][_0xS(586)]a0[_0xS(644)]=UDim[_0xS(101)](0,4)a0[_0xS(137)]=_0xS(893)a0[
-_0xS(182)]=a_ a1[_0xS(137)]=_0xS(698)a1[_0xS(182)]=a_ a1[_0xS(639)]=Color3[_0xS(
-573)](230,230,230)a1[_0xS(634)]=1 a1[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)a1[
-_0xS(192)]=UDim2[_0xS(101)](1,-10,0.5,0)a1[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]
-a1[_0xS(635)]=aT a1[_0xS(686)]=14 a1[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]a1[
-_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]a2[_0xS(137)]=_0xS(829)a2[_0xS(182)]=
-a_ a2[_0xS(636)]=Vector2[_0xS(101)](1,0.5)a2[_0xS(670)]=true a2[_0xS(142)]=UDim2
-[_0xS(101)](1,-5,0,40)a2[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,25)a2[_0xS(639)]=
-getgenv()[_0xS(609)][_0xS(587)]a3[_0xS(644)]=UDim[_0xS(101)](0,4)a3[_0xS(137)]=
-_0xS(893)a3[_0xS(182)]=a2 a4[_0xS(137)]=_0xS(830)a4[_0xS(182)]=a2 a4[_0xS(639)]=
-Color3[_0xS(573)](230,230,230)a4[_0xS(634)]=1 a4[_0xS(142)]=UDim2[_0xS(101)](0,5
-,0,0)a4[_0xS(192)]=UDim2[_0xS(101)](1,-5,1,0)a4[_0xS(684)]=Enum[_0xS(684)][_0xS(
-685)]a4[_0xS(736)]=aU a4[_0xS(635)]=_0xS(150)a4[_0xS(686)]=14 a4[_0xS(688)]=Enum
-[_0xS(688)][_0xS(689)]a4[_0xS(735)]=getgenv()[_0xS(609)][_0xS(582)]a4[_0xS(189)]
-=getgenv()[_0xS(609)][_0xS(581)]a5[_0xS(137)]=_0xS(906)a5[_0xS(182)]=a2 a5[_0xS(
-634)]=1 a5[_0xS(142)]=UDim2[_0xS(101)](0,0,1,-2)a5[_0xS(192)]=UDim2[_0xS(101)](1
-,0,0,6)a5[_0xS(639)]=getgenv()[_0xS(609)][_0xS(602)]a6[_0xS(644)]=UDim[_0xS(101)
-](1,0)a6[_0xS(182)]=a5 a4[_0xS(907)]:Connect(function()s:Create(a5,TweenInfo[
-_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{BackgroundTransparency=0}):Play()
-end)if aW then a4:GetPropertyChangedSignal(_0xS(635)):Connect(function()if
-tonumber(a4[_0xS(635)])then else a4[_0xS(736)]=aU a4[_0xS(635)]=_0xS(150)end end
-)end a4[_0xS(859)]:Connect(function()s:Create(a5,TweenInfo[_0xS(101)](getgenv()[
-_0xS(609)][_0xS(606)]),{BackgroundTransparency=1}):Play()if a4[_0xS(635)]~=_0xS(
-150)then aX(a4[_0xS(635)])end end)local a7={}if aV then a4[_0xS(635)]=aV end
-function a7.SetValue(a8)a4[_0xS(635)]=a8 aX(a8)end local a8={Name=aT,Section=aF,
-Element=aY,SectionName=aA,TabName=af,TabButton=X}table[_0xS(751)](getgenv()[
-_0xS(610)],a8)if aX and aV then pcall(aX,aV)end return a7 end function aQ:
-AddSlider(aR)local aS=tostring(aR[_0xS(635)]or aR[_0xS(187)])or _0xS(150)local
-aT=tonumber(aR[_0xS(841)])or 0 local aU=tonumber(aR[_0xS(842)])or 100 local aV=
-aR[_0xS(843)]or false local aW=tonumber(aR[_0xS(551)])or 0 local aX=aR[_0xS(794)
-]local aY=400 local aZ=Instance[_0xS(101)](_0xS(637))local a_=Instance[_0xS(101)
-](_0xS(643))local a0=Instance[_0xS(101)](_0xS(637))local a1=Instance[_0xS(101)](
-_0xS(643))local a2=Instance[_0xS(101)](_0xS(188))local a3=Instance[_0xS(101)](
-_0xS(637))local a4=Instance[_0xS(101)](_0xS(633))local a5=Instance[_0xS(101)](
-_0xS(643))local a6=Instance[_0xS(101)](_0xS(637))local a7=Instance[_0xS(101)](
-_0xS(643))local a8=Instance[_0xS(101)](_0xS(637))local a9=Instance[_0xS(101)](
-_0xS(643))local ba=Instance[_0xS(101)](_0xS(728))aZ[_0xS(137)]=aS.._0xS(908)aZ[
-_0xS(182)]=aF aZ[_0xS(639)]=Color3[_0xS(573)](60,60,60)aZ[_0xS(634)]=1 aZ[_0xS(
-142)]=UDim2[_0xS(101)](0,0,0.208333328,0)aZ[_0xS(192)]=UDim2[_0xS(101)](1,0,0,50
-)a_[_0xS(644)]=UDim[_0xS(101)](0,4)a_[_0xS(137)]=_0xS(846)a_[_0xS(182)]=aZ a0[
-_0xS(137)]=_0xS(718)a0[_0xS(182)]=aZ a0[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)a0
-[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)a0[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,
-0)a0[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]a0[_0xS(634)]=getgenv()[_0xS(609)
-][_0xS(586)]a1[_0xS(644)]=UDim[_0xS(101)](0,4)a1[_0xS(137)]=_0xS(847)a1[_0xS(182
-)]=a0 a2[_0xS(137)]=_0xS(698)a2[_0xS(182)]=a0 a2[_0xS(639)]=Color3[_0xS(573)](
-230,230,230)a2[_0xS(634)]=1 a2[_0xS(142)]=UDim2[_0xS(101)](0,10,0,0)a2[_0xS(192)
-]=UDim2[_0xS(101)](1,-10,0,25)a2[_0xS(684)]=Enum[_0xS(684)][_0xS(801)]a2[_0xS(
-635)]=aS a2[_0xS(686)]=14 a2[_0xS(690)]=true a2[_0xS(688)]=Enum[_0xS(688)][_0xS(
-689)]a2[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]a3[_0xS(137)]=_0xS(848)a3[
-_0xS(182)]=aZ a3[_0xS(636)]=Vector2[_0xS(101)](0.5,0.5)a3[_0xS(142)]=UDim2[_0xS(
-101)](0.5,0,0.5,14)a3[_0xS(192)]=UDim2[_0xS(101)](0,400,0,6)a3[_0xS(639)]=
-getgenv()[_0xS(609)][_0xS(587)]a4[_0xS(137)]=_0xS(882)a4[_0xS(182)]=a3 a4[_0xS(
-639)]=Color3[_0xS(573)](230,230,230)a4[_0xS(634)]=1 a4[_0xS(192)]=UDim2[_0xS(101
-)](1,0,1,0)a4[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]a4[_0xS(635)]=_0xS(150)a4[
-_0xS(189)]=Color3[_0xS(573)](230,230,230)a4[_0xS(686)]=14 a5[_0xS(644)]=UDim[
-_0xS(101)](1,0)a5[_0xS(137)]=_0xS(850)a5[_0xS(182)]=a3 a6[_0xS(137)]=_0xS(851)a6
-[_0xS(716)]=0 a6[_0xS(182)]=a3 a6[_0xS(192)]=UDim2[_0xS(101)](0,0,1,0)a6[_0xS(
-639)]=getgenv()[_0xS(609)][_0xS(603)]a7[_0xS(644)]=UDim[_0xS(101)](1,0)a7[_0xS(
-137)]=_0xS(852)a7[_0xS(182)]=a6 a8[_0xS(137)]=_0xS(829)a8[_0xS(182)]=aZ a8[_0xS(
-636)]=Vector2[_0xS(101)](1,0)a8[_0xS(142)]=UDim2[_0xS(101)](1,-10,0,5)a8[_0xS(
-192)]=UDim2[_0xS(101)](0,150,0,25)a8[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]
-a9[_0xS(644)]=UDim[_0xS(101)](0,4)a9[_0xS(137)]=_0xS(853)a9[_0xS(182)]=a8 ba[
-_0xS(137)]=_0xS(698)ba[_0xS(182)]=a8 ba[_0xS(639)]=Color3[_0xS(573)](230,230,230
-)ba[_0xS(634)]=1 ba[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)ba[_0xS(684)]=Enum[_0xS(
-684)][_0xS(685)]ba[_0xS(635)]=_0xS(150)ba[_0xS(686)]=14 ba[_0xS(189)]=getgenv()[
-_0xS(609)][_0xS(581)]a4[_0xS(699)]:Connect(function()s:Create(a6,TweenInfo[_0xS(
-101)](getgenv()[_0xS(609)][_0xS(606)]),{BackgroundColor3=getgenv()[_0xS(609)][
-_0xS(604)]}):Play()end)a4[_0xS(700)]:Connect(function()s:Create(a6,TweenInfo[
-_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{BackgroundColor3=getgenv()[_0xS(609
-)][_0xS(603)]}):Play()end)local bb=function(bb)ba[_0xS(635)]=bb aX(tonumber(bb))
-end if aW then if aW<=aT then aW=aT elseif aW>=aU then aW=aU end ba[_0xS(635)]=
-tostring(aW)a6[_0xS(192)]=UDim2[_0xS(101)](1-((aU-aW)/(aU-aT)),0,0,6)end local
-bc=false local bd local be=0 local bf=0 local function onInputBegan(bg)if bg[
-_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bg[_0xS(614)]==Enum[_0xS(614)][_0xS(616
-)]then bf=tick()bg[_0xS(286)]:Connect(function()if bg[_0xS(617)]==Enum[_0xS(617)
-][_0xS(618)]then bc=false bf=0 end end)end end local function onInputEnded(bg)if
-bg[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or bg[_0xS(614)]==Enum[_0xS(614)][_0xS(
-616)]then bc=false bf=0 end end local function onInputChanged(bg)if bg[_0xS(614)
-]==Enum[_0xS(614)][_0xS(620)]or bg[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bd
-=bg end end a4[_0xS(613)]:Connect(onInputBegan)a4[_0xS(647)]:Connect(
-onInputEnded)a4[_0xS(619)]:Connect(onInputChanged)u[_0xS(648)]:Connect(function(
-)if bf>0 and(tick()-bf>=be)and not bc then bc=true end if bc and bd then local
-bg=aR[_0xS(844)]and tonumber(string[_0xS(856)](_0xS(857)..aR[_0xS(844)]or 1 ..
-_0xS(858),(((tonumber(aU)-tonumber(aT))/aY)*a6[_0xS(194)][_0xS(160)])+tonumber(
-aT)))or math[_0xS(658)]((((tonumber(aU)-tonumber(aT))/aY)*a6[_0xS(194)][_0xS(160
-)])+tonumber(aT))pcall(function()bb(bg)end)a6[_0xS(192)]=UDim2[_0xS(101)](0,math
-[_0xS(854)](bd[_0xS(142)][_0xS(160)]-a6[_0xS(855)][_0xS(160)],0,aY),0,6)end end)
-local function GetSliderValue(bg)if tonumber(bg)<=aT then a6[_0xS(192)]=UDim2[
-_0xS(101)](0,(0*aY),0,6)bb(aT)elseif tonumber(bg)>=aU then a6[_0xS(192)]=UDim2[
-_0xS(101)](0,(aU/aU*aY),0,6)bb(aU)else a6[_0xS(192)]=UDim2[_0xS(101)](1-((aU-bg)
-/(aU-aT)),0,0,6)bb(bg)end end ba[_0xS(859)]:Connect(function()GetSliderValue(ba[
-_0xS(635)])end)local bg={}function bg.SetValue(bh)GetSliderValue(bh)end local bh
-={Name=aS,Section=aF,Element=aZ,SectionName=aA,TabName=af,TabButton=X}table[
-_0xS(751)](getgenv()[_0xS(610)],bh)if aX and aW then pcall(aX,aW)end return bg
-end return aQ end local aA={}function aA:AddLeftGroupbox(aB)return az:
-AddSection(aB)end function aA:AddRightGroupbox(aB)return az:AddSection(aB)end
-return aA end return aa end return q end)()pcall(function()if getgenv()[_0xS(609
-)]then local ab=getgenv()[_0xS(609)]ab[_0xS(572)]=Color3[_0xS(573)](36,39,48)ab[
-_0xS(593)]=Color3[_0xS(573)](48,52,64)ab[_0xS(594)]=Color3[_0xS(573)](59,130,246
-)ab[_0xS(596)]=Color3[_0xS(573)](26,28,36)ab[_0xS(583)]=Color3[_0xS(573)](245,
-245,250)ab[_0xS(580)]=Color3[_0xS(573)](220,222,230)ab[_0xS(581)]=Color3[_0xS(
-573)](220,222,230)ab[_0xS(584)]=Color3[_0xS(573)](13,14,18)ab[_0xS(585)]=Color3[
-_0xS(573)](18,20,26)ab[_0xS(586)]=0.05 ab[_0xS(587)]=Color3[_0xS(573)](24,26,34)
-ab[_0xS(588)]=Color3[_0xS(573)](30,33,44)ab[_0xS(590)]=Color3[_0xS(573)](59,130,
-246)ab[_0xS(591)]=Color3[_0xS(573)](180,185,200)ab[_0xS(592)]=Color3[_0xS(573)](
-36,39,48)ab[_0xS(599)]=Color3[_0xS(573)](59,130,246)ab[_0xS(600)]=Color3[_0xS(
-573)](59,130,246)ab[_0xS(603)]=Color3[_0xS(573)](36,39,48)ab[_0xS(604)]=Color3[
-_0xS(573)](59,130,246)ab[_0xS(602)]=Color3[_0xS(573)](59,130,246)ab[_0xS(601)]=
-Color3[_0xS(573)](59,130,246)ab[_0xS(605)]=0 ab[_0xS(606)]=0 ab[_0xS(607)]=0 end
-end)local ab=aa:CreateWindow({Title=_0xS(909),Subtitle=_0xS(910),Image=_0xS(911)
-})local ac={Info=ab:AddTab(_0xS(912)),Main=ab:AddTab(_0xS(913)),Settings=ab:
-AddTab(_0xS(914)),Fish=ab:AddTab(_0xS(915)),Quests=ab:AddTab(_0xS(916)),SeaEvent
-=ab:AddTab(_0xS(917)),Race=ab:AddTab(_0xS(918)),Prehistoric=ab:AddTab(_0xS(919))
-,Esp=ab:AddTab(_0xS(920)),Raids=ab:AddTab(_0xS(921)),Combat=ab:AddTab(_0xS(922))
-,Travel=ab:AddTab(_0xS(448)),Shop=ab:AddTab(_0xS(923)),Misc=ab:AddTab(_0xS(924))
-}aa[_0xS(645)]()do local ad=ac[_0xS(925)]:AddLeftGroupbox(_0xS(926)):AddLabel(
-_0xS(150))UpdateOS=function()local ae=os[_0xS(927)](_0xS(928))local af=ae[_0xS(
-929)]%24 local ag=af<12 and _0xS(930)local ah=string[_0xS(856)](_0xS(931),(af-1)
-%12+1,ae[_0xS(840)],ae[_0xS(932)],ag or _0xS(933))local ai=string[_0xS(856)](
-_0xS(934),ae[_0xS(935)],ae[_0xS(936)],ae[_0xS(937)])local aj=game:GetService(
-_0xS(938))local ak=game:GetService(_0xS(7))[_0xS(8)]local al if getgenv()[_0xS(
-939)]then al=getgenv()[_0xS(939)]else local am am,al=pcall(function()return aj:
+end)bK[_0xS(649)]:Connect(function()if bb then bu[_0xS(739)]=a9.._0xS(868)..bD
+or _0xS(150)bv[_0xS(14)]=bD else bu[_0xS(635)]=a9.._0xS(868)..bD or _0xS(150)bv[
+_0xS(14)]=bD end s:Create(bG,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(605)
+]),{BackgroundColor3=UIColor[_0xS(600)]}):Play()s:Create(bG,TweenInfo[_0xS(101)
+](getgenv()[_0xS(609)][_0xS(605)]),{BackgroundTransparency=0.5}):Play()if bg
+then bg(bD)end if bb then bu[_0xS(635)]=_0xS(150)end refreshlist()end)if bv[
+_0xS(14)]==bD then bG[_0xS(634)]=0.5 bG[_0xS(639)]=UIColor[_0xS(600)]bE[_0xS(654
+)]=0 end end end end end if bb then bu[_0xS(286)]:Connect(function()edit()
+SearchDropdown()end)end if typeof(bf)~=_0xS(2)then if bb then bu[_0xS(739)]=a9..
+_0xS(868)..tostring(bf or _0xS(150))else bu[_0xS(635)]=a9.._0xS(868)..tostring(
+bf or _0xS(150))end elseif bd then bu[_0xS(635)]=_0xS(150)bu[_0xS(739)]=a9..
+_0xS(868)elseif bc then if bb then bu[_0xS(739)]=a9.._0xS(868)else bu[_0xS(635)]
+=a9.._0xS(868)end end bo[_0xS(649)]:Connect(function()refreshlist()bw=not bw
+local bB=bw and UDim2[_0xS(101)](1,0,0,170)or UDim2[_0xS(101)](1,0,0,0)local bC=
+bw and UDim2[_0xS(101)](1,0,0,200)or UDim2[_0xS(101)](1,0,0,25)local bD=bw and
+90 or 0 s:Create(bp,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{Size=
+bB}):Play()s:Create(bi,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{
+Size=bC}):Play()s:Create(bn,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]
+),{Rotation=bD}):Play()end)local bB={rf=refreshlist}function bB:ClearText(bC)if
+not bc then if bb then bu[_0xS(739)]=a9.._0xS(868)..(bC or _0xS(150))else bu[
+_0xS(635)]=a9.._0xS(868)..(bC or _0xS(150))end else bu[_0xS(635)]=a9.._0xS(868)
+..(bC or _0xS(150))end end function bB:GetNewList(bC)bv[_0xS(14)]=_0xS(150)bw=
+false local bD=bw and UDim2[_0xS(101)](1,0,0,170)or UDim2[_0xS(101)](1,0,0,0)
+local bE=bw and UDim2[_0xS(101)](1,0,0,200)or UDim2[_0xS(101)](1,0,0,25)local bF
+=bw and 90 or 0 s:Create(bp,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]
+),{Size=bD}):Play()s:Create(bi,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(
+606)]),{Size=bE}):Play()s:Create(bn,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][
+_0xS(606)]),{Rotation=bF}):Play()bz={}bz=bC refreshlist()if bb then bu[_0xS(739)
+]=a9.._0xS(868)else bu[_0xS(635)]=a9.._0xS(868)end end function bB:SetValue(bC)
+if not bc then if table[_0xS(215)](bz,bC)then bv[_0xS(14)]=bC if bb then bu[
+_0xS(739)]=a9.._0xS(868)..bC else bu[_0xS(635)]=a9.._0xS(868)..bC end if bg then
+bg(bC)end refreshlist()end else if bz[_0xS(872)]~=nil then bz[_0xS(872)]=true if
+bb then bu[_0xS(739)]=a9.._0xS(868)else bu[_0xS(635)]=a9.._0xS(868)end if bg
+then bg(bC,true)end refreshlist()end end end function bB:GetValue()if not bc
+then return bv[_0xS(14)]else local bC={}for bD,bE in bh(bz)do if bE==true then
+table[_0xS(754)](bC,bD)end end return bC end end local bC={Name=a9,Section=aV,
+Element=bi,SectionName=aQ,TabName=ar,TabButton=at,SetValue=bB[_0xS(884)],
+GetValue=bB[_0xS(885)]}table[_0xS(754)](getgenv()[_0xS(610)],bC)if bf and bg
+then pcall(bg,bf)end return bB end function a6:AddKeyBind(a7,a8)local a9=
+tostring(a7[_0xS(187)]or a7[_0xS(635)])or _0xS(150)local ba=a7[_0xS(551)]or a7[
+_0xS(886)]or _0xS(163)local bb=a7[_0xS(887)]or _0xS(888)local bc=a7[_0xS(794)]or
+a8 or function()end local function GetKeyString(bd)local be=tostring(bd)be=be:
+gsub(_0xS(889),_0xS(150))be=be:gsub(_0xS(890),_0xS(150))return be end local bd=
+GetKeyString(ba)local be=bb local bf=false local bg=false local bh=false local
+bi=Instance[_0xS(101)](_0xS(637))local bj=Instance[_0xS(101)](_0xS(643))local bk
+=Instance[_0xS(101)](_0xS(637))local bl=Instance[_0xS(101)](_0xS(643))local bm=
+Instance[_0xS(101)](_0xS(188))local bn=Instance[_0xS(101)](_0xS(637))local bo=
+Instance[_0xS(101)](_0xS(643))local bp=Instance[_0xS(101)](_0xS(633))bi[_0xS(137
+)]=a9.._0xS(891)bi[_0xS(182)]=aV bi[_0xS(639)]=Color3[_0xS(573)](60,60,60)bi[
+_0xS(634)]=1 bi[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)bi[_0xS(192)]=
+UDim2[_0xS(101)](1,0,0,35)bj[_0xS(644)]=UDim[_0xS(101)](0,4)bj[_0xS(137)]=_0xS(
+892)bj[_0xS(182)]=bi bk[_0xS(137)]=_0xS(721)bk[_0xS(182)]=bi bk[_0xS(636)]=
+Vector2[_0xS(101)](0.5,0.5)bk[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bk[_0xS(
+192)]=UDim2[_0xS(101)](1,-10,1,0)bk[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bk
+[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]bl[_0xS(644)]=UDim[_0xS(101)](0,4)bl[
+_0xS(137)]=_0xS(893)bl[_0xS(182)]=bk bm[_0xS(137)]=_0xS(698)bm[_0xS(182)]=bk bm[
+_0xS(639)]=Color3[_0xS(573)](230,230,230)bm[_0xS(634)]=1 bm[_0xS(142)]=UDim2[
+_0xS(101)](0,10,0,0)bm[_0xS(192)]=UDim2[_0xS(101)](1,-10,1,0)bm[_0xS(684)]=Enum[
+_0xS(684)][_0xS(801)]bm[_0xS(635)]=a9 bm[_0xS(686)]=14 bm[_0xS(688)]=Enum[_0xS(
+688)][_0xS(689)]bm[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bn[_0xS(137)]=_0xS(
+829)bn[_0xS(182)]=bk bn[_0xS(636)]=Vector2[_0xS(101)](1,0.5)bn[_0xS(142)]=UDim2[
+_0xS(101)](1,-5,0.5,0)bn[_0xS(192)]=UDim2[_0xS(101)](0,150,0,25)bn[_0xS(639)]=
+getgenv()[_0xS(609)][_0xS(587)]bo[_0xS(644)]=UDim[_0xS(101)](0,4)bo[_0xS(137)]=
+_0xS(893)bo[_0xS(182)]=bn bp[_0xS(137)]=_0xS(894)bp[_0xS(182)]=bn bp[_0xS(639)]=
+Color3[_0xS(573)](230,230,230)bp[_0xS(634)]=1 bp[_0xS(192)]=UDim2[_0xS(101)](1,0
+,1,0)bp[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bp[_0xS(635)]=bd bp[_0xS(686)]=14
+bp[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bp[_0xS(649)]:Connect(function()if
+bf then return end bf=true bp[_0xS(635)]=_0xS(895)task[_0xS(294)](0.2)local bq
+bq=t[_0xS(613)]:Connect(function(br)if bf then local bs if br[_0xS(614)]==Enum[
+_0xS(614)][_0xS(896)]then bs=br[_0xS(897)][_0xS(137)]elseif br[_0xS(614)]==Enum[
+_0xS(614)][_0xS(615)]then bs=_0xS(898)elseif br[_0xS(614)]==Enum[_0xS(614)][
+_0xS(899)]then bs=_0xS(900)end if bs then bf=false bd=bs bp[_0xS(635)]=bs bq:
+Disconnect()end end end)end)t[_0xS(613)]:Connect(function(bq,br)if br or bf then
+return end if t:GetFocusedTextBox()then return end local bs if bq[_0xS(614)]==
+Enum[_0xS(614)][_0xS(896)]then bs=bq[_0xS(897)][_0xS(137)]elseif bq[_0xS(614)]==
+Enum[_0xS(614)][_0xS(615)]then bs=_0xS(898)elseif bq[_0xS(614)]==Enum[_0xS(614)]
+[_0xS(899)]then bs=_0xS(900)end if bs==bd then if be==_0xS(888)then bg=not bg
+pcall(bc,bg)elseif be==_0xS(901)then bh=true pcall(bc,true)end end end)t[_0xS(
+647)]:Connect(function(bq)if bf then return end if t:GetFocusedTextBox()then
+return end local br if bq[_0xS(614)]==Enum[_0xS(614)][_0xS(896)]then br=bq[_0xS(
+897)][_0xS(137)]elseif bq[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]then br=_0xS(898
+)elseif bq[_0xS(614)]==Enum[_0xS(614)][_0xS(899)]then br=_0xS(900)end if br==bd
+and be==_0xS(901)and bh then bh=false pcall(bc,false)end end)local bq={Name=a9,
+Section=aV,Element=bi,SectionName=aQ,TabName=ar,TabButton=at}table[_0xS(754)](
+getgenv()[_0xS(610)],bq)local br={}function br:Set(bs)bd=GetKeyString(bs)bp[
+_0xS(635)]=bd end function br:Get()return bd end function br:SetMode(bs)if bs==
+_0xS(901)or bs==_0xS(888)then be=bs bg=false bh=false end end function br:
+GetMode()return be end function br:GetState()if be==_0xS(888)then return bg
+elseif be==_0xS(901)then return bh end return false end if bc and ba then pcall(
+bc,ba)end return br end function a6:AddInput(a7,a8)local a9=tostring(a8[_0xS(635
+)]or a8[_0xS(187)])or _0xS(150)local ba=tostring(a8[_0xS(902)])or _0xS(150)local
+bb=a8[_0xS(551)]or false local bc=a8[_0xS(903)]or false local bd=a8[_0xS(794)]
+local be=Instance[_0xS(101)](_0xS(637))local bf=Instance[_0xS(101)](_0xS(643))
+local bg=Instance[_0xS(101)](_0xS(637))local bh=Instance[_0xS(101)](_0xS(643))
+local bi=Instance[_0xS(101)](_0xS(188))local bj=Instance[_0xS(101)](_0xS(637))
+local bk=Instance[_0xS(101)](_0xS(643))local bl=Instance[_0xS(101)](_0xS(731))
+local bm=Instance[_0xS(101)](_0xS(637))local bn=Instance[_0xS(101)](_0xS(643))be
+[_0xS(137)]=_0xS(904)be[_0xS(182)]=aV be[_0xS(639)]=Color3[_0xS(573)](60,60,60)
+be[_0xS(634)]=1 be[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)be[_0xS(192)]=
+UDim2[_0xS(101)](1,0,0,60)bf[_0xS(644)]=UDim[_0xS(101)](0,4)bf[_0xS(137)]=_0xS(
+905)bf[_0xS(182)]=be bg[_0xS(137)]=_0xS(721)bg[_0xS(182)]=be bg[_0xS(636)]=
+Vector2[_0xS(101)](0.5,0.5)bg[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bg[_0xS(
+192)]=UDim2[_0xS(101)](1,-10,1,0)bg[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bg
+[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]bh[_0xS(644)]=UDim[_0xS(101)](0,4)bh[
+_0xS(137)]=_0xS(893)bh[_0xS(182)]=bg bi[_0xS(137)]=_0xS(698)bi[_0xS(182)]=bg bi[
+_0xS(639)]=Color3[_0xS(573)](230,230,230)bi[_0xS(634)]=1 bi[_0xS(142)]=UDim2[
+_0xS(101)](0,10,0,0)bi[_0xS(192)]=UDim2[_0xS(101)](1,-10,0.5,0)bi[_0xS(684)]=
+Enum[_0xS(684)][_0xS(801)]bi[_0xS(635)]=a9 bi[_0xS(686)]=14 bi[_0xS(688)]=Enum[
+_0xS(688)][_0xS(689)]bi[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bj[_0xS(137)]=
+_0xS(829)bj[_0xS(182)]=bg bj[_0xS(636)]=Vector2[_0xS(101)](1,0.5)bj[_0xS(670)]=
+true bj[_0xS(142)]=UDim2[_0xS(101)](1,-5,0,40)bj[_0xS(192)]=UDim2[_0xS(101)](1,-
+10,0,25)bj[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bk[_0xS(644)]=UDim[_0xS(101
+)](0,4)bk[_0xS(137)]=_0xS(893)bk[_0xS(182)]=bj bl[_0xS(137)]=_0xS(830)bl[_0xS(
+182)]=bj bl[_0xS(639)]=Color3[_0xS(573)](230,230,230)bl[_0xS(634)]=1 bl[_0xS(142
+)]=UDim2[_0xS(101)](0,5,0,0)bl[_0xS(192)]=UDim2[_0xS(101)](1,-5,1,0)bl[_0xS(684)
+]=Enum[_0xS(684)][_0xS(685)]bl[_0xS(739)]=ba bl[_0xS(635)]=_0xS(150)bl[_0xS(686)
+]=14 bl[_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bl[_0xS(738)]=getgenv()[_0xS(609)][
+_0xS(582)]bl[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bm[_0xS(137)]=_0xS(906)bm
+[_0xS(182)]=bj bm[_0xS(634)]=1 bm[_0xS(142)]=UDim2[_0xS(101)](0,0,1,-2)bm[_0xS(
+192)]=UDim2[_0xS(101)](1,0,0,6)bm[_0xS(639)]=getgenv()[_0xS(609)][_0xS(602)]bn[
+_0xS(644)]=UDim[_0xS(101)](1,0)bn[_0xS(182)]=bm bl[_0xS(907)]:Connect(function()
+s:Create(bm,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{
+BackgroundTransparency=0}):Play()end)if bc then bl:GetPropertyChangedSignal(
+_0xS(635)):Connect(function()if tonumber(bl[_0xS(635)])then else bl[_0xS(739)]=
+ba bl[_0xS(635)]=_0xS(150)end end)end bl[_0xS(859)]:Connect(function()s:Create(
+bm,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{BackgroundTransparency
+=1}):Play()if bl[_0xS(635)]~=_0xS(150)then bd(bl[_0xS(635)])end end)local bo={}
+if bb then bl[_0xS(635)]=bb end function bo.SetValue(bp)bl[_0xS(635)]=bp bd(bp)
+end local bp={Name=a9,Section=aV,Element=be,SectionName=aQ,TabName=ar,TabButton=
+at}table[_0xS(754)](getgenv()[_0xS(610)],bp)if bd and bb then pcall(bd,bb)end
+return bo end function a6:AddSlider(a7)local a8=tostring(a7[_0xS(635)]or a7[
+_0xS(187)])or _0xS(150)local a9=tonumber(a7[_0xS(841)])or 0 local ba=tonumber(a7
+[_0xS(842)])or 100 local bb=a7[_0xS(843)]or false local bc=tonumber(a7[_0xS(551)
+])or 0 local bd=a7[_0xS(794)]local be=400 local bf=Instance[_0xS(101)](_0xS(637)
+)local bg=Instance[_0xS(101)](_0xS(643))local bh=Instance[_0xS(101)](_0xS(637))
+local bi=Instance[_0xS(101)](_0xS(643))local bj=Instance[_0xS(101)](_0xS(188))
+local bk=Instance[_0xS(101)](_0xS(637))local bl=Instance[_0xS(101)](_0xS(633))
+local bm=Instance[_0xS(101)](_0xS(643))local bn=Instance[_0xS(101)](_0xS(637))
+local bo=Instance[_0xS(101)](_0xS(643))local bp=Instance[_0xS(101)](_0xS(637))
+local bq=Instance[_0xS(101)](_0xS(643))local br=Instance[_0xS(101)](_0xS(731))bf
+[_0xS(137)]=a8.._0xS(908)bf[_0xS(182)]=aV bf[_0xS(639)]=Color3[_0xS(573)](60,60,
+60)bf[_0xS(634)]=1 bf[_0xS(142)]=UDim2[_0xS(101)](0,0,0.208333328,0)bf[_0xS(192)
+]=UDim2[_0xS(101)](1,0,0,50)bg[_0xS(644)]=UDim[_0xS(101)](0,4)bg[_0xS(137)]=
+_0xS(846)bg[_0xS(182)]=bf bh[_0xS(137)]=_0xS(721)bh[_0xS(182)]=bf bh[_0xS(636)]=
+Vector2[_0xS(101)](0.5,0.5)bh[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,0)bh[_0xS(
+192)]=UDim2[_0xS(101)](1,-10,1,0)bh[_0xS(639)]=getgenv()[_0xS(609)][_0xS(585)]bh
+[_0xS(634)]=getgenv()[_0xS(609)][_0xS(586)]bi[_0xS(644)]=UDim[_0xS(101)](0,4)bi[
+_0xS(137)]=_0xS(847)bi[_0xS(182)]=bh bj[_0xS(137)]=_0xS(698)bj[_0xS(182)]=bh bj[
+_0xS(639)]=Color3[_0xS(573)](230,230,230)bj[_0xS(634)]=1 bj[_0xS(142)]=UDim2[
+_0xS(101)](0,10,0,0)bj[_0xS(192)]=UDim2[_0xS(101)](1,-10,0,25)bj[_0xS(684)]=Enum
+[_0xS(684)][_0xS(801)]bj[_0xS(635)]=a8 bj[_0xS(686)]=14 bj[_0xS(690)]=true bj[
+_0xS(688)]=Enum[_0xS(688)][_0xS(689)]bj[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581
+)]bk[_0xS(137)]=_0xS(848)bk[_0xS(182)]=bf bk[_0xS(636)]=Vector2[_0xS(101)](0.5,
+0.5)bk[_0xS(142)]=UDim2[_0xS(101)](0.5,0,0.5,14)bk[_0xS(192)]=UDim2[_0xS(101)](0
+,400,0,6)bk[_0xS(639)]=getgenv()[_0xS(609)][_0xS(587)]bl[_0xS(137)]=_0xS(882)bl[
+_0xS(182)]=bk bl[_0xS(639)]=Color3[_0xS(573)](230,230,230)bl[_0xS(634)]=1 bl[
+_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)bl[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]bl[
+_0xS(635)]=_0xS(150)bl[_0xS(189)]=Color3[_0xS(573)](230,230,230)bl[_0xS(686)]=14
+bm[_0xS(644)]=UDim[_0xS(101)](1,0)bm[_0xS(137)]=_0xS(850)bm[_0xS(182)]=bk bn[
+_0xS(137)]=_0xS(851)bn[_0xS(719)]=0 bn[_0xS(182)]=bk bn[_0xS(192)]=UDim2[_0xS(
+101)](0,0,1,0)bn[_0xS(639)]=getgenv()[_0xS(609)][_0xS(603)]bo[_0xS(644)]=UDim[
+_0xS(101)](1,0)bo[_0xS(137)]=_0xS(852)bo[_0xS(182)]=bn bp[_0xS(137)]=_0xS(829)bp
+[_0xS(182)]=bf bp[_0xS(636)]=Vector2[_0xS(101)](1,0)bp[_0xS(142)]=UDim2[_0xS(101
+)](1,-10,0,5)bp[_0xS(192)]=UDim2[_0xS(101)](0,150,0,25)bp[_0xS(639)]=getgenv()[
+_0xS(609)][_0xS(587)]bq[_0xS(644)]=UDim[_0xS(101)](0,4)bq[_0xS(137)]=_0xS(853)bq
+[_0xS(182)]=bp br[_0xS(137)]=_0xS(698)br[_0xS(182)]=bp br[_0xS(639)]=Color3[
+_0xS(573)](230,230,230)br[_0xS(634)]=1 br[_0xS(192)]=UDim2[_0xS(101)](1,0,1,0)br
+[_0xS(684)]=Enum[_0xS(684)][_0xS(685)]br[_0xS(635)]=_0xS(150)br[_0xS(686)]=14 br
+[_0xS(189)]=getgenv()[_0xS(609)][_0xS(581)]bl[_0xS(699)]:Connect(function()s:
+Create(bn,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606)]),{
+BackgroundColor3=getgenv()[_0xS(609)][_0xS(604)]}):Play()end)bl[_0xS(700)]:
+Connect(function()s:Create(bn,TweenInfo[_0xS(101)](getgenv()[_0xS(609)][_0xS(606
+)]),{BackgroundColor3=getgenv()[_0xS(609)][_0xS(603)]}):Play()end)local bs=
+function(bs)br[_0xS(635)]=bs bd(tonumber(bs))end if bc then if bc<=a9 then bc=a9
+elseif bc>=ba then bc=ba end br[_0xS(635)]=tostring(bc)bn[_0xS(192)]=UDim2[_0xS(
+101)](1-((ba-bc)/(ba-a9)),0,0,6)end local bt=false local bu local bv=0 local bw=
+0 local function onInputBegan(bx)if bx[_0xS(614)]==Enum[_0xS(614)][_0xS(615)]or
+bx[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bw=tick()bx[_0xS(286)]:Connect(
+function()if bx[_0xS(617)]==Enum[_0xS(617)][_0xS(618)]then bt=false bw=0 end end
+)end end local function onInputEnded(bx)if bx[_0xS(614)]==Enum[_0xS(614)][_0xS(
+615)]or bx[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bt=false bw=0 end end
+local function onInputChanged(bx)if bx[_0xS(614)]==Enum[_0xS(614)][_0xS(620)]or
+bx[_0xS(614)]==Enum[_0xS(614)][_0xS(616)]then bu=bx end end bl[_0xS(613)]:
+Connect(onInputBegan)bl[_0xS(647)]:Connect(onInputEnded)bl[_0xS(619)]:Connect(
+onInputChanged)u[_0xS(648)]:Connect(function()if bw>0 and(tick()-bw>=bv)and not
+bt then bt=true end if bt and bu then local bx=a7[_0xS(844)]and tonumber(string[
+_0xS(856)](_0xS(857)..a7[_0xS(844)]or 1 .._0xS(858),(((tonumber(ba)-tonumber(a9)
+)/be)*bn[_0xS(194)][_0xS(160)])+tonumber(a9)))or math[_0xS(658)]((((tonumber(ba)
+-tonumber(a9))/be)*bn[_0xS(194)][_0xS(160)])+tonumber(a9))pcall(function()bs(bx)
+end)bn[_0xS(192)]=UDim2[_0xS(101)](0,math[_0xS(854)](bu[_0xS(142)][_0xS(160)]-bn
+[_0xS(855)][_0xS(160)],0,be),0,6)end end)local function GetSliderValue(bx)if
+tonumber(bx)<=a9 then bn[_0xS(192)]=UDim2[_0xS(101)](0,(0*be),0,6)bs(a9)elseif
+tonumber(bx)>=ba then bn[_0xS(192)]=UDim2[_0xS(101)](0,(ba/ba*be),0,6)bs(ba)else
+bn[_0xS(192)]=UDim2[_0xS(101)](1-((ba-bx)/(ba-a9)),0,0,6)bs(bx)end end br[_0xS(
+859)]:Connect(function()GetSliderValue(br[_0xS(635)])end)local bx={}function bx.
+SetValue(by)GetSliderValue(by)end local by={Name=a8,Section=aV,Element=bf,
+SectionName=aQ,TabName=ar,TabButton=at}table[_0xS(754)](getgenv()[_0xS(610)],by)
+if bd and bc then pcall(bd,bc)end return bx end return a6 end local aQ={}
+function aQ:AddLeftGroupbox(aR)return aP:AddSection(aR)end function aQ:
+AddRightGroupbox(aR)return aP:AddSection(aR)end return aQ end return am end
+return q end)()pcall(function()if getgenv()[_0xS(609)]then local ab=getgenv()[
+_0xS(609)]ab[_0xS(572)]=Color3[_0xS(573)](36,39,48)ab[_0xS(593)]=Color3[_0xS(573
+)](48,52,64)ab[_0xS(594)]=Color3[_0xS(573)](59,130,246)ab[_0xS(596)]=Color3[
+_0xS(573)](26,28,36)ab[_0xS(583)]=Color3[_0xS(573)](245,245,250)ab[_0xS(580)]=
+Color3[_0xS(573)](220,222,230)ab[_0xS(581)]=Color3[_0xS(573)](220,222,230)ab[
+_0xS(584)]=Color3[_0xS(573)](13,14,18)ab[_0xS(585)]=Color3[_0xS(573)](18,20,26)
+ab[_0xS(586)]=0.05 ab[_0xS(587)]=Color3[_0xS(573)](24,26,34)ab[_0xS(588)]=Color3
+[_0xS(573)](30,33,44)ab[_0xS(590)]=Color3[_0xS(573)](59,130,246)ab[_0xS(591)]=
+Color3[_0xS(573)](180,185,200)ab[_0xS(592)]=Color3[_0xS(573)](36,39,48)ab[_0xS(
+599)]=Color3[_0xS(573)](59,130,246)ab[_0xS(600)]=Color3[_0xS(573)](59,130,246)ab
+[_0xS(603)]=Color3[_0xS(573)](36,39,48)ab[_0xS(604)]=Color3[_0xS(573)](59,130,
+246)ab[_0xS(602)]=Color3[_0xS(573)](59,130,246)ab[_0xS(601)]=Color3[_0xS(573)](
+59,130,246)ab[_0xS(605)]=0 ab[_0xS(606)]=0 ab[_0xS(607)]=0 end end)local ab=aa:
+CreateWindow({Title=_0xS(909),Subtitle=_0xS(910),Image=_0xS(911)})local ac={Info
+=ab:AddTab(_0xS(912)),Main=ab:AddTab(_0xS(913)),Settings=ab:AddTab(_0xS(914)),
+Fish=ab:AddTab(_0xS(915)),Quests=ab:AddTab(_0xS(916)),SeaEvent=ab:AddTab(_0xS(
+917)),Race=ab:AddTab(_0xS(918)),Prehistoric=ab:AddTab(_0xS(919)),Esp=ab:AddTab(
+_0xS(920)),Raids=ab:AddTab(_0xS(921)),Combat=ab:AddTab(_0xS(922)),Travel=ab:
+AddTab(_0xS(448)),Shop=ab:AddTab(_0xS(923)),Misc=ab:AddTab(_0xS(924))}aa[_0xS(
+645)]()do local ad=ac[_0xS(925)]:AddLeftGroupbox(_0xS(926)):AddLabel(_0xS(150))
+UpdateOS=function()local ae=os[_0xS(927)](_0xS(928))local af=ae[_0xS(929)]%24
+local ag=af<12 and _0xS(930)local ah=string[_0xS(856)](_0xS(931),(af-1)%12+1,ae[
+_0xS(840)],ae[_0xS(932)],ag or _0xS(933))local ai=string[_0xS(856)](_0xS(934),ae
+[_0xS(935)],ae[_0xS(936)],ae[_0xS(937)])local aj=game:GetService(_0xS(938))local
+ak=game:GetService(_0xS(7))[_0xS(8)]local al if getgenv()[_0xS(939)]then al=
+getgenv()[_0xS(939)]else local am am,al=pcall(function()return aj:
 GetCountryRegionForPlayerAsync(ak)end)if am then getgenv()[_0xS(939)]=al else
 getgenv()[_0xS(939)]=_0xS(940)end end ad:SetText(ai.._0xS(941)..ah.._0xS(942)..
 al.._0xS(943))end end spawn(function()while true do UpdateOS()wait(1)end end)do
@@ -3660,8 +3664,8 @@ and aj:IsA(_0xS(188))then return tostring(aj[_0xS(635)])end end end local ah=
 v296(_0xS(350),_0xS(995),_0xS(996),_0xS(187))if ah then return tostring(ah[_0xS(
 635)])end return _0xS(150)end local function v311(ag)if not ag then return false
 end if not v301(_0xS(350))then return false end local ah=v305()if ah==_0xS(150)
-then return false end return string[_0xS(215)](string[_0xS(746)](ah),string[
-_0xS(746)](ag),1,true)~=nil end local function v313(ag,ah,ai)if v311(ai)then
+then return false end return string[_0xS(215)](string[_0xS(749)](ah),string[
+_0xS(749)](ag),1,true)~=nil end local function v313(ag,ah,ai)if v311(ai)then
 return true end local aj=game:GetService(_0xS(11)):FindFirstChild(_0xS(31))and
 game:GetService(_0xS(11))[_0xS(31)]:FindFirstChild(_0xS(32))if not aj then
 return false end local function v315()return aj:InvokeServer(_0xS(1000),ag,ah)
@@ -3757,8 +3761,8 @@ function(ae)_G[_0xS(483)]=ae if ae then local af=game:GetService(_0xS(7))[_0xS(8
 ]then af[_0xS(1002)]:Wait()end af[_0xS(9)]:WaitForChild(_0xS(10))return af[_0xS(
 9)]end local function v378()if ai then ai=false for aj,ak in pairs(game:
 GetDescendants())do if ak[_0xS(137)]:find(_0xS(1023))and ak[_0xS(1031)]==_0xS(91
-)then table[_0xS(751)](ah,ak)end end end local aj={}for ak,al in pairs(ah)do if
-al:FindFirstChild(_0xS(1032))then table[_0xS(751)](aj,al)end end local ak=v377()
+)then table[_0xS(754)](ah,ak)end end end local aj={}for ak,al in pairs(ah)do if
+al:FindFirstChild(_0xS(1032))then table[_0xS(754)](aj,al)end end local ak=v377()
 [_0xS(1033)]table[_0xS(1034)](aj,function(al,am)return(ak[_0xS(142)]-al[_0xS(142
 )])[_0xS(143)]<(ak[_0xS(142)]-am[_0xS(142)])[_0xS(143)]end)return aj end local 
 function v385()if ag then return end ag=true task[_0xS(293)](function()while _G[
@@ -4050,7 +4054,7 @@ end until ae~=1 return end end end)do GRP_Main_Farming_Cake:AddToggle(_0xS(1192)
 do local function v515()pcall(function()local ae=game:GetService(_0xS(1044))
 local af={}local ag=game:HttpGet(_0xS(1045)..game[_0xS(30)].._0xS(1046))for ah,
 ai in pairs(ae:JSONDecode(ag)[_0xS(1047)])do if ai[_0xS(1048)]<ai[_0xS(1049)]
-then table[_0xS(751)](af,ai[_0xS(1050)])end end if#af>0 then game:GetService(
+then table[_0xS(754)](af,ai[_0xS(1050)])end end if#af>0 then game:GetService(
 _0xS(15)):TeleportToPlaceInstance(game[_0xS(30)],af[math[_0xS(289)](1,#af)],game
 [_0xS(7)][_0xS(8)])end end)end spawn(function()while task[_0xS(294)]()do if _G[
 _0xS(485)]then local ae repeat pcall(function()local af=GetConnectionEnemies(
@@ -4541,10 +4545,10 @@ break end end if Root[_0xS(148)]==CFrame[_0xS(101)](2288.802,15.1870775,
 end end elseif replicated[_0xS(31)][_0xS(32)]:InvokeServer(_0xS(1448))[_0xS(1449
 )]==nil then TabelDevilFruitStore={}TabelDevilFruitOpen={}for af,ag in pairs(
 replicated[_0xS(31)][_0xS(32)]:InvokeServer(_0xS(1454)))do for ah,ai in pairs(ag
-)do if ah==_0xS(137)then table[_0xS(751)](TabelDevilFruitStore,ai)end end end
+)do if ah==_0xS(137)then table[_0xS(754)](TabelDevilFruitStore,ai)end end end
 local af=next local ag,ah=game[_0xS(11)]:WaitForChild(_0xS(31))[_0xS(32)]:
 InvokeServer(_0xS(1455))for ai,aj in af,ag,ah do if aj[_0xS(1456)]>=1000000 then
-table[_0xS(751)](TabelDevilFruitOpen,aj[_0xS(137)])end end for ai,aj in pairs(
+table[_0xS(754)](TabelDevilFruitOpen,aj[_0xS(137)])end end for ai,aj in pairs(
 TabelDevilFruitOpen)do for ak,al in pairs(TabelDevilFruitStore)do if aj==al then
 if replicated[_0xS(31)][_0xS(32)]:InvokeServer(_0xS(1448))[_0xS(1449)]==nil then
 if plr[_0xS(133)]:FindFirstChild(al)then replicated[_0xS(31)][_0xS(32)]:
@@ -4634,21 +4638,21 @@ GetConnectionEnemies(_0xS(115))if af then af[_0xS(10)][_0xS(148)]=CFrame[_0xS(
 _0xS(134)][_0xS(185)]=0 af[_0xS(134)][_0xS(184)]=0 if af[_0xS(134)]:
 FindFirstChild(_0xS(1482))then af[_0xS(134)]:FindFirstChild(_0xS(1482)):Destroy(
 )end end end)end end end)end do getT=function(af)local ag if af==1 then ag=
-workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1484)][_0xS(758)][_0xS(709)]
+workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1484)][_0xS(761)][_0xS(712)]
 elseif af==3 then ag=workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1485)][
-_0xS(758)][_0xS(709)]elseif af==4 then ag=workspace[_0xS(954)][_0xS(1105)][_0xS(
-1483)][_0xS(1486)][_0xS(758)][_0xS(709)]elseif af==7 then ag=workspace[_0xS(954)
-][_0xS(1105)][_0xS(1483)][_0xS(1487)][_0xS(758)][_0xS(709)]elseif af==10 then ag
-=workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1488)][_0xS(758)][_0xS(709)]
+_0xS(761)][_0xS(712)]elseif af==4 then ag=workspace[_0xS(954)][_0xS(1105)][_0xS(
+1483)][_0xS(1486)][_0xS(761)][_0xS(712)]elseif af==7 then ag=workspace[_0xS(954)
+][_0xS(1105)][_0xS(1483)][_0xS(1487)][_0xS(761)][_0xS(712)]elseif af==10 then ag
+=workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1488)][_0xS(761)][_0xS(712)]
 end if ag then return ag[_0xS(159)]end end end do getRT=function(af)local ag for
 ah,ai in pairs(workspace[_0xS(954)][_0xS(1105)][_0xS(1494)][_0xS(350)]:
 GetChildren())do if af==1 and ai[_0xS(137)]==_0xS(1489)and ai:FindFirstChild(
-_0xS(273))then ag=ai[_0xS(273)][_0xS(709)]elseif af==2 and ai[_0xS(137)]==_0xS(
-1490)and ai:FindFirstChild(_0xS(273))then ag=ai[_0xS(273)][_0xS(709)]elseif af==
+_0xS(273))then ag=ai[_0xS(273)][_0xS(712)]elseif af==2 and ai[_0xS(137)]==_0xS(
+1490)and ai:FindFirstChild(_0xS(273))then ag=ai[_0xS(273)][_0xS(712)]elseif af==
 3 and ai[_0xS(137)]==_0xS(1491)and ai:FindFirstChild(_0xS(273))then ag=ai[_0xS(
-273)][_0xS(709)]elseif af==4 and ai[_0xS(137)]==_0xS(1492)and ai:FindFirstChild(
-_0xS(273))then ag=ai[_0xS(273)][_0xS(709)]elseif af==5 and ai[_0xS(137)]==_0xS(
-1493)and ai:FindFirstChild(_0xS(273))then ag=ai[_0xS(273)][_0xS(709)]end if ag
+273)][_0xS(712)]elseif af==4 and ai[_0xS(137)]==_0xS(1492)and ai:FindFirstChild(
+_0xS(273))then ag=ai[_0xS(273)][_0xS(712)]elseif af==5 and ai[_0xS(137)]==_0xS(
+1493)and ai:FindFirstChild(_0xS(273))then ag=ai[_0xS(273)][_0xS(712)]end if ag
 then return ag[_0xS(159)]end end end end do GetFirePlacard=function(af,ag)if
 tostring(workspace[_0xS(954)][_0xS(1105)][_0xS(1495)..af][_0xS(1496)][_0xS(1497)
 ][_0xS(1154)])~=_0xS(1498)then fireclickdetector(workspace[_0xS(954)][_0xS(1105)
@@ -4664,7 +4668,7 @@ InvokeServer(_0xS(1499),_0xS(336))[_0xS(1500)]==false then Quest1=true Quest2=
 false Quest3=false Quest4=false local af=GetConnectionEnemies(_0xS(115))if af
 then while true do task[_0xS(294)]()k[_0xS(146)](af,_G[_0xS(424)])if _G[_0xS(424
 )]then if af[_0xS(134)][_0xS(140)]<=0 or not af[_0xS(182)]or workspace[_0xS(954)
-][_0xS(1105)][_0xS(1501)][_0xS(707)]~=Color3[_0xS(573)](117,0,0)then break end
+][_0xS(1105)][_0xS(1501)][_0xS(710)]~=Color3[_0xS(573)](117,0,0)then break end
 else break end end else _tp(CFrame[_0xS(101)](-10170.7275390625,
 138.6524658203125,5934.26513671875))end elseif replicated[_0xS(31)][_0xS(32)]:
 InvokeServer(_0xS(1499),_0xS(336))[_0xS(1502)]==false then Quest1=false Quest2=
@@ -4697,12 +4701,12 @@ _0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1510)]:FindFirstChild(_0xS(1472)))
 fireclickdetector(workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1511)]:
 FindFirstChild(_0xS(1472)))fireclickdetector(workspace[_0xS(954)][_0xS(1105)][
 _0xS(1483)][_0xS(1512)]:FindFirstChild(_0xS(1472)))if workspace[_0xS(954)][_0xS(
-1105)][_0xS(1483)][_0xS(1508)][_0xS(758)][_0xS(709)][_0xS(159)]==0 then break
-elseif workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1509)][_0xS(758)][_0xS(
-709)][_0xS(159)]==0 or workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1510)][
-_0xS(758)][_0xS(709)][_0xS(159)]==0 or workspace[_0xS(954)][_0xS(1105)][_0xS(
-1483)][_0xS(1511)][_0xS(758)][_0xS(709)][_0xS(159)]==0 or workspace[_0xS(954)][
-_0xS(1105)][_0xS(1483)][_0xS(1512)][_0xS(758)][_0xS(709)][_0xS(159)]==0 then
+1105)][_0xS(1483)][_0xS(1508)][_0xS(761)][_0xS(712)][_0xS(159)]==0 then break
+elseif workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1509)][_0xS(761)][_0xS(
+712)][_0xS(159)]==0 or workspace[_0xS(954)][_0xS(1105)][_0xS(1483)][_0xS(1510)][
+_0xS(761)][_0xS(712)][_0xS(159)]==0 or workspace[_0xS(954)][_0xS(1105)][_0xS(
+1483)][_0xS(1511)][_0xS(761)][_0xS(712)][_0xS(159)]==0 or workspace[_0xS(954)][
+_0xS(1105)][_0xS(1483)][_0xS(1512)][_0xS(761)][_0xS(712)][_0xS(159)]==0 then
 break end end elseif replicated[_0xS(31)][_0xS(32)]:InvokeServer(_0xS(1499),
 _0xS(336))[_0xS(1513)]==false then Quest1=false Quest2=false Quest3=false Quest4
 =true _tp(workspace[_0xS(954)][_0xS(1105)][_0xS(1514)][_0xS(1515)][_0xS(214)][
@@ -5212,10 +5216,10 @@ end spawn(function()while wait(0.1)do if _G[_0xS(455)]then pcall(function()if
 replicated[_0xS(31)][_0xS(32)]:InvokeServer(_0xS(1448))[_0xS(1449)]==nil and plr
 [_0xS(12)][_0xS(13)][_0xS(14)]>=1500 then FruitPrice={}FruitStore={}local af=
 next local ag,ah=replicated:WaitForChild(_0xS(31))[_0xS(32)]:InvokeServer(_0xS(
-1455))for ai,aj in af,ag,ah do if aj[_0xS(1456)]>=1000000 then table[_0xS(751)](
+1455))for ai,aj in af,ag,ah do if aj[_0xS(1456)]>=1000000 then table[_0xS(754)](
 FruitPrice,aj[_0xS(137)])end end for ai,aj in pairs(replicated[_0xS(31)][_0xS(32
 )]:InvokeServer(_0xS(1454)))do for ak,al in pairs(aj)do if ak==_0xS(137)then
-table[_0xS(751)](FruitStore,al)end end replicated[_0xS(31)][_0xS(32)]:
+table[_0xS(754)](FruitStore,al)end end replicated[_0xS(31)][_0xS(32)]:
 InvokeServer(_0xS(1655),_0xS(1206))for ak,al in pairs(FruitPrice)do for am,an in
 pairs(FruitStore)do if al==an then if replicated[_0xS(31)][_0xS(32)]:
 InvokeServer(_0xS(1448))[_0xS(1449)]==nil then _G[_0xS(1656)]=false if plr[_0xS(
@@ -8850,7 +8854,7 @@ wait(0.2)do pcall(function()if _G[_0xS(211)]then if _G[_0xS(2291)]or _G[_0xS(
 2293)]then aj:SetText(_0xS(2295)..Checking_AimStatus().._0xS(2296))else aj:
 SetText(_0xS(2297))end else aj:SetText(_0xS(2298))end end)end end)end do local
 aj={}local ak=game:GetService(_0xS(7))for al,am in pairs(ak:GetChildren())do
-table[_0xS(751)](aj,am[_0xS(137)])end GRP_Combat_Combat_AimBot:AddDropdown(_0xS(
+table[_0xS(754)](aj,am[_0xS(137)])end GRP_Combat_Combat_AimBot:AddDropdown(_0xS(
 2299),{Text=_0xS(2300),Values=aj,Default=1,Callback=function(al)_G[_0xS(2301)]=
 al end})end GRP_Combat_Combat_AimBot:AddToggle(_0xS(2302),{Text=_0xS(2303),
 Default=false,Callback=function(aj)_G[_0xS(389)]=aj spawn(function()pcall(
@@ -8991,7 +8995,7 @@ GRP_Travel_Travel_Worlds:AddButton({Text=_0xS(2374),Func=function()end})end do
 GRP_Travel_Travel_Worlds:AddButton({Text=_0xS(2375),Func=function()end})end
 GRP_Travel_Travel_Island=ac[_0xS(2371)]:AddLeftGroupbox(_0xS(2376))Location={}
 for aj,ak in pairs(workspace[_0xS(304)][_0xS(305)]:GetChildren())do table[_0xS(
-751)](Location,ak[_0xS(137)])end do Travelllll=GRP_Travel_Travel_Island:
+754)](Location,ak[_0xS(137)])end do Travelllll=GRP_Travel_Travel_Island:
 AddDropdown(_0xS(2377),{Text=_0xS(2378),Values=Location,Default=1,Callback=
 function(aj)_G[_0xS(2379)]=aj end})end do GoIsland=GRP_Travel_Travel_Island:
 AddToggle(_0xS(2380),{Text=_0xS(2381),Default=false,Callback=function(aj)_G[
@@ -9016,7 +9020,7 @@ Vector3[_0xS(101)](5722,611,-274),[_0xS(332)]=Vector3[_0xS(101)](28286,14896,103
 )}local ak=aj[_G[_0xS(2391)] ]if ak then ag[_0xS(31)][_0xS(32)]:InvokeServer(
 _0xS(322),ak)end end)end})end GRP_Travel_Travel_NPCs=ac[_0xS(2371)]:
 AddLeftGroupbox(_0xS(2393))for aj,ak in pairs(ag[_0xS(538)]:GetChildren())do
-table[_0xS(751)](NPCList,ak[_0xS(137)])end do NPCsPos=GRP_Travel_Travel_NPCs:
+table[_0xS(754)](NPCList,ak[_0xS(137)])end do NPCsPos=GRP_Travel_Travel_NPCs:
 AddDropdown(_0xS(2394),{Text=_0xS(2395),Values=NPCList,Default=1,Callback=
 function(aj)_G[_0xS(404)]=aj end})end do GoNPCs=GRP_Travel_Travel_NPCs:
 AddToggle(_0xS(2396),{Text=_0xS(2397),Default=false,Callback=function(aj)_G[
@@ -9329,7 +9333,7 @@ wait()game[_0xS(17)][_0xS(2644)]=Color3[_0xS(573)](33,33,33)game[_0xS(17)][_0xS(
 223)]=0.3 if not _G[_0xS(2641)]then break end if ai[_0xS(9)]then if ai[_0xS(9)]:
 FindFirstChild(_0xS(10))then if not ai[_0xS(9)][_0xS(10)]:FindFirstChild(_0xS(
 2648))then local ar=Instance[_0xS(101)](_0xS(2649))ar[_0xS(137)]=_0xS(2648)ar[
-_0xS(182)]=ai[_0xS(9)][_0xS(10)]ar[_0xS(2650)]=15 ar[_0xS(707)]=Color3[_0xS(573)
+_0xS(182)]=ai[_0xS(9)][_0xS(10)]ar[_0xS(2650)]=15 ar[_0xS(710)]=Color3[_0xS(573)
 ](217,145,57)end end end end end)else pcall(function()if OldAmbient then game[
 _0xS(17)][_0xS(2644)]=OldAmbient end if OldBrightness then game[_0xS(17)][_0xS(
 223)]=OldBrightness end if OldColorShift_Top then game[_0xS(17)][_0xS(2645)]=
@@ -9375,7 +9379,7 @@ Callback=function(ao)_G[_0xS(2681)]=ao end})end do spawn(function()while task[
 _0xS(294)]()do if _G[_0xS(2681)]then pcall(function()if ai[_0xS(9)]then if ai[
 _0xS(9)]:FindFirstChild(_0xS(2682))then local ao=an[_0xS(1325)][_0xS(2662)][
 _0xS(2663)]:Clone()ao[_0xS(182)]=workspace ao[_0xS(192)]=Vector3[_0xS(101)](3+
-math[_0xS(289)](10,12),1.7,3+math[_0xS(289)](10,12))ao[_0xS(707)]=Color3[_0xS(
+math[_0xS(289)](10,12),1.7,3+math[_0xS(289)](10,12))ao[_0xS(710)]=Color3[_0xS(
 573)](128,187,219)ao[_0xS(148)]=CFrame[_0xS(101)](ai[_0xS(9)][_0xS(1405)][_0xS(
 142)][_0xS(160)],-3.8,ai[_0xS(9)][_0xS(1405)][_0xS(142)][_0xS(159)])*CFrame[
 _0xS(152)]((math[_0xS(289)]()-0.5)*0.06,math[_0xS(289)]()*7,(math[_0xS(289)]()-
@@ -9388,9 +9392,9 @@ return false end local aq=ap:FindFirstChild(_0xS(134))return aq and aq[_0xS(140)
 :GetChildren()local as=game:GetService(_0xS(7)):GetPlayers()local at={}local au=
 ap:GetPivot()[_0xS(142)]for av,aw in ipairs(ar)do local ax=aw:FindFirstChild(
 _0xS(10))if ax and v1503(aw)and(ax[_0xS(142)]-au)[_0xS(143)]<=aq then table[
-_0xS(751)](at,aw)end end for av,aw in ipairs(as)do if aw~=ao and aw[_0xS(9)]then
+_0xS(754)](at,aw)end end for av,aw in ipairs(as)do if aw~=ao and aw[_0xS(9)]then
 local ax=aw[_0xS(9)]:FindFirstChild(_0xS(10))if ax and v1503(aw[_0xS(9)])and(ax[
-_0xS(142)]-au)[_0xS(143)]<=aq then table[_0xS(751)](at,aw[_0xS(9)])end end end
+_0xS(142)]-au)[_0xS(143)]<=aq then table[_0xS(754)](at,aw[_0xS(9)])end end end
 return at end AttackNoCoolDown=function()local ap=game:GetService(_0xS(7))[_0xS(
 8)]local aq=ap[_0xS(9)]if not aq then return end local ar local as,at,au=ipairs(
 aq:GetChildren())local av=geniter(as,at,au)while true do local aw=table[_0xS(4)
@@ -9403,7 +9407,7 @@ WaitForChild(_0xS(130)):WaitForChild(_0xS(2685))if not az or not aA then return
 end local aB={}local aC local aD,aE,aF=ipairs(aw)for aG,aH in aD,aE,aF do if not
 aH:GetAttribute(_0xS(2686))then local aI={_0xS(2687),_0xS(2688),_0xS(2689),_0xS(
 2690),_0xS(2691),_0xS(2692)}local aJ=aH:FindFirstChild(aI[math[_0xS(289)](#aI)])
-or aH[_0xS(295)]if aJ then table[_0xS(751)](aB,{aH,aJ})aC=aJ end end end if not
+or aH[_0xS(295)]if aJ then table[_0xS(754)](aB,{aH,aJ})aC=aJ end end end if not
 aC then return end az:FireServer(0)local aG=ap:FindFirstChild(_0xS(2693))if not
 aG then return end local aH=aG:FindFirstChildOfClass(_0xS(2694))while not aH do
 aG[_0xS(2695)]:Wait()aH=aG:FindFirstChildOfClass(_0xS(2694))end local aI if
@@ -9440,12 +9444,12 @@ true,IsAlive=function(ax)local ay=ax:FindFirstChild(_0xS(134))if ay and ay[_0xS(
 local az=ax:GetPivot()[_0xS(142)]local aA={}local aB=ay:GetChildren()for aC=1,#
 aB do local aD=aB[_0xS(869)]local aE=aD:FindFirstChild(_0xS(134))local aF=aD:
 FindFirstChild(_0xS(10))if aE and aF and aE[_0xS(140)]>0 and(aF[_0xS(142)]-az)[
-_0xS(143)]<=60 then table[_0xS(751)](aA,aD)end end return aA end}local function 
+_0xS(143)]<=60 then table[_0xS(754)](aA,aD)end end return aA end}local function 
 getTargetParts(ay)local az={}for aA=1,#ay do local aB=ay[_0xS(869)]local aC=aB:
-FindFirstChild(_0xS(1405))or aB[_0xS(295)]if aC then table[_0xS(751)](az,{aB,aC}
+FindFirstChild(_0xS(1405))or aB[_0xS(295)]if aC then table[_0xS(754)](az,{aB,aC}
 )end end return az end ax[_0xS(2704)]=getTargetParts ax[_0xS(2705)]=function(ay)
 local az=ax[_0xS(2706)](ay,at)local aA=ax[_0xS(2706)](ay,au)local aB={}for aC=1,
-#az do table[_0xS(751)](aB,az[_0xS(869)])end for aC=1,#aA do table[_0xS(751)](aB
+#az do table[_0xS(754)](aB,az[_0xS(869)])end for aC=1,#aA do table[_0xS(754)](aB
 ,aA[_0xS(869)])end return aB end ax[_0xS(2707)]=function()local ay=as[_0xS(9)]if
 not ay then return end if not ay:FindFirstChildOfClass(_0xS(135))then return end
 local az=ax[_0xS(2705)](ay)if#az<1 then return end local aA=ax[_0xS(2704)](az)if
@@ -9462,7 +9466,7 @@ function v1610(aD)local aE=aD:GetChildren()for aF=1,#aE do local aG=aE[_0xS(869)
 ]local aH=aG:FindFirstChild(_0xS(134))local aI=aG:FindFirstChild(_0xS(10))if aH
 and aI and aH[_0xS(140)]>0 and aG~=aA and(aI[_0xS(142)]-aB[_0xS(142)])[_0xS(143)
 ]<=60 then local aJ=aG:GetChildren()for aK,aL in ipairs(aJ)do if aL:IsA(_0xS(297
-))then table[_0xS(751)](aC,{aG,aL})end end end end end v1610(at)v1610(au)local
+))then table[_0xS(754)](aC,{aG,aL})end end end end end v1610(at)v1610(au)local
 aD=aA:FindFirstChildOfClass(_0xS(135))if#aC>0 and aD and(aD:GetAttribute(_0xS(
 2711))==_0xS(166)or aD:GetAttribute(_0xS(2711))==_0xS(156))then local aE=av[
 _0xS(130)][_0xS(2712)]:InvokeServer()local aF=aw[_0xS(2685)]aw[_0xS(2684)]:
