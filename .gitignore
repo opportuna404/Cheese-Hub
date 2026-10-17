@@ -1,6 +1,8 @@
 # Sensitive raw sources and dumps
 Cheese hub.lua
 Cheese_hub_clear_backup.lua
+BananaHub*.lua
+SpeedHub*.lua
 roblox_dump.txt
 wiki_parsed.txt
 benchmark.lua
