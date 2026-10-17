@@ -4,6 +4,9 @@ Cheese_hub_clear_backup.lua
 roblox_dump.txt
 wiki_parsed.txt
 benchmark.lua
+dumper.lua
+dump_*.txt
+CheeseHub_Dump_*.txt
 
 # Build and test artifacts
 *.py
